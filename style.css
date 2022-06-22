@@ -41,7 +41,11 @@ area{
     font-family: 'Pinyon Script', cursive;
 }
 
-
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+}
 
 
 
@@ -70,8 +74,9 @@ th {
     color: white;
 }
 td, th {
-    font-size: 1rem;
+    font-size: 4rem;
     border: 1px solid #ddd;
     padding: 8px;
 }
+
 tr:nth-child(odd){background-color: #f2f2f2;}
