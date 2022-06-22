@@ -1,0 +1,541 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>Event Guide</title>
+    <style>
+        body{
+            margin:0;
+            font-family: Tahoma, Verdana, Segoe, sans-serif;
+        }
+        .parent {
+        position: relative;
+        top: 0;
+        left: 0;
+        zoom: 0.5;
+        }
+        .label {
+          position: absolute;
+          top: 0;
+          left: 0;
+          font-size: 4rem;
+          background-color: khaki;
+          padding:.5rem 1rem;
+          font-family:Arial, Helvetica, sans-serif;
+        }
+        .image1 {
+        position: relative;
+        top: 0;
+        left: 0;
+        }
+        .pin {
+        position: absolute;
+        visibility:hidden
+        }
+        area{
+            cursor:pointer;
+        }
+        span{
+            background-color:rgb(174, 243, 243);
+        }
+        a.map:link {
+        color: white;
+        background-color: #800000;
+        text-decoration: none;
+        }
+
+        /* visited link */
+        a.map:visited {
+            color: white;
+        background-color: #800000;
+        text-decoration: none;
+        }
+
+        /* mouse over link */
+        a.map:hover {
+            color: white;
+        background-color: red;
+        text-decoration: none;
+        }
+
+        /* selected link */
+        a.map:active {
+            color: white;
+        background-color: #800000;
+        text-decoration: none;
+        }
+
+        table{
+          border-collapse: collapse;
+        }
+        th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #025802;
+            color: white;
+        }
+        td, th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        tr:nth-child(odd){background-color: #f2f2f2;}
+    </style>
+    <script>
+        function place_necessary(){
+            place_pin({dataset:{x:'2987',y:'946',name:"The necessary"}})
+            place_pin({dataset:{x:'327',y:'1107',name:"The necessary"}},false)
+            place_pin({dataset:{x:'1493',y:'1845',name:"The necessary"}},false)
+            place_pin({dataset:{x:'4465',y:'1139',name:"The necessary"}},false)
+            place_pin({dataset:{x:'3567',y:'3359',name:"The necessary"}},false)
+        }
+        function place_welcome(){
+            place_pin({dataset:{x:'1895',y:'2000',name:"Welcome Table"}})
+            place_pin({dataset:{x:'1821',y:'455',name:"Welcome Table"}},false)
+            place_pin({dataset:{x:'3103',y:'3349',name:"Welcome Table"}},false)
+            place_pin({dataset:{x:'4531',y:'1751',name:"Welcome Table"}},false)
+        }
+        function place_first_aid(){
+            place_pin({dataset:{x:'1809',y:'2081',name:"First-Aid Station"}})
+            place_pin({dataset:{x:'1741',y:'457',name:"First-Aid Station"}},false)
+            place_pin({dataset:{x:'3205',y:'3357',name:"First-Aid Station"}},false)
+        }
+        function place_well(){
+            place_pin({dataset:{x:'2941',y:'1829',name:"Ice Water"}})
+            place_pin({dataset:{x:'1585',y:'491',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'957',y:'1663',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'2493',y:'1723',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'4091',y:'2095',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'4105',y:'2731',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'3261',y:'2613',name:"Ice Water"}},false)
+            place_pin({dataset:{x:'3471',y:'2029',name:"Ice Water"}},false)
+        }
+
+
+        function place_pin(area, clear=true){
+
+            if(clear){
+                clear_all_pins()
+            }
+            const pin = document.createElement('img')
+            pin.src = 'pin.svg'
+            pin.width=150
+            pin.className="pin"
+            tag('map-div').appendChild(pin)
+
+            //<div id="label" class="label">Label Text</div>
+            const label = document.createElement('div')
+            label.className="label"
+            tag('map-div').appendChild(label)
+
+
+            const x=area.dataset.x
+            const y=area.dataset.y
+            console.log("at place pin")
+            pin.style.visibility="visible"
+            let left=(x-75)+"px"
+            let top=(y-225)+"px"
+            console.log(top,left)
+
+            pin.style.left=left
+            pin.style.top=top
+            
+            label.innerHTML=area.dataset.name
+ 
+            label.style.left=(parseInt(area.dataset.x)-(label.offsetWidth/2))+"px"
+            label.style.top=(parseInt(area.dataset.y)-245-label.offsetHeight)+"px"
+            console.log(label.offsetWidth)
+            if(clear){
+              label.scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+            }
+        }
+
+        function tag(id){
+            return document.getElementById(id)
+        }
+
+        function clear_all_pins(){
+            document.querySelectorAll('.pin').forEach(item => {item.remove()});
+            document.querySelectorAll('.label').forEach(item => {item.remove()});
+        }
+
+        function add_area(coords,y,x,name){
+            let element = document.createElement( "AREA" )
+            element.shape = "rect"
+            element.coords = coords
+            element.onclick = function() {place_pin(this)}
+            element.dataset.x=x
+            element.dataset.y=y
+            element.dataset.name=name
+            tag("image-map").appendChild( element )
+
+            element = document.createElement( "AREA" )
+            element.shape = "circle"
+            let c=x + "," + (parseInt(y)+35) + "," + 50
+            console.log(c)
+            element.coords = c
+            element.onclick = function() {place_pin(this)}
+            element.dataset.x=x
+            element.dataset.y=y
+            element.dataset.name=name
+            tag("image-map").appendChild( element )
+
+        }
+        function make_map(){
+            add_area('200,2190,820,2330','1913','2239','Gift Shop & Festival Information')
+add_area('200,2330,820,2400','1820','2239','Brooker’s Ice Cream')
+add_area('200,2400,820,2470','1700','1127','South Meeting House')
+add_area('200,2470,820,2540','1733','735','Josiah Harmar Camp')
+add_area('200,2540,820,2610','1583','539','Louisiana Governor')
+add_area('200,2610,820,2680','1489','467','Militiaman')
+add_area('200,2680,820,2750','1471','953','Mad Hatter')
+add_area('200,2750,820,2820','1397','1171','Founders’ Corner')
+add_area('200,2820,820,2890','1331','879','The Georges')
+add_area('200,2890,820,2960','1259','709','Cup and Quill')
+add_area('200,2960,820,3030','1150','600','Colonial Cooking')
+add_area('200,3030,820,3100','1041','475','American Mess')
+add_area('200,3100,820,3170','1074','757','American Camp')
+add_area('200,3170,820,3240','900','805','Military Surgeon')
+add_area('200,3240,820,3353','600','1025','Period Men’s fashion (military and civilian)')
+add_area('200,3353,820,3423','453','1187','Fighting Quaker Forge')
+add_area('200,3423,820,3493','341','1451','Naval Recruitment')
+add_area('200,3493,820,3563','953','1903','Continental Field')
+add_area('200,3563,820,3633','1307','2571','Dancing at 1:00, 1:30, 3:30')
+add_area('200,3633,820,3703','1389','2562','Lucet Class at 12:30, 4:30')
+add_area('821,2609,1430,2725','1745','2679','Historic Conversations')
+add_area('821,2725,1430,2795','1911','2825','Children’s Games')
+add_area('821,2795,1430,2865','1883','3119','Children’s Chores')
+add_area('821,2865,1430,2935','2007','3003','Colonial School')
+add_area('821,2935,1430,3005','1971','3257','Mayflower')
+add_area('821,3005,1430,3075','2183','3221','Culper Spy Ring HQ')
+add_area('821,3075,1430,3145','2439','2819','King’s Field')
+add_area('821,3145,1430,3215','2719','3087','British Encampment')
+add_area('821,3215,1430,3285','2833','3197','Laundress')
+add_area('821,3285,1430,3355','2881','3341','Painted Hog Tavern')
+add_area('821,3355,1430,3425','2983','3463','Colonial Living')
+add_area('821,3425,1430,3495','3109','3357','Interpreter Camp')
+add_area('821,3495,1430,3565','3175','2823','Gray’s Rope Walk')
+add_area('821,3565,1430,3705','3063','3837','Carol’s Station, a Frontier Village')
+add_area('1431,2805,2000,2875','2725','3303','Smallpox Inoculation')
+add_area('1431,2875,2000,2945','2753','3473','Book Binder')
+add_area('1431,2945,2000,3015','2733','3595','Historic Documents')
+add_area('1431,3015,2000,3085','2883','3597','Calligrapher')
+add_area('1431,3085,2000,3155','2755','3755','Print Shop')
+add_area('1431,3155,2000,3225','2785','3881','Paper Making')
+add_area('1431,3225,2000,3295','2697','3987','Luthier (fiddle maker)')
+add_area('1431,3295,2000,3365','2599','4117','Steward’s Woodwork')
+add_area('1431,3365,2000,3435','2481','4225','Coffin Maker')
+add_area('1431,3435,2000,3505','2359','4200','Potter')
+add_area('1431,3505,2000,3575','2251','4031','Chandlery')
+add_area('1431,3575,2000,3645','2201','3837','Wildwood Mercantile')
+add_area('1431,3645,2000,3715','2205','3685','Broom Maker')
+add_area('4557,2113,5000,2183','2205','3573','Cooper')
+add_area('4557,2183,5000,2253','2139','3639','Apothecary')
+add_area('4557,2253,5000,2323','2207','3453','Basket Maker')
+add_area('4557,2323,5000,2393','2071','3881','Pillory')
+add_area('4557,2393,5000,2463','2183','4427','Fiber Arts')
+add_area('4557,2463,5000,2533','1965','4425','Bakery')
+add_area('4557,2533,5000,2603','1841','4243','Maria’s Lemonade')
+add_area('5001,2113,5500,2183','1721','4367','Spoon Maker')
+add_area('5001,2183,5500,2253','1857','4825','Jolley Art')
+add_area('5001,2253,5500,2393','751','4763','Food Truck Round-up')
+add_area('5001,2393,5500,2463','827','4285','Dining Area')
+add_area('5001,2463,5500,2603','371','3415','Military History Motor Pool')
+
+
+
+        }
+    </script>
+</head>
+<body onload="make_map()">
+
+    <div class="parent" id="map-div">
+        <img class="image1" src="map.png" usemap="#image-map"/>
+        <map name="image-map" id="image-map">
+            <area onclick="place_welcome()" coords="4577,2722,5336,2967" shape="rect">
+            <area onclick="place_welcome()"  coords="1790,469,1866,545" shape="rect">
+            <area onclick="place_welcome()"  coords="1846,2003,1943,2095" shape="rect">
+            <area onclick="place_welcome()"  coords="4495,1749,4577,1845" shape="rect">
+            <area onclick="place_welcome()"  coords="3059,3354,3150,3446" shape="rect">   
+
+            <area onclick="place_first_aid()" coords="4577,2967,5336,3201" shape="rect">
+            <area onclick="place_first_aid()"  coords="1693,459,1790,551" shape="rect">
+            <area onclick="place_first_aid()"  coords="1764,2088,1851,2164" shape="rect">
+            <area onclick="place_first_aid()"  coords="3166,3362,3247,3438" shape="rect">
+                        
+            <area onclick="place_necessary()" coords="4577,3201,5336,3456" shape="rect">
+            <area onclick="place_necessary()"  coords="256,1121,373,1254" shape="rect">
+            <area onclick="place_necessary()"  coords="2906,948,3043,1101" shape="rect">
+            <area onclick="place_necessary()"  coords="1433,1856,1555,1998" shape="rect">
+            <area onclick="place_necessary()"  coords="4404,1127,4531,1305" shape="rect">
+            <area onclick="place_necessary()"  coords="3502,3354,3639,3517" shape="rect">            
+            
+            <area onclick="place_well()" coords="4572,3456,5336,3665" shape="rect">
+            <area onclick="place_well()"  coords="1530,477,1652,594" shape="rect">
+            <area onclick="place_well()"  coords="903,1675,1020,1771" shape="rect">
+            <area onclick="place_well()"  coords="2442,1720,2554,1822" shape="rect">
+            <area onclick="place_well()"  coords="2885,1822,3008,1935" shape="rect">
+            <area onclick="place_well()"  coords="3420,2026,3527,2128" shape="rect">
+            <area onclick="place_well()"  coords="4037,2093,4144,2195" shape="rect">
+            <area onclick="place_well()"  coords="4047,2725,4154,2837" shape="rect">
+            <area onclick="place_well()"  coords="3201,2618,3308,2720" shape="rect">
+
+        </map>      
+    </div>
+    <h1>
+        Colonial Heritage Festival
+    </h1>
+    <h2>
+        July 2, 3, 5 of 2021
+    </h2>
+
+<a href="2021.pdf">Full PDF version of this schedule</a>
+
+    <table>
+        <tr><th colspan="2">Ongoing activities</th></tr>
+        <tr>
+            <td>Spy Ring<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>General Washington is establishing a spy network and is in desperate need of intelligence! If you are willing to risk your personal safety for the cause of liberty, point your electronic communications device to <a href="https://culper.web.app" class="map" target="_blank">https://culper.web.app</a> or
+                find the agent at the sign of the codfish.  Ask, “Will you fish for cod in January?” Only the true agent will give you further instructions.</td>
+        </tr>
+        <tr>
+            <td>Scavanger Hunt<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28621831560954%2C-111.68770666020177" target="map" class="map">Gift Shop: #1</a></td>
+            <td>Follow the clues and write down interesting facts about various festival exhibits.  Return your completed page to the gift shop for a chance to win Brooker’s Ice Cream. </td>
+            
+        </tr>
+        <tr><th colspan="2">9:00 am</th></tr>
+        <tr>
+            <td>Continental Artillery<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>Begin the day as Continental forces load and fire the cannon typical of the Revolutionary
+                War. </td>
+        </tr>
+        <tr><th colspan="2">9:30 am</th></tr>
+        <tr>
+            <td>British Drill<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28593186757451%2C-111.68741698163996" target="map" class="map">King's Field: #28</a></td>
+            <td>Watch as the Crown Forces ready themselves with daily marches and drills. </td>
+            
+        </tr>
+        <tr><th colspan="2">10:00 am</th></tr>
+        <tr>
+            <td>Military Skirmish<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28593186757451%2C-111.68741698163996" target="map" class="map">King's Field: #28</a></td>
+            <td>Witness a skirmish between the Americans (Continental soldiers & Militia) and the British Crown Forces. 
+            <br /><span>Saturday and Monday only.</span>
+           </td>
+        </tr>
+        <tr>
+            <td>Phyllis Wheatly<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Meet this celebrated woman and hear her journey from slave to published poet.</td>
+            
+        </tr>
+        <tr><th colspan="2">10:30 am</th></tr>
+        <tr>
+            <td>Tea Tax Debate<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Decide if you will march upon the ships in the harbor that carry the King’s tea.  
+            <br /><span>An audience involved event.  Arrive early to participate.</span>
+            </td>            
+        </tr>
+        <tr>
+            <td>Lucet Class<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28660297248995%2C-111.688736628421543" target="map" class="map">Cup and Quill: #9</a></td>
+            <td>Learn to work this ancient tool for making cordage used for laces, draw-strings and other places where strong cord is needed.
+                <br /><span>A hands-on class limited seating.</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Patrick
+                Ferguson<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Visit a tavern and be recruited by one of the world’s best marksmen to fight in the American Revolution.     
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">11:00 am</th></tr>
+        <tr>
+                <td>Continental Army & Children's Militia<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+                <td>Young patriots are invited to join the militia to muster as they march through the Colonial Village.  Followed by Continental artillery and infantry, firing of musket volleys and cannon.  ar. 
+                    <br /><span>An audience involved event.  Arrive early to participate.</span>
+
+                </td>
+        </tr>
+        <tr><th colspan="2">11:30 am</th></tr>
+        <tr>
+            <td>Boston
+                Massacre at King’s Street<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>In an exciting, storytelling format, appropriate for all ages, UVU Professor, Dr. Greg Jackson will share details of the events leading to and including the Boston Massacre.  
+            <br /><span>Dr. Jackson is the creator of the popular podcast <a href="https://historythatdoesntsuck.com/" target="_blank" class="map">“History that Doesn’t Suck”</a>.</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Calligraphy Class I<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28660297248995%2C-111.688736628421543" target="map" class="map">Cup and Quill: #9</a></td>
+            <td>Learn a few basics strokes that form all letters in 18th century script.  This beginners’ class is appropriate for all who can operate a pencil.
+                <br /><span>A hands-on class limited seating.</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Common Songs of the 18th Century<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Come listen and sing along with British and American songs popular in the 18th century.      
+            <br />
+            </td>
+        </tr>    
+        <tr>
+            <td>Young Apothecary<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286999903358854%2C-111.6885327805447" target="map" class="map">Young Apothecary: #15</a></td>
+            <td>Learn from this amazing, young colonial entrepreneur about the medicinal uses of tea and herbs in the eighteenth century.       
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">Noon</th></tr>
+        <tr>
+            <td>Trial of the Boston 
+                Massacre<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Dr. Greg Jackson continues his exciting narrative of the Boston Massacre including the trial and outcome.  Will the soldiers be convicted of murder?  Come find out!  
+            </td>
+            
+        </tr>
+        <tr><th colspan="2">12:30 pm</th></tr>
+        <tr>
+            <td>The Revolution from a “Billy” point of view<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Come listen to different perspectives on the American Revolution as told by Billy Lee and Billy Flora, both of African descent, one enslaved, one free.    
+            </td>
+            
+        </tr>
+        <tr><th colspan="2">1:00 pm</th></tr>
+        <tr>
+            <td>John Adams on the Boston Massacre<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Knowing it could end his career, John Adams defended eight British soldiers involved in the Bloody Massacre at King’s Street.  Why?  
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Calligraphy Class II<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28660297248995%2C-111.688736628421543" target="map" class="map">Cup and Quill: #9</a></td>
+            <td>Learn to write with quill and ink.  This class is appropriate for adults and mature youth with developed fine motor skills.  A small supply fee applies.  
+                <br /><span>A hands-on class limited seating.</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Colonial Dance 
+                Instruction<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28661115665511%2C-111.68754036324961" target="map" class="map">Dancing: #21</a></td>
+            <td>Come join in one of the colonists favorite diversions: dance. Learn some of the dances of the era.       
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">1:30 pm</th></tr>
+        <tr>
+            <td>Young Apothecary<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286999903358854%2C-111.6885327805447" target="map" class="map">Young Apothecary: #15</a></td>
+            <td>Come learn the recipes for beauty in the eighteenth century.       
+            <br />
+            </td>
+        </tr>    
+        <tr>
+            <td>Conversation with Adams and Franklin<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas.  
+            </td>
+            
+        </tr>
+        <tr><th colspan="2">2:00 pm</th></tr>
+        <tr>
+            <td>Declaration of Independence<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas.   
+            </td>
+            
+        </tr>
+        <tr><th colspan="2">2:30 pm</th></tr>
+        <tr>
+                <td>Continental Army & Children's Militia<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+                <td>Young patriots are invited to join the militia to muster as they march through the Colonial Village.  Followed by Continental artillery and infantry, firing of musket volleys and cannon.  ar. 
+                    <br /><span>An audience involved event.  Arrive early to participate.</span>
+
+                </td>
+        </tr>
+        <tr>
+            <td>Patrick
+                Ferguson<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Visit a tavern and be recruited by one of the world’s best marksmen to fight in the American Revolution.     
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">3:00 pm</th></tr>
+        <tr>
+            <td>Liber-tea<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28660297248995%2C-111.688736628421543" target="map" class="map">Cup and Quill: #9</a></td>
+            <td>Enjoy colonial herbal teas, biscuits and tarts while you sit and visit with the founders about the ideas of the Revolution.  Hosted by Lady Redmayne. 
+                <br /><span>Ages 16 and older, seating limited, donations encouraged.</span>
+            </td>            
+        </tr>
+        <tr>
+            <td>Governor 
+                Bernado 
+                de Gálvez<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+            <td>Hear about the Spanish influence in the American Revolution from the Spanish governor of Louisiana.   
+            </td>            
+        </tr>
+        <tr><th colspan="2">3:30 pm</th></tr>
+        <tr>
+            <td>Hog-Stealing Trial<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>One colonist is accused of stealing another’s hog. Watch as the wheels of British justice turn and help decide the fate of the accused.   
+                <br /><span>An audience involved event.  Arrive early to participate.</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td>Colonial Dance 
+                Instruction<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28661115665511%2C-111.68754036324961" target="map" class="map">Dancing: #21</a></td>
+            <td>Come join in one of the colonists favorite diversions: dance. Learn some of the dances of the era.       
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">4:00 pm</th></tr>
+        <td>James
+            Madison<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28632471028481%2C-111.6874920834893" target="map" class="map">Historic Conversations: #22</a></td>
+        <td>Visit with the “Father of the Constitution” and fourth president of the United Satates of America.    
+        <br />
+        </td>
+        <tr>
+            <td>Young Apothecary<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286999903358854%2C-111.6885327805447" target="map" class="map">Young Apothecary: #15</a></td>
+            <td>What does an apothecary do?  Come learn about the “pharmacy” of the 18th century.       
+            <br />
+            </td>
+        </tr>    
+        <tr><th colspan="2">4:30 pm</th></tr>
+        <tr>
+            <td>Benjamin Franklin<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28657432790407%2C-111.68824310198289" target="map" class="map">South Meeting House: #3</a></td>
+            <td>Come be fascinated by visiting with the Sage of America, the Newton of Electricity, the Prophet of Tolerance, Poor Richard himself—Dr. Bejamin Franklin.    
+            </td>
+        </tr>
+        <tr>
+            <td>Shut-the-Box Tournament<br /><a href="https://www.google.com/maps/search/?api=1&query=40.28660297248995%2C-111.688736628421543" target="map" class="map">Cup and Quill: #9</a></td>
+            <td>Enjoy a bit of friendly competition for all ages playing the popular game “Shut the Box,” which dates to the 12th century.  Winners receive delicious prizes.  
+                <br /><span>Appropriate for all ages, seating limited.</span>
+            </td>     
+        </tr>
+        <tr><th colspan="2">5:00 pm</th></tr>
+        <tr>
+            <td>Military Skirmish<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>Witness a skirmish between the Americans (Continental soldiers & Militia) and the British Crown Forces. 
+           </td>
+        </tr>
+        <tr><th colspan="2">5:30 pm</th></tr>
+        <tr>
+            <td>Trooping the Colors<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>Observe American and British Military as they come together to end the day’s activities in 18th century pageantry.  
+           </td> 
+        </tr>
+        <tr><th colspan="2">6:00 pm</th></tr>
+        <tr>
+            <td>Continental Artillery and Infantry<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>Close the day as the Continental forces fire the cannon typical of the Revolutionary War.  Infantry drill and the firing of musket volleys too.  
+           </td>
+        </tr>
+        <tr><th colspan="2">7:00 pm</th></tr>
+        <tr>
+            <td>Colonial
+                Dance<br /><a href="https://www.google.com/maps/search/?api=1&query=40.286320618185016%2C-111.68748135465368" target="map" class="map">Continental Field: #20</a></td>
+            <td>Join a country colonial dance hosted by Ron and Brooke Shaw. Recommended for adults and children old enough to follow instruction and participate in dancing.    
+           <br /><span>Friday Only.</span>
+            </td>
+        </tr>
+
+    </table>    
+</body>
+</html>
