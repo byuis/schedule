@@ -13,15 +13,14 @@
         position: relative;
         top: 0;
         left: 0;
-        zoom: 0.5;
+        
         }
         .label {
+          white-space:nowrap;  
           position: absolute;
-          top: 0;
-          left: 0;
-          font-size: 4rem;
+          font-size: 1rem;
           background-color: khaki;
-          padding:.5rem 1rem;
+          padding:.25rem .5rem;
           font-family:Arial, Helvetica, sans-serif;
         }
         .image1 {
@@ -36,6 +35,8 @@
         area{
             cursor:pointer;
         }
+
+
         span{
             background-color:rgb(174, 243, 243);
         }
@@ -83,33 +84,26 @@
         tr:nth-child(odd){background-color: #f2f2f2;}
     </style>
     <script>
+        const scale = 0.25
         function place_necessary(){
-            place_pin({dataset:{x:'2987',y:'946',name:"The necessary"}})
-            place_pin({dataset:{x:'327',y:'1107',name:"The necessary"}},false)
-            place_pin({dataset:{x:'1493',y:'1845',name:"The necessary"}},false)
-            place_pin({dataset:{x:'4465',y:'1139',name:"The necessary"}},false)
-            place_pin({dataset:{x:'3567',y:'3359',name:"The necessary"}},false)
+            place_pins("The necessary",[[2987,946],[327,1107],[1493,1845],[4465,1139],[3567,3359]])
         }
         function place_welcome(){
-            place_pin({dataset:{x:'1895',y:'2000',name:"Welcome Table"}})
-            place_pin({dataset:{x:'1821',y:'455',name:"Welcome Table"}},false)
-            place_pin({dataset:{x:'3103',y:'3349',name:"Welcome Table"}},false)
-            place_pin({dataset:{x:'4531',y:'1751',name:"Welcome Table"}},false)
+            place_pins("Welcome Table",[[1895,2000],[1821,455],[3103,3349],[4531,1751]])
         }
         function place_first_aid(){
-            place_pin({dataset:{x:'1809',y:'2081',name:"First-Aid Station"}})
-            place_pin({dataset:{x:'1741',y:'457',name:"First-Aid Station"}},false)
-            place_pin({dataset:{x:'3205',y:'3357',name:"First-Aid Station"}},false)
+            place_pins("First-Aid Station",[[1809,2081],[1741,457],[3205,3357]])
         }
         function place_well(){
-            place_pin({dataset:{x:'2941',y:'1829',name:"Ice Water"}})
-            place_pin({dataset:{x:'1585',y:'491',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'957',y:'1663',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'2493',y:'1723',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'4091',y:'2095',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'4105',y:'2731',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'3261',y:'2613',name:"Ice Water"}},false)
-            place_pin({dataset:{x:'3471',y:'2029',name:"Ice Water"}},false)
+            place_pins("Ice Water",[[2941,1829],[1585,491],[957,1663],[2493,1723],[4091,2095],[4105,2731],[3261,2613],[3471,2029]])
+        }
+
+
+        function place_pins(text,pins){
+          for(let x=0;x<pins.length;x++){
+            const pin=pins[x]
+            place_pin({dataset:{x:Math.round(pin[0]*scale),y:Math.round(pin[1]*scale),name:text}},x===0)
+          }
         }
 
 
@@ -120,7 +114,7 @@
             }
             const pin = document.createElement('img')
             pin.src = 'pin.svg'
-            pin.width=150
+            pin.width=Math.round(150*scale)
             pin.className="pin"
             tag('map-div').appendChild(pin)
 
@@ -134,8 +128,8 @@
             const y=area.dataset.y
             console.log("at place pin")
             pin.style.visibility="visible"
-            let left=(x-75)+"px"
-            let top=(y-225)+"px"
+            let left=(x-Math.round(75*scale))+"px"
+            let top=(y-Math.round(225*scale))+"px"
             console.log(top,left)
 
             pin.style.left=left
@@ -144,7 +138,7 @@
             label.innerHTML=area.dataset.name
  
             label.style.left=(parseInt(area.dataset.x)-(label.offsetWidth/2))+"px"
-            label.style.top=(parseInt(area.dataset.y)-245-label.offsetHeight)+"px"
+            label.style.top=(parseInt(area.dataset.y)-Math.round(245*scale)-label.offsetHeight)+"px"
             console.log(label.offsetWidth)
             if(clear){
               label.scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
@@ -159,37 +153,54 @@
             document.querySelectorAll('.pin').forEach(item => {item.remove()});
             document.querySelectorAll('.label').forEach(item => {item.remove()});
         }
+        function add_rect(coords,func){
+            let element = document.createElement( "AREA" )
+            element.shape = "rect"
+            const coord_array = coords.split(",")
+            for(let x=0;x<coord_array.length;x++){
+                coord_array[x]=parseInt(coord_array[x])*scale
+            }
+            element.coords = coord_array.join()
+            element.onclick = func
+            tag("image-map").appendChild( element )
+        }
 
         function add_area(coords,y,x,name){
             let element = document.createElement( "AREA" )
             element.shape = "rect"
-            element.coords = coords
+            const coord_array = coords.split(",")
+            for(let x=0;x<coord_array.length;x++){
+                coord_array[x]=parseInt(coord_array[x])*scale
+            }
+            element.coords = coord_array.join()
+            
             element.onclick = function() {place_pin(this)}
-            element.dataset.x=x
-            element.dataset.y=y
+            element.dataset.x=Math.round(parseInt(x)*scale)
+            element.dataset.y=Math.round(parseInt(y)*scale)
             element.dataset.name=name
             tag("image-map").appendChild( element )
 
             element = document.createElement( "AREA" )
             element.shape = "circle"
-            let c=x + "," + (parseInt(y)+35) + "," + 50
+            let c=Math.round(parseInt(x)*scale) + "," + Math.round((parseInt(y)+35)*scale) + "," + Math.round(50*scale)
             console.log(c)
             element.coords = c
             element.onclick = function() {place_pin(this)}
-            element.dataset.x=x
-            element.dataset.y=y
+            element.dataset.x=Math.round(parseInt(x)*scale)
+            element.dataset.y=Math.round(parseInt(y)*scale)
             element.dataset.name=name
             tag("image-map").appendChild( element )
 
         }
         function make_map(){
+
             add_area('200,2190,820,2330','1913','2239','Gift Shop & Festival Information')
 add_area('200,2330,820,2400','1820','2239','Brooker’s Ice Cream')
 add_area('200,2400,820,2470','1700','1127','South Meeting House')
 add_area('200,2470,820,2540','1733','735','Josiah Harmar Camp')
 add_area('200,2540,820,2610','1583','539','Louisiana Governor')
 add_area('200,2610,820,2680','1489','467','Militiaman')
-add_area('200,2680,820,2750','1471','953','Mad Hatter')
+add_area('200,2680,820,2750','1471','953','Hatter')
 add_area('200,2750,820,2820','1397','1171','Founders’ Corner')
 add_area('200,2820,820,2890','1331','879','The Georges')
 add_area('200,2890,820,2960','1259','709','Cup and Quill')
@@ -243,7 +254,35 @@ add_area('5001,2253,5500,2393','751','4763','Food Truck Round-up')
 add_area('5001,2393,5500,2463','827','4285','Dining Area')
 add_area('5001,2463,5500,2603','371','3415','Military History Motor Pool')
 
+add_rect('4577,2722,5336,2967',place_welcome)
+add_rect('1790,469,1866,545',place_welcome)
+add_rect('1846,2003,1943,2095',place_welcome)
+add_rect('4495,1749,4577,1845',place_welcome)
+add_rect('3059,3354,3150,3446',place_welcome)
 
+add_rect('4577,2967,5336,3201',place_first_aid)
+add_rect('1693,459,1790,551',place_first_aid)
+add_rect('1764,2088,1851,2164',place_first_aid)
+add_rect('3166,3362,3247,3438',place_first_aid)
+
+add_rect('4577,3201,5336,3456',place_necessary)
+add_rect('256,1121,373,1254',place_necessary)
+add_rect('2906,948,3043,1101',place_necessary)
+add_rect('1433,1856,1555,1998',place_necessary)
+add_rect('4404,1127,4531,1305',place_necessary)
+add_rect('3502,3354,3639,3517',place_necessary)
+
+add_rect('4572,3456,5336,3665',place_well)
+add_rect('1530,477,1652,594',place_well)
+add_rect('903,1675,1020,1771',place_well)
+add_rect('2442,1720,2554,1822',place_well)
+add_rect('2885,1822,3008,1935',place_well)
+add_rect('3420,2026,3527,2128',place_well)
+add_rect('4037,2093,4144,2195',place_well)
+add_rect('4047,2725,4154,2837',place_well)
+add_rect('3201,2618,3308,2720',place_well)
+
+place_pin({dataset:{x:'560',y:'478',name:"Gift Shop & Festival Information"}})
 
         }
     </script>
@@ -251,37 +290,8 @@ add_area('5001,2463,5500,2603','371','3415','Military History Motor Pool')
 <body onload="make_map()">
 
     <div class="parent" id="map-div">
-        <img class="image1" src="map.png" usemap="#image-map"/>
-        <map name="image-map" id="image-map">
-            <area onclick="place_welcome()" coords="4577,2722,5336,2967" shape="rect">
-            <area onclick="place_welcome()"  coords="1790,469,1866,545" shape="rect">
-            <area onclick="place_welcome()"  coords="1846,2003,1943,2095" shape="rect">
-            <area onclick="place_welcome()"  coords="4495,1749,4577,1845" shape="rect">
-            <area onclick="place_welcome()"  coords="3059,3354,3150,3446" shape="rect">   
-
-            <area onclick="place_first_aid()" coords="4577,2967,5336,3201" shape="rect">
-            <area onclick="place_first_aid()"  coords="1693,459,1790,551" shape="rect">
-            <area onclick="place_first_aid()"  coords="1764,2088,1851,2164" shape="rect">
-            <area onclick="place_first_aid()"  coords="3166,3362,3247,3438" shape="rect">
-                        
-            <area onclick="place_necessary()" coords="4577,3201,5336,3456" shape="rect">
-            <area onclick="place_necessary()"  coords="256,1121,373,1254" shape="rect">
-            <area onclick="place_necessary()"  coords="2906,948,3043,1101" shape="rect">
-            <area onclick="place_necessary()"  coords="1433,1856,1555,1998" shape="rect">
-            <area onclick="place_necessary()"  coords="4404,1127,4531,1305" shape="rect">
-            <area onclick="place_necessary()"  coords="3502,3354,3639,3517" shape="rect">            
-            
-            <area onclick="place_well()" coords="4572,3456,5336,3665" shape="rect">
-            <area onclick="place_well()"  coords="1530,477,1652,594" shape="rect">
-            <area onclick="place_well()"  coords="903,1675,1020,1771" shape="rect">
-            <area onclick="place_well()"  coords="2442,1720,2554,1822" shape="rect">
-            <area onclick="place_well()"  coords="2885,1822,3008,1935" shape="rect">
-            <area onclick="place_well()"  coords="3420,2026,3527,2128" shape="rect">
-            <area onclick="place_well()"  coords="4037,2093,4144,2195" shape="rect">
-            <area onclick="place_well()"  coords="4047,2725,4154,2837" shape="rect">
-            <area onclick="place_well()"  coords="3201,2618,3308,2720" shape="rect">
-
-        </map>      
+        <img class="image1" src="map_25.png" usemap="#image-map"/>
+        <map name="image-map" id="image-map"></map>      
     </div>
     <h1>
         Colonial Heritage Festival
