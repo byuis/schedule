@@ -170,6 +170,7 @@ function start_me_up(){
             elem.innerHTML = map_locations[elem.dataset.number].name + ": #" + elem.dataset.number
         }    
     }
+    setTimeout(function() { alert('You can tap on various part of the map and schedule to see where different locations are in the park.\n\nTap "OK" on this messagem then give it a try!'); }, 7000);
 }
 function make_map(){
 
