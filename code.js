@@ -90,7 +90,7 @@ function add_rect(coords,func,show_pointer=true){
     element.coords = coord_array.join()
     element.onclick = func
     if(!show_pointer){
-        element.style.cursor='wait'
+        element.style.cursor='default'
     }
     tag("image-map").appendChild( element )
 }
