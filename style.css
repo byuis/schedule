@@ -44,13 +44,15 @@ area{
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 1rem;
 }
 
 
 
 .note{
     background-color:rgb(174, 243, 243);
+    margin-top: .5rem;
+    text-align: center;
 }
 .map {
 color: white;
