@@ -42,7 +42,7 @@ area{
 }
 
 .grid-container {
-    display: block' /*grid;*/
+    display: block; /*grid;*/
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
 }
