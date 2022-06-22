@@ -80,7 +80,7 @@ function clear_all_pins(){
     document.querySelectorAll('.pin').forEach(item => {item.remove()});
     document.querySelectorAll('.label').forEach(item => {item.remove()});
 }
-function add_rect(coords,func){
+function add_rect(coords,func,show_pointer=true){
     let element = document.createElement( "AREA" )
     element.shape = "rect"
     const coord_array = coords.split(",")
@@ -89,6 +89,9 @@ function add_rect(coords,func){
     }
     element.coords = coord_array.join()
     element.onclick = func
+    if(!show_pointer){
+        element.style.cursor='wait'
+    }
     tag("image-map").appendChild( element )
 }
 
@@ -257,8 +260,8 @@ add_rect('3420,2026,3527,2128',place_well)
 add_rect('4037,2093,4144,2195',place_well)
 add_rect('4047,2725,4154,2837',place_well)
 add_rect('3201,2618,3308,2720',place_well)
-add_rect('5754,3788,6,0',clear_all_pins)
+add_rect('5754,3788,6,0',clear_all_pins,false)
 
-place_pin({dataset:{x:'560',y:'478',name:"Gift Shop & Festival Information"}})
+place_pin(1)
 
 }
