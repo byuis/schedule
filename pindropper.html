@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>click a location</title>
+    <script>
+        function click_me(evt){
+            console.log(evt.clientX,evt.clientY)
+            document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+evt.clientX+","+evt.clientY
+        }
+    </script>
+</head>
+<body>
+    <img src="map_23.png" onclick="click_me(event)">
+    <pre id="data"><pre>
+</body>
+</html>
