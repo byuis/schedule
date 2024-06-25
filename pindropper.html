@@ -4,14 +4,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>click a location</title>
     <script>
+        let mode=0
+        let text=""
         function click_me(evt){
+            
             console.log(evt.clientX,evt.clientY)
-            document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+evt.clientX+","+evt.clientY
+
+            if(mode===0){
+                text="add_area('" + evt.clientX + "," + evt.clientY+ ","    
+                mode=mode+1
+            }else if(mode===1){
+                text+=evt.clientX + "," + evt.clientY + "','"   
+                mode=mode+1
+            }else if(mode===2){
+                text+=evt.clientY + "','" + evt.clientX + "','"   
+                const title = prompt("title")
+                text+=title + "')"
+                document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+text
+                mode=0
+            }
+
+
+            //document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+evt.clientX+","+evt.clientY
+        }
+        function showCoords(evt){
+            console.log()
+            document.getElementById("coords").replaceChildren(evt.clientX+","+evt.clientY)
         }
     </script>
 </head>
-<body>
-    <img src="map_23.png" onclick="click_me(event)">
+<body style="margin:0">
+    <img id="i" src="map.png" onclick="click_me(event)" onmousemove="showCoords(event)">
+    <div id="coords"></div>
     <pre id="data"><pre>
 </body>
 </html>
