@@ -211,7 +211,7 @@ function make_map(){
     add_area('355,762,452,780','680','996','Paper Making')
     add_area('356,780,447,798','660','1027','Spoon Maker')
     add_area('354,798,432,814','638','1048','Gunsmith')
-    add_area('356,798,433,814','637','1048','Potter')
+    add_area('353,816,412,830','607','1043','Potter')
     add_area('358,832,450,850','578','1031','Woodworker')
     add_area('357,849,494,865','564','1001','Wildwood Mercantile')
     add_area('355,867,431,886','546','960','Chandlery')
