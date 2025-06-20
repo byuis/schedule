@@ -21,6 +21,7 @@
                 const title = prompt("title")
                 text+=title + "')"
                 document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+text
+                navigator.clipboard.writeText(text)
                 mode=0
             }
 

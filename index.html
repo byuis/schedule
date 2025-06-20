@@ -8,93 +8,217 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet"></head>
-<body onload="start_me_up()">
+    <script>
+function make_map(){
 
-    <div class="parent" id="map-div">
-        <img class="image1" src="current_map.png" usemap="#image-map"/>
-        <map name="image-map" id="image-map"/>
-    </div>
+add_area('46,551,192,565','480','557','Gift Shop & Information')					
+add_area('46,568,213,584','455','556','Find Your Colonial Relatives')					
+add_area('48,586,160,602','428','395','Founders’ Corner')					
+add_area('47,604,175,618','428','292','South Meeting House')					
+add_area('46,620,172,637','454','188','Josiah Harmar Camp')					
+add_area('47,638,181,656','433','167','Andress weapons, etc.')					
+add_area('45,655,174,672','410','146','General Rochambeau')					
+add_area('47,671,193,689','390','132','Gov. Bernardo de Gálvez')					
+add_area('46,691,140,705','303','170','Cup and Quill')					
+add_area('46,708,146,725','264','116','Camp Kitchen')					
+add_area('45,725,153,743','227','164','American Camp')					
+add_area('46,744,156,759','128','278','Military Surgeon')					
+add_area('46,760,151,778','98','314','Citizen Soldiers')					
+add_area('47,779,163,795','101','285','John Paul Jones')					
+add_area('47,795,152,811','112','232','Camp Follower')					
+add_area('45,814,167,829','82','241','Colonial Chocolate')					
+add_area('46,831,131,847','61','271','Blacksmith')					
+add_area('45,849,146,864','59','318','Village Hatter')					
+add_area('45,866,152,882','82','359','Sons of Liberty')					
+add_area('45,884,163,898','248','374','Continental Field')					
+add_area('46,901,130,918','134','687','Bookbinder')					
+add_area('202,661,300,677','127','749','Paper Making')					
+add_area('203,678,286,694','166','764','Print Shop')					
+add_area('204,697,285,712','245','636','Mayflower')					
+add_area('202,712,289,730','315','658','The Grove')					
+add_area('204,730,305,747','402','632','Conversations')					
+add_area('204,748,292,763','482','730','School/Hall')					
+add_area('202,765,265,779','476','776','Chores')					
+add_area('204,784,264,796','509','768','Games')					
+add_area('204,800,295,814','543','807','Faneuil Hall')					
+add_area('202,818,340,835','592','850','Culper Spy Ring HQ')					
+add_area('204,837,345,851','574','895','Cooper, Broom Maker')					
+add_area('204,854,291,870','546','910','Apothecary')					
+add_area('203,869,285,887','549','935','Chandlery')					
+add_area('203,888,344,904','562','969','Wildwood Mercantile')					
+add_area('200,906,304,921','576','1014','Woodworker')					
+add_area('354,681,415,697','600','1032','Potter')					
+add_area('355,700,431,715','636','1035','Gunsmith')					
+add_area('354,714,471,730','681','975','Fiber Preparation')					
+add_area('352,734,496,751','689','917','Spinning and Weaving')					
+add_area('352,750,469,767','679','837','Charcoal Portraits')					
+add_area('356,767,445,783','617','741','King\'s Field')					
+add_area('353,786,483,802','677','726','British Encampment')					
+add_area('355,801,436,818','682','770','Laundress')					
+add_area('353,820,485,836','705','793','Painted Hog Tavern')					
+add_area('352,839,442,853','714','834','Silversmith')					
+add_area('353,855,480,872','734','865','Gray\'s Rope Walk')					
+add_area('355,871,442,889','768','850','Calligrapher')					
+add_area('353,889,446,905','762','821','Publick Hall')					
+add_area('354,907,450,926','781','807','Basket Maker')					
+add_area('1129,525,1183,540','766','697','Sutler')					
+add_area('1130,541,1225,558','798','720','Native Lore')					
+add_area('1130,559,1227,607','758','958','Carol\'s Station: Frontier Trading and Homesteads')					
+add_area('1129,605,1192,621','557','1078','Luthier')					
+add_area('1247,523,1341,539','507','1063','Spoon Maker')					
+add_area('1247,539,1347,556','469','1082','Cornish Pasties')					
+add_area('1247,556,1359,570','454','1102','Maria’s Lemonade')					
+add_area('1248,571,1322,587','476','1137','Bakehouse')					
+add_area('1245,589,1368,605','443','1136','Brooker\'s Ice Cream')					
+add_area('1247,605,1320,621','466','1209','Jolley Art')					
 
+
+
+add_rect('1135,643,1352,705',place_welcome)
+add_rect('1136,705,1353,768',place_first_aid)
+add_rect('1135,760,1351,829',place_necessary)
+add_rect('1135,833,1353,900',place_well)
+
+
+function place_necessary(){
+    place_pins("The Necessary",[[713,877],[372,464],[75,270],[743,234],[1114,279]])
+}
+function place_welcome(){
+    place_pins("Welcome Table",[[1125,426],[743,818],[297,493],[697,213]])
+}
+function place_first_aid(){
+    place_pins("First-Aid Station",[[724,833],[318,505],[680,220],[1102,428]])
+}
+function place_well(){
+    place_pins("Ice Water",[[329,150],[985,512],[1024,685],[810,658],[620,430],[237,419],[679,192]])
+}
+
+
+}        
+    </script>    
+<body onload="start_me_up()" onclick="hideMessage()">
+    
     <div id="schedule">
-        <div id="heading">
+        <div id="heading" style="position:relative">
+            
+            <div class="parent" id="map-div">
+                <img class="image1" src="current_map.png" usemap="#image-map"/>
+                <map name="image-map" id="image-map"/>
+                <div id="message" onclick="hideMessage()">
+                    You can tap on various part of the map and schedule to see where different locations are in the park.<br><br>Give it a try!
+                </div>  
+            </div>
 
             <h1 style="font-size: 6rem;">
                 Colonial Heritage Festival
             </h1>
             <h2 style="font-family:  Tahoma, Verdana, Segoe, sans-serif;font-size: 4rem;">
-                July 4-6 of 2024
+                July 3-5 of 2025
             </h2>
 
             <a  href="current.pdf" style="font-size:3rem;font-family:  Tahoma, Verdana, Segoe, sans-serif;">PDF version of this schedule</a>
+            <div style="margin:1rem;zoom:300%;font-family:  Tahoma, Verdana, Segoe, sans-serif;">Show
+            <select id="filter" onchange="filterSchedule(this.value)">
+                <option value="adams">John Adams</option>
+                <option value="barker">Penelope Barker</option>
+                <option value="birch">Samuel Birch</option>
+                <option value="dickenson">John Dickenson</option>
+                <option value="ferguson">Patrick Ferguson</option>
+                <option value="franklin">Benjaman Franklin</option>
+                <option value="freeman">Elizabeth Freeman</option>
+                <option value="galvez">General Galvez</option>
+                <option value="hancock">John Hancock</option>
+                <option value="henry">Patrick Henry</option>
+                <option value="jones">John Paul Jones</option>
+                <option value="judge">Ona Judge</option>
+                <option value="ludington">Sybil Ludington</option>
+                <option value="madison">James Madison</option>
+                <option value="morris">Robert Morris</option>
+                <option value="rochambeau">General Rochambeau</option>
+                <option value="sherman">Roger Sherman</option>
+                <option value="thomas">Isaiah Thomas</option>
+                <option value="warren">Mercy Otis Warren</option>
+                <option value="washington">George Washington</option>
+                <option value="hopkinson">Francis Hopkinson</option>
+            </select>
+            </div>
+
         </div>
         <div class="grid-container">
 
                 <div style="margin-left: 1rem;">
                     <table>
-                        <tr></tr><tr><th colspan="2">9:00 am Hour</th></tr>
-                        <tr><td>Continental Artillery</td><td>Begin the day as Continental forces load and fire the cannon typical of the Revolutionary War<div class="location"><span data-time="9:00" data-number="18" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr></tr><tr><th colspan="2">10:00 am Hour</th></tr>
-                        <tr><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day<div class="location"><span data-time="10:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>British  Swordplay</td><td>Watch British military demonstrate offensive and defensive techniques<div class="location"><span data-time="10:15" data-number="19" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Patrick Henry</td><td>A conversation with one of the revolution’s top orators<div class="location"><span data-time="10:15" data-number="3" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution<div class="location"><span data-time="10:30" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>British Muster & Drill</td><td>The King’s forces maneuver and drill, preparing to suppress the rebellion<div class="location"><span data-time="10:45" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr></tr><tr><th colspan="2">11:00 am Hour</th></tr>
-                        <tr><td>Patriots in Petticoats</td><td>Contributions of lesser-known women to American Independence<div class="location"><span data-time="11:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Dance Instruction</td><td>Join this favorite pastime and learn some favorite colonial dances<div class="location"><span data-time="11:00" data-number="19" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Tea Tax Debate</td><td>Decide if you will march on the ships in the harbor that carry the King’s tea<div class="location"><span data-time="11:00" data-number="3" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
-                        <tr><td>Patrick Ferguson</td><td>Listen to the Revolutionary War’s top marksman. Will you enlist?<div class="location"><span data-time="11:00" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Elevenses</td><td>Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution<div class="location"><span data-time="11:00" data-number="13" onclick="place_pin(this)" class="map"></span></div><div class="note">ages 16 & older limited seating donations urged</div></td></tr>
-                        <tr><td>American Militiaman</td><td>Find out why the American militia was so critical to the revolution<div class="location"><span data-time="11:30" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Never Caught</td><td>Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon<div class="location"><span data-time="11:30" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Children’s Militia</td><td>Young patriots join the militia to muster as they march through the Colonial Village and fire some rounds<div class="location"><span data-time="11:30" data-number="18" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
-                        <tr><td>Calligraphy I</td><td>Beginners use pencil to learn the basic strokes that form 18th century script<div class="location"><span data-time="11:30" data-number="34" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
-                        <tr></tr><tr><th colspan="2">Noon Hour</th></tr>
-                        <tr><td>Galvez and Rochambeau</td><td>A discussion of the roles of Spanish and French military in the American Revolution<div class="location"><span data-time="12:00" data-number="3" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day<div class="location"><span data-time="12:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Piracy Trial</td><td>Participate in the Admiralty Court. Will we hang another pirate?<div class="location"><span data-time="12:00" data-number="3" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
-                        <tr><td>Lucet Class</td><td>Learn to work this ancient tool to make cord for laces, draw-strings, etc.<div class="location"><span data-time="12:30" data-number="13" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
-                        <tr><td>Continental Artillery</td><td>Join as Continental forces load and fire the cannon typical of the Revolutionary War<div class="location"><span data-time="12:30" data-number="18" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Shut-the-Box</td><td>Enter a tournament playing a popular game of chance and skill for a prize<div class="location"><span data-time="12:30" data-number="34" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
-                        <tr><td>Gunpowder Incident</td><td>Listen to the “true tale” of the appropriation of the people’s gunpowder by Virginia’s governor. Will the governor respond?<div class="location"><span data-time="12:30" data-number="39" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>James Madison</td><td>A conversation with the Father of the Constitution of the United States<div class="location"><span data-time="12:45" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr></tr><tr><th colspan="2">1:00 pm Hour</th></tr>
-                        <tr><td>Colonial Folk Songs</td><td>Enjoy some of the lesser-known songs of the American colonial era<div class="location"><span data-time="1:00" data-number="19" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Sybil Luddington</td><td>You’ve heard of Paul Revere’s ride; now listen to Sybil tell of her harrowing ride<div class="location"><span data-time="1:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>British Swordplay</td><td>Watch British military demonstrate offensive and defensive techniques<div class="location"><span data-time="1:30" data-number="19" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Declaration of Independence</td><td>Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas<div class="location"><span data-time="1:30" data-number="3" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution<div class="location"><span data-time="1:45" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>British Muster & Drill</td><td>The King’s forces maneuver and drill, preparing to suppress the rebellion<div class="location"><span data-time="1:45" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr></tr><tr><th colspan="2">2:00 pm Hour</th></tr>
-                        <tr><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day<div class="location"><span data-time="2:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Break bread with the Brits</td><td>Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown<div class="location"><span data-time="2:00" data-number="13" onclick="place_pin(this)" class="map"></span></div><div class="note">ages 16 & older limited seating donations urged</div></td></tr>
-                        <tr><td>Hog-theft Trial</td><td>One colonist is accused of stealing a hog. Watch the wheels of British justice turn and help decide the fate of the accused<div class="location"><span data-time="2:45" data-number="3" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
-                        <tr><td>Robert Morris</td><td>Hear from this signer of the Declaration who was the financier of the Revolution<div class="location"><span data-time="2:45" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Calligraphy II</td><td>Quill and ink instruction appropriate for adults and mature youth ($5 fee)<div class="location"><span data-time="2:45" data-number="34" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
-                        <tr></tr><tr><th colspan="2">3:00 pm Hour</th></tr>
-                        <tr><td>Continental Artillery</td><td>Join as Continental forces fire the cannon typical of the Revolutionary War<div class="location"><span data-time="3:00" data-number="18" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Never Caught</td><td>Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon<div class="location"><span data-time="3:15" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution<div class="location"><span data-time="3:15" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>John Adams</td><td>A conversation with the titan of American Independence<div class="location"><span data-time="3:30" data-number="3" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Dance Instruction</td><td>Join this favorite pastime and learn some favorite colonial dances<div class="location"><span data-time="3:30" data-number="19" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Children’s Militia</td><td>Young patriots join the militia to muster as they march through the Colonial Village and fire some rounds<div class="location"><span data-time="3:30" data-number="18" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
-                        <tr><td>Lucet Class</td><td>Learn to work this ancient tool to make cord for laces, draw-strings, etc.<div class="location"><span data-time="3:30" data-number="13" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
-                        <tr></tr><tr><th colspan="2">4:00 pm Hour</th></tr>
-                        <tr><td>Patrick Ferguson</td><td>Listen to the Revolutionary War’s top marksman. Will you enlist?<div class="location"><span data-time="4:00" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day<div class="location"><span data-time="4:00" data-number="23" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Benjamin Franklin</td><td>Join the Sage of America, the Newton of Electricity, Poor Richard himself—Dr. Franklin<div class="location"><span data-time="4:15" data-number="3" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr><td>Closing Firing</td><td>Close the day as the Crown forces and American troops join in a final volley<div class="location"><span data-time="4:45" data-number="18" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        <tr></tr><tr><th colspan="2">7:00 pm, Friday, July 5</th></tr>
-                        <tr><td>Colonial Dance</td><td>Join a colonial dance for adults and children old enough to follow instruction and participate in dancing<div class="location"><span data-time="7:00" data-number="18" onclick="place_pin(this)" class="map"></span></div></td></tr>
-                        
-
-
-
+<tr></tr><tr><th colspan="2">9:00 am Hour</th></tr>
+<tr class=""><td>Continental Artillery</td><td>Begin the day as Continental forces load and fire the cannon typical of the Revolutionary War.<div class="location"><span data-time="9:00" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr></tr><tr><th colspan="2">10:00 am Hour</th></tr>
+<tr class=""><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day.<div class="location"><span data-time="10:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="birch"><td>British Swordplay</td><td>Watch British military demonstrate offensive and defensive techniques.<div class="location"><span data-time="10:15" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="henry"><td>Patrick Henry</td><td>A conversation with one of the revolution’s top orators.<div class="location"><span data-time="10:15" data-number="4" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="hopkinson"><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution.<div class="location"><span data-time="10:30" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="judge"><td>Never Caught</td><td>Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon.<div class="location"><span data-time="10:30" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="ludington"><td>Sybil Ludington</td><td>You’ve heard of Paul Revere’s ride; now listen to Sybil tell of her harrowing ride.<div class="location"><span data-time="10:30" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>British Muster & Drill</td><td>The King’s forces maneuver and drill, preparing to suppress the rebellion.<div class="location"><span data-time="10:45" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr></tr><tr><th colspan="2">11:00 am Hour</th></tr>
+<tr class="freeman"><td>Elizabeth Freeman</td><td>Hear the journey of the woman who was first to win freedom under the Massachusetts Constitution through the courts.<div class="location"><span data-time="11:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Hammer Dulcimer</td><td>Listen to a musical performance on this classical 18th century instrument.<div class="location"><span data-time="11:00" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Tea Tax Debate</td><td>Decide if you will march on the ships in the harbor that carry the King’s tea.<div class="location"><span data-time="11:00" data-number="4" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
+<tr class="ferguson"><td>Patrick Ferguson</td><td>Listen to the Revolutionary War’s top marksman. Will you enlist?<div class="location"><span data-time="11:00" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Elevenses</td><td>Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.<div class="location"><span data-time="11:00" data-number="9" onclick="place_pin(this)" class="map"></span></div><div class="note">ages 16 & older - limited seating - donations urged</div></td></tr>
+<tr class="warren"><td>Mercy Otis Warren</td><td>Hear from one of America’s foremost Founding Mothers.<div class="location"><span data-time="11:00" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Continental Artillery</td><td>Watch Continental forces load and fire cannon typical of the Revolutionary War.<div class="location"><span data-time="11:30" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Calligraphy I</td><td>Beginners use pencil to learn the basic strokes that form 18th century script.<div class="location"><span data-time="11:30" data-number="49" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr></tr><tr><th colspan="2">Noon Hour</th></tr>
+<tr class=""><td>Dance Instruction</td><td>Join this favorite pastime and learn some favorite colonial dances.<div class="location"><span data-time="12:00" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day.<div class="location"><span data-time="12:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="barker"><td>Spilling Tea and Making History</td><td>Hear Penelope Barker, organizer of the Edenton Tea Party, discuss the politics of 1774. Will you join the boycott of British goods?<div class="location"><span data-time="12:00" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="sherman"><td>Roger Sherman</td><td>Hear the experience of the only founding father to sign all 4 founding documents.<div class="location"><span data-time="12:00" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Piracy Trial</td><td>In this Admiralty Court, will we hang another pirate or convict a smuggler?<div class="location"><span data-time="12:00" data-number="4" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
+<tr class=""><td>Children’s Militia  </td><td>Young colonists muster & march to show their patriotism.<div class="location"><span data-time="12:15" data-number="20" onclick="place_pin(this)" class="map"></span></div><div class="note"># of participants limited</div></td></tr>
+<tr class=""><td>Shut-the-Box</td><td>Enter a tournament playing a popular game of chance and skill for a prize.<div class="location"><span data-time="12:30" data-number="49" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr class=""><td>Lucet Class</td><td>Learn to work this ancient tool to make cord for laces, draw-strings, etc.<div class="location"><span data-time="12:45" data-number="9" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr class="galvez rochambeau"><td>Galvez and Rochambeau</td><td>A discussion of the Spanish & French roles in the American Revolution.<div class="location"><span data-time="12:45" data-number="4" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="judge"><td>Never Caught</td><td>Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon.<div class="location"><span data-time="12:45" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="madison"><td>James Madison</td><td>A conversation with the Father of the United States Constitution.<div class="location"><span data-time="12:45" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr></tr><tr><th colspan="2">1:00 pm Hour</th></tr>
+<tr class=""><td>Patriots in Petticoats</td><td>Contributions of lesser-known women to American Independence.<div class="location"><span data-time="1:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="ferguson"><td>Colonial Folk Songs</td><td>Enjoy some of the lesser-known songs of the American colonial era.<div class="location"><span data-time="1:00" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="birch"><td>British Swordplay</td><td>Watch British military demonstrate offensive and defensive techniques.<div class="location"><span data-time="1:30" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Children’s Militia  </td><td>Young colonists muster, march to show their loyalty.<div class="location"><span data-time="1:30" data-number="42" onclick="place_pin(this)" class="map"></span></div><div class="note"># of participants limited</div></td></tr>
+<tr class="franklin madison washington thomas adams sherman morris dickenson jones hancock warren henry hopkinson"><td>Declaration of Independence</td><td>Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.<div class="location"><span data-time="1:30" data-number="4" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="hopkinson"><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution.<div class="location"><span data-time="1:45" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr></tr><tr><th colspan="2">2:00 pm Hour</th></tr>
+<tr class=""><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day.<div class="location"><span data-time="2:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Continental Artillery</td><td>Join as Continental forces fire the cannon typical of the Revolutionary War.<div class="location"><span data-time="2:30" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Hog-theft Trial</td><td>One colonist is accused of stealing a hog. Watch the wheels of British justice turn and help decide the fate of the accused.<div class="location"><span data-time="2:45" data-number="4" onclick="place_pin(this)" class="map"></span></div><div class="note">arrive early to participate</div></td></tr>
+<tr class=""><td>Hammered Dulcimer</td><td>Listen to a performance of this classical 18th century instrument.<div class="location"><span data-time="2:45" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Calligraphy II</td><td>Quill and ink instruction appropriate for adults and mature youth ($5 fee)<div class="location"><span data-time="2:45" data-number="49" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr></tr><tr><th colspan="2">3:00 pm Hour</th></tr>
+<tr class=""><td>Break bread with the Brits</td><td>Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.<div class="location"><span data-time="3:00" data-number="9" onclick="place_pin(this)" class="map"></span></div><div class="note">ages 16 & older - limited seating - donations urged</div></td></tr>
+<tr class=""><td>Children’s Militia  </td><td>Young colonists muster, march to show their patriotism.<div class="location"><span data-time="3:00" data-number="20" onclick="place_pin(this)" class="map"></span></div><div class="note"># of participants limited </div></td></tr>
+<tr class="freeman"><td>Elizabeth Freeman</td><td>Hear the journey of the woman who was first to win freedom under the Massachusetts Constitution through the courts.<div class="location"><span data-time="3:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>British Muster & Drill</td><td>The King’s forces maneuver and drill, preparing to suppress the rebellion.<div class="location"><span data-time="3:00" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="barker"><td>Spilling Tea and Making History</td><td>Hear Penelope Barker, organizer of the Edenton Tea Party, discuss the politics of 1774. Will you join the boycott of British goods?<div class="location"><span data-time="3:00" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Mercy Otis Warren</td><td>Hear from one of America’s foremost Founding Mothers.<div class="location"><span data-time="3:00" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="hopkinson"><td>Unfurling History</td><td>Learn the history of the flags of the American Revolution.<div class="location"><span data-time="3:30" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="morris"><td>Robert Morris</td><td>Hear from this signer of the Declaration who was the financier of the Revolution.<div class="location"><span data-time="3:30" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="ludington"><td>Sybil Ludington</td><td>You’ve heard of Paul Revere’s ride; now listen to Sybil tell of her harrowing ride.<div class="location"><span data-time="3:30" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class="adams"><td>John Adams</td><td>A conversation with the titan of American Independence.<div class="location"><span data-time="3:30" data-number="4" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Dance Instruction</td><td>Join this favorite pastime and learn some favorite colonial dances.<div class="location"><span data-time="3:30" data-number="42" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Shut-the-Box</td><td>Enter a tournament playing a popular game of chance and skill for a prize.<div class="location"><span data-time="3:45" data-number="49" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr></tr><tr><th colspan="2">4:00 pm Hour</th></tr>
+<tr class="hancock"><td>John Hancock</td><td>A conversation with the man who lead the Continental Congress to independence.<div class="location"><span data-time="4:00" data-number="30" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Lucet Class</td><td>Learn to work this ancient tool to make cord for laces, draw-strings, etc.<div class="location"><span data-time="4:00" data-number="9" onclick="place_pin(this)" class="map"></span></div><div class="note">limited seating</div></td></tr>
+<tr class="ferguson"><td>Patrick Ferguson</td><td>Listen to the Revolutionary War’s top marksman. Will you enlist?<div class="location"><span data-time="4:00" data-number="26" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Colonial School</td><td>Children attend school for academic, etiquette, and moral lessons of the day.<div class="location"><span data-time="4:00" data-number="27" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Founding Father</td><td>A conversation with a Founding Father. Who will it be? Come Find out.<div class="location"><span data-time="4:14" data-number="4" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr class=""><td>Military Closing Volleys</td><td>Close the day as the Crown forces and American troops join in a final volley.<div class="location"><span data-time="4:45" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
+<tr></tr><tr><th colspan="2">7:00 pm, Thursday, July 3</th></tr>
+<tr class=""><td>Colonial Dance</td><td>Join a colonial dance for adults and children old enough to follow instruction and participate in dancing.<div class="location"><span data-time="7:00" data-number="20" onclick="place_pin(this)" class="map"></span></div></td></tr>
                  </table>   
             </div>
        
         </div>
     </div>
-    
+
 </body>
 </html>
