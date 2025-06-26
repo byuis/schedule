@@ -4,10 +4,15 @@ const map_locations={}
 
 
 
-function place_pins(text,pins){
+function place_pins(text,pins, clear){
   for(let x=0;x<pins.length;x++){
     const pin=pins[x]
-    place_pin({dataset:{x:parseInt(pin[0])-0,y:parseInt(pin[1])-2,name:text}},x===0)
+    let clearMe = x===0
+    if(clear===false){
+        clearMe=false
+    }
+    
+    place_pin({dataset:{x:parseInt(pin[0])-0,y:parseInt(pin[1])-2,name:text}},clearMe)
   }
 }
 
@@ -17,7 +22,7 @@ function place_pin(area, clear=true){
     if(typeof area==="number"){
         area={dataset:{number:area}}
     }
-    console.log("at palce pin.  Area number", area.dataset.number)
+    console.log("at place pin.  Area number", area.dataset.number)
     if(clear){
         clear_all_pins()
     }
@@ -166,9 +171,15 @@ function start_me_up(){
     make_map()
 
     let params = new URLSearchParams(document.location.search);
+    
+
     if(params.get("pin")){
         for(const pin of params.get("pin").split("-")){
             place_pin(parseInt(pin),false)
+        }
+    }else if(params.get("show")){
+        if(params.get("show")==="tents"){
+            place_tents()
         }
     }else{
         place_pin(1)
