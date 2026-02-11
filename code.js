@@ -1,7 +1,12 @@
 const scale = 1
 const map_locations={}
 
-
+function colonialQuest(pins){
+  place_pin(pins[0], true)
+  for(let x=1;x<pins.length;x++){
+    place_pin(pins[x], false)
+  }
+}
 
 
 function place_pins(text,pins, clear){
@@ -177,6 +182,8 @@ function start_me_up(){
         for(const pin of params.get("pin").split("-")){
             place_pin(parseInt(pin),false)
         }
+    }else if(params.get("quest")){
+        colonialQuest(params.get("quest").split("-"))
     }else if(params.get("show")){
         if(params.get("show")==="tents"){
             place_tents()
