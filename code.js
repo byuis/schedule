@@ -4,7 +4,7 @@ const map_locations={}
 function colonialQuest(pins){
   place_pin(pins[0], true)
   for(let x=1;x<pins.length;x++){
-    place_pin(pins[x], false)
+    place_pin(parseInt(pins[x]), false)
   }
 }
 
