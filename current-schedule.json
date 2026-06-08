@@ -1741,7 +1741,7 @@
     },
     "Meet John Dickinson": {
       "name": "Meet John Dickinson",
-      "description": "",
+      "description": "Discover the \"Penman of the Revolution\" — the Founding Father whose powerful words shaped American liberty before anyone fired a shot.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2290,11 +2290,174 @@
     },
     "British Laundray": {
       "name": "British Laundray",
-      "description": "Mistres Morgan's laurnry",
+      "description": "Mistres Morgan's laundry",
       "mapNumber": 15,
       "coordinates": "",
       "x": "",
       "y": ""
     }
+  },
+  "group": {
+    "Benjamin Franklin": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Signers of Declaration",
+      "Signers of Constitution",
+      "Constitutional Convention"
+    ],
+    "Bernardo de Gálvez": [
+      "Military"
+    ],
+    "Billy Flora": [
+      "Military"
+    ],
+    "Billy Lee": [
+      "Military"
+    ],
+    "Charlotte Dunmore": [
+      "British",
+      "Women of the Revolution"
+    ],
+    "Christopher Gadsden": [
+      "Founding Fathers",
+      "1st Continental Congress",
+      "Signers of the Continental Association"
+    ],
+    "Comte de Rochambeau": [
+      "Military"
+    ],
+    "Eizabeth Powell": [
+      "Women of the Revolution"
+    ],
+    "Elizabeth Burgen": [
+      "Women of the Revolution"
+    ],
+    "Francis Hopkinson": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Signers of Declaration"
+    ],
+    "General Brich": [
+      "British",
+      "Military"
+    ],
+    "George Washington": [
+      "Founding Fathers",
+      "1st Continental Congress",
+      "2nd Continenal Congress",
+      "Signers of Constitution",
+      "Military"
+    ],
+    "Geroge Mason": [
+      "Founding Fathers",
+      "Constitutional Convention"
+    ],
+    "Governor Dunmore": [
+      "British",
+      "Military"
+    ],
+    "Hyam Soloman": [
+      ""
+    ],
+    "Isaiah Thomas": [
+      ""
+    ],
+    "James Madison": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Constitutional Convention",
+      "Signers of Declaration"
+    ],
+    "John Adams": [
+      "Founding Fathers",
+      "1st Continental Congress",
+      "2nd Continenal Congress",
+      "Signers of Declaration",
+      "Signers of the Continental Association"
+    ],
+    "John Dickinson": [
+      "Founding Fathers",
+      "1st Continental Congress",
+      "2nd Continenal Congress",
+      "Signers of Constitution",
+      "Signers of the Continental Association",
+      "Military",
+      "Constitutional Convention"
+    ],
+    "John Glover": [
+      "Military"
+    ],
+    "John Hancock": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Signers of Declaration"
+    ],
+    "John Paul Jones": [
+      "Military"
+    ],
+    "Lydia Darragh": [
+      "Women of the Revolution"
+    ],
+    "Major Beaumont": [
+      "British",
+      "Military"
+    ],
+    "Mercy Otis Warren": [
+      "Women of the Revolution"
+    ],
+    "Ona Judge": [
+      "Women of the Revolution"
+    ],
+    "Patrick Ferguson": [
+      "British",
+      "Military"
+    ],
+    "Patrick Henry": [
+      "1st Continental Congress",
+      "Signers of the Continental Association",
+      "Military"
+    ],
+    "Penelope Barker": [
+      "Women of the Revolution"
+    ],
+    "Peter Muhlenberg": [
+      "Military",
+      "1st Continental Congress",
+      "Signers of the Continental Association"
+    ],
+    "Robert Morris": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Signers of Declaration",
+      "Constitutional Convention",
+      "Signers of Constitution"
+    ],
+    "Robert Shurtliff": [
+      "Military",
+      "Women of the Revolution"
+    ],
+    "Roger Sherman": [
+      "Founding Fathers",
+      "1st Continental Congress",
+      "2nd Continenal Congress",
+      "Signers of Declaration",
+      "Signers of Constitution",
+      "Signers of the Continental Association",
+      "Constitutional Convention"
+    ],
+    "Ruth Harrington": [
+      "Women of the Revolution"
+    ],
+    "Samoset": [
+      ""
+    ],
+    "Sybil Ludington": [
+      "Women of the Revolution"
+    ],
+    "Thomas Jefferson": [
+      "Founding Fathers",
+      "2nd Continenal Congress",
+      "Signers of Declaration"
+    ]
   }
 }

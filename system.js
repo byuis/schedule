@@ -173,56 +173,15 @@ function filterSchedule(filter){
     }
 
 }
-function addTimeRow(time){
-    const row = document.createElement("tr")
-    const timeCeLL = document.createElement( "th")
-    timeCeLL.innerHTML=time
-    timeCeLL.colSpan=2
-    row.appendChild(timeCeLL)
-    tag("schedule-table").appendChild(row)
-
-}
-function addRow(event, pres, location, classNames){
-    const title = event.presentation
-    const description = pres.description
-    const modifier =  pres.audienceInvolved ? "Arrive Early to participate" : ""
-    
-    
-    const row = document.createElement("tr")
-    let cell = document.createElement( "td")
-    cell.innerHTML=title
-    row.appendChild(cell)
-    
-    cell = document.createElement( "td")
-    cell.innerHTML=description
-    console.log("Location", location)
-    let div=document.createElement("div")
-    div.className = "location"
-
-    const loc = document.createElement("span")
-    loc.dataset.number="25"
-    console.log("location",location)
-    loc.innerHTML = `${location.name} (#${location.mapNumber})` 
-    loc.className="map"
-    if(modifier){
-        const mod = document.createElement("div")
-        mod.innerHTML = modifier
-        mod.className="note"
-
-        cell.appendChild(mod)
-    }
-    
-     
-    div.appendChild(loc)
-    cell.appendChild(div)
-
-    row.appendChild(cell)
-    
-    tag("schedule-table").appendChild(row)
-
-}
 async function start_me_up(){
     const urlParams = new URLSearchParams(window.location.search);
+    const filterClasses={
+        character:[],
+        person:[],
+        group:[]
+
+    }
+
     let scheduleData=null
     if(urlParams.get('draft')){
         // in chf schedule builder owned by gove colonialheritage.org
@@ -234,14 +193,21 @@ async function start_me_up(){
         scheduleData = await getScheduleData()
     }
 
+
+
     const schedule = scheduleData.presentation
     const locations = scheduleData.location
+    const groups = scheduleData.group
+
+
+
     console.log("schedule", schedule)
     const sched=[]
     for(const value of Object.values(schedule)){
         if(value.times){
             for(const event of value.times){
                 event.presentation = value.name
+                event.people = value.people
                 sched.push(event)
             }
         }
@@ -280,9 +246,61 @@ async function start_me_up(){
           addRow(event, pres, theLocation, [])
         }
 
+
+
     }
 
+    const byLastFirst = (a, b) => {
+        const parts = n => { const w = n.trim().split(' '); return [w.at(-1), w.slice(0,-1).join(' ')] }
+        const [aLast, aFirst] = parts(a)
+        const [bLast, bFirst] = parts(b)
+        return aLast.localeCompare(bLast) || aFirst.localeCompare(bFirst)
+    }
+    filterClasses.person.sort(byLastFirst)
+    filterClasses.character.sort(byLastFirst)
+
+    // build the filter options
+
+   //build the group filter  
+   console.log(groups)
+   for(const [person,groupList] of Object.entries(groups)){
+    for(const group of groupList){
+        if(!filterClasses.group.includes(group)){
+            filterClasses.group.push(group)
+        }
+    }
+   }
+    filterClasses.group.sort()
+    filterClasses.person.sort(byLastFirst)
+    filterClasses.character.sort(byLastFirst)
+
+    for(const group of filterClasses.group){
+        option = document.createElement("option")
+        option.value = nameToClass(group)
+        option.innerHTML  = "Group: " + group
+        tag("filter").appendChild(option)
+    }
+
+    for(const person of filterClasses.character){
+        option = document.createElement("option")
+        option.value = nameToClass(person)
+        option.innerHTML  = "Historic Figure: " + person
+        tag("filter").appendChild(option)
+    }
+
+
+    for(const person of filterClasses.person){
+        option = document.createElement("option")
+        option.value = nameToClass(person)
+        option.innerHTML  = "Participant:" + person
+        tag("filter").appendChild(option)
+    }
+
+
+
     return
+        // start of original code===================================
+
     make_map()
 
     let params = new URLSearchParams(document.location.search);
@@ -317,6 +335,91 @@ async function start_me_up(){
             elem.innerHTML = elem.dataset.time + " at #" + elem.dataset.number
         }    
     }
+    // end of original code===================================
+
+    function addTimeRow(time){
+        const row = document.createElement("tr")
+        const timeCeLL = document.createElement( "th")
+        timeCeLL.innerHTML=time
+        timeCeLL.colSpan=2
+        row.appendChild(timeCeLL)
+        tag("schedule-table").appendChild(row)
+
+    }
+    function addRow(event, pres, location, classNames){
+        const title = event.presentation
+        const description = pres.description
+        const modifier =  pres.audienceInvolved ? "Arrive Early to participate" : ""
+        
+        
+        const row = document.createElement("tr")
+        if(pres.people){
+            console.log("people", pres.people)
+            for(const person of pres.people){
+                if(person.name){
+                    row.classList.add(nameToClass(person.name))
+                    if(!filterClasses.person.includes(person.name)){
+                        filterClasses.person.push(person.name)
+                    }
+                }
+                if(person.character){
+                    const className =nameToClass(person.character)
+                    row.classList.add(nameToClass(person.character))
+                    if(!filterClasses.character.includes(person.character)){
+                        filterClasses.character.push(person.character)
+                    }
+                    if(groups[person.character]){
+                        console.log(person.character,groups[person.character])
+                        for(const group of groups[person.character]){
+                            if(group){
+                              const groupClass = nameToClass(group)
+                              row.classList.add(groupClass)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        let cell = document.createElement( "td")
+        cell.innerHTML=title
+        row.appendChild(cell)
+        
+        cell = document.createElement( "td")
+        cell.innerHTML=description
+        console.log("Location", location)
+        let div=document.createElement("div")
+        div.className = "location"
+
+        const loc = document.createElement("span")
+        loc.dataset.number="25"
+        console.log("location",location)
+        loc.innerHTML = `${location.name} (#${location.mapNumber})` 
+        loc.className="map"
+        if(modifier){
+            const mod = document.createElement("div")
+            mod.innerHTML = modifier
+            mod.className="note"
+
+            cell.appendChild(mod)
+        }
+        
+        
+        div.appendChild(loc)
+        cell.appendChild(div)
+
+        row.appendChild(cell)
+        
+        tag("schedule-table").appendChild(row)
+
+    }
+    function nameToClass(name){
+        return name.replace(/\s+/g, '-').toLowerCase();
+    }
+
+
+
+
+
     
 }
 
