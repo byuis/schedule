@@ -266,7 +266,9 @@ async function start_me_up(){
    for(const [person,groupList] of Object.entries(groups)){
     for(const group of groupList){
         if(!filterClasses.group.includes(group)){
-            filterClasses.group.push(group)
+            if(group){
+              filterClasses.group.push(group)
+            }
         }
     }
    }
@@ -275,6 +277,7 @@ async function start_me_up(){
     filterClasses.character.sort(byLastFirst)
 
     for(const group of filterClasses.group){
+        
         option = document.createElement("option")
         option.value = nameToClass(group)
         option.innerHTML  = "Group: " + group
