@@ -328,7 +328,7 @@ tag("message").style.bottom="50%"
 }
 
 async function getScheduleData(){
-    const response = await fetch('2026schedule.json')
+    const response = await fetch('current-schedule.json')
     return await response.json()
 }
 
