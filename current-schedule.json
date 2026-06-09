@@ -176,7 +176,7 @@
     },
     "British Muster & Drill": {
       "name": "British Muster & Drill",
-      "description": "The King’s forces maneuver and drill, preparing to suppress the rebellion.",
+      "description": "The King?s forces maneuver and drill, preparing to suppress the rebellion.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -567,8 +567,8 @@
           "character": "Benjamin Franklin"
         },
         {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
+          "name": "John Hockley",
+          "character": "Robert Morris"
         },
         {
           "name": "Gove Allen",
@@ -604,8 +604,8 @@
           "character": "George Washington"
         },
         {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
         },
         {
           "name": "Cap Caputo",
@@ -641,7 +641,7 @@
     },
     "Dressing a Lady": {
       "name": "Dressing a Lady",
-      "description": "From stays to silk — join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
+      "description": "From stays to silk ? join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
@@ -797,11 +797,11 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
           "location": "Cup and Quill"
         },
         {
-          "time": "11:00 AM",
+          "time": "11:30 AM",
           "location": "Cup and Quill"
         }
       ]
@@ -812,16 +812,12 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 27,
+      "scheduleCount": 26,
       "location": "",
       "times": [
         {
           "time": "12:00 PM",
           "location": "Continental Field"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Liberty Tree"
         },
         {
           "time": "3:00 PM",
@@ -1063,7 +1059,7 @@
       ],
       "times": [
         {
-          "time": "11:00 AM",
+          "time": "12:30 PM",
           "location": "The Grove"
         },
         {
@@ -1155,8 +1151,8 @@
       ],
       "times": [
         {
-          "time": "12:00 PM",
-          "location": "Cup and Quill"
+          "time": "11:30 AM",
+          "location": "South Meetinghouse"
         }
       ]
     },
@@ -1413,8 +1409,8 @@
       ],
       "times": [
         {
-          "time": "12:30 PM",
-          "location": "School House"
+          "time": "4:00 PM",
+          "location": "Faneuil Hall"
         }
       ]
     },
@@ -1424,7 +1420,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -1435,6 +1431,10 @@
       "times": [
         {
           "time": "11:30 AM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "2:30 PM",
           "location": "Liberty Tree"
         }
       ]
@@ -1547,8 +1547,8 @@
       ],
       "times": [
         {
-          "time": "12:00 PM",
-          "location": "Liberty Tree"
+          "time": "4:30 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -1579,7 +1579,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -1589,11 +1589,7 @@
       ],
       "times": [
         {
-          "time": "12:00 PM",
-          "location": "Carpenters' Hall"
-        },
-        {
-          "time": "1:00 PM",
+          "time": "2:00 PM",
           "location": "Carpenters' Hall"
         }
       ]
@@ -1660,8 +1656,8 @@
       ],
       "times": [
         {
-          "time": "2:00 PM",
-          "location": "Carpenters' Hall"
+          "time": "10:30 AM",
+          "location": "The Grove"
         }
       ]
     },
@@ -1788,7 +1784,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -1798,7 +1794,11 @@
       ],
       "times": [
         {
-          "time": "1:00 PM",
+          "time": "11:00 AM",
+          "location": "The Grove"
+        },
+        {
+          "time": "1:30 PM",
           "location": "Liberty Tree"
         }
       ]
@@ -2046,10 +2046,6 @@
       "location": "",
       "times": [
         {
-          "time": "9:00 AM",
-          "location": "Cup and Quill"
-        },
-        {
           "time": "9:30 AM",
           "location": "Cup and Quill"
         },
@@ -2058,7 +2054,11 @@
           "location": "Cup and Quill"
         },
         {
-          "time": "11:30 AM",
+          "time": "10:30 AM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "12:00 PM",
           "location": "Cup and Quill"
         },
         {
@@ -2240,6 +2240,12 @@
           "name": "Johnathan Martin",
           "character": "Billy Flora"
         }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Tour Departure"
+        }
       ]
     },
     "Tour with George Washington": {
@@ -2248,7 +2254,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -2259,10 +2265,6 @@
       "times": [
         {
           "time": "10:00 AM",
-          "location": "Tour Departure"
-        },
-        {
-          "time": "11:30 AM",
           "location": "Tour Departure"
         }
       ]
@@ -2382,7 +2384,7 @@
       ],
       "times": [
         {
-          "time": "11:00 AM",
+          "time": "12:30 PM",
           "location": "Tour Departure"
         }
       ]
@@ -2591,8 +2593,8 @@
           "location": "Liberty Tree"
         },
         {
-          "time": "11:30 AM",
-          "location": "South Meetinghouse"
+          "time": "12:00 PM",
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -2637,7 +2639,7 @@
       ],
       "times": [
         {
-          "time": "12:30 PM",
+          "time": "11:00 AM",
           "location": "Tour Departure"
         }
       ]
@@ -2663,14 +2665,54 @@
         }
       ]
     },
-    "": {
-      "name": "",
-      "description": "",
+    "Meet Lady Dunmore": {
+      "name": "Meet Lady Dunmore",
+      "description": "While patriots cheered and loyalists fled, Lady Dunmore watched her world collapse. Meet the woman who lived the Revolution from the other side.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "scheduleCount": 1,
+      "location": "",
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
+    "Sipping Chocolate with Lady Charlotte": {
+      "name": "Sipping Chocolate with Lady Charlotte",
+      "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in ? should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Brooke LaBarr"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Rachel Hawks"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "Cup and Quill"
+        }
+      ]
     }
   },
   "location": {
@@ -2819,7 +2861,7 @@
       "Signers of Constitution",
       "Constitutional Convention"
     ],
-    "Bernardo de Gálvez": [
+    "Bernardo de G?lvez": [
       "Military"
     ],
     "Billy Flora": [
