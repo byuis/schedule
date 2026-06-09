@@ -797,11 +797,11 @@
       ],
       "times": [
         {
-          "time": "11:00 AM",
+          "time": "10:30 AM",
           "location": "Cup and Quill"
         },
         {
-          "time": "11:30 AM",
+          "time": "11:00 AM",
           "location": "Cup and Quill"
         }
       ]
@@ -812,7 +812,7 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 26,
+      "scheduleCount": 27,
       "location": "",
       "times": [
         {
@@ -822,6 +822,10 @@
         {
           "time": "3:00 PM",
           "location": "Continental Field"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Tour Departure"
         },
         {
           "time": "5:00 PM",
@@ -1024,14 +1028,10 @@
       "description": "Musket in one hand, Bible in the other ? discover the firebrand preachers whose sermons helped ignite and sustain the American Revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
       "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        },
         {
           "name": "David Woodward",
           "character": "Peter Muhlenberg"
@@ -1124,7 +1124,7 @@
       "description": "Liberty or loyalty? Patrick Henry and Governor Dunmore make their case ? but YOU cast the deciding vote in this explosive colonial showdown.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 5,
+      "personCount": 6,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1147,6 +1147,10 @@
         {
           "name": "Scott Forst",
           "character": "Governor Dunmore"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
         }
       ],
       "times": [
@@ -1204,7 +1208,7 @@
       ],
       "times": [
         {
-          "time": "10:00 AM",
+          "time": "10:30 AM",
           "location": "Faneuil Hall"
         }
       ]
@@ -1327,14 +1331,10 @@
       "description": "No one knew George Washington more intimately than Billy Lee. Meet the enslaved man who served at the General's side from Boston to Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
       "people": [
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        },
         {
           "name": "Patrick Martin",
           "character": "Billy Lee"
@@ -1610,7 +1610,7 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "10:00 AM",
           "location": "Faneuil Hall"
         },
         {
@@ -1758,14 +1758,10 @@
       "description": "Robert Shurtliff served bravely in the Continental Army ? but harbored an extraordinary secret. Meet the soldier whose true identity would shock the founding era.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
       "people": [
-        {
-          "name": "Kimberly Ward",
-          "character": "Robert Shurtliff"
-        },
         {
           "name": "Kimberly Ward",
           "character": "Robert Shurtliff"
@@ -1833,7 +1829,7 @@
       "description": "Meet the men who first set their differences aside to unite America",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 7,
+      "personCount": 6,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1860,10 +1856,6 @@
         {
           "name": "Thomas Wangeman",
           "character": "John Dickinson"
-        },
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
         }
       ],
       "times": [
@@ -1873,12 +1865,12 @@
         }
       ]
     },
-    "Meet the Delegates to the 2nd Continental Congress": {
-      "name": "Meet the Delegates to the 2nd Continental Congress",
+    "Redress or Revolution: You Decide the Fate of the Colonies": {
+      "name": "Redress or Revolution: You Decide the Fate of the Colonies",
       "description": "Discuss the road to independence with the men who lived it",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 7,
+      "personCount": 11,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1899,16 +1891,29 @@
           "character": "Christopher Gadsden"
         },
         {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        },
-        {
           "name": "Gregg Hardy",
           "character": "Benjamin Franklin"
         },
         {
           "name": "Jack Pauly",
           "character": "John Adams"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
+        },
+        {
+          "name": "Jo Beaty"
         }
       ],
       "times": [
@@ -2042,9 +2047,13 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 6,
+      "scheduleCount": 7,
       "location": "",
       "times": [
+        {
+          "time": "9:00 AM",
+          "location": "Cup and Quill"
+        },
         {
           "time": "9:30 AM",
           "location": "Cup and Quill"
@@ -2054,7 +2063,7 @@
           "location": "Cup and Quill"
         },
         {
-          "time": "10:30 AM",
+          "time": "11:30 AM",
           "location": "Cup and Quill"
         },
         {
@@ -2243,7 +2252,7 @@
       ],
       "times": [
         {
-          "time": "11:30 AM",
+          "time": "1:00 PM",
           "location": "Tour Departure"
         }
       ]
@@ -2498,7 +2507,7 @@
       ],
       "times": [
         {
-          "time": "1:00 PM",
+          "time": "11:30 AM",
           "location": "Tour Departure"
         }
       ]
@@ -2686,7 +2695,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 5,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -2710,6 +2719,10 @@
       "times": [
         {
           "time": "12:30 PM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "1:00 PM",
           "location": "Cup and Quill"
         }
       ]
