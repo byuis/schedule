@@ -1,13 +1,126 @@
 {
   "presentation": {
+    "18th century battle field tactics": {
+      "name": "18th century battle field tactics",
+      "description": "Stand your ground, hold your fire, and march straight at the enemy. Discover why 18th-century battlefield tactics were as brutal as they were brilliant.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Cody Huls"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "18th Century Weapons Demonstrations": {
+      "name": "18th Century Weapons Demonstrations",
+      "description": "From flintlock to bayonet — see, hear, and learn how 18th-century soldiers loaded and fired the weapons that won American independence.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Cody Huls"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "A History in Four Documents": {
+      "name": "A History in Four Documents",
+      "description": "Four documents. One nation. Join Founding Father Roger Sherman as he traces the remarkable story of American liberty through history's most transformative texts.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Carpenters' Hall"
+        }
+      ]
+    },
+    "American Closing Cermemony": {
+      "name": "American Closing Cermemony",
+      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        }
+      ],
+      "times": [
+        {
+          "time": "5:00 PM",
+          "location": "Continental Field"
+        }
+      ]
+    },
     "Break bread with the Brits": {
       "name": "Break bread with the Brits",
       "description": "Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": "",
+      "personCount": 8,
       "scheduleCount": 2,
       "location": "",
+      "people": [
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        },
+        {
+          "name": "Judy Polinski"
+        }
+      ],
       "times": [
         {
           "time": "2:00 PM",
@@ -19,14 +132,62 @@
         }
       ]
     },
-    "British Muster & Drill": {
-      "name": "British Muster & Drill",
-      "description": "The King?s forces maneuver and drill, preparing to suppress the rebellion.",
+    "British Children's Militia": {
+      "name": "British Children's Militia",
+      "description": "The Crown's youngest soldiers are ready for inspection — cheer on the British Children's Militia as they drill with pride and precision.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Patrick Ferguson"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "King's Field"
+        }
+      ]
+    },
+    "British Closing Cermemony": {
+      "name": "British Closing Cermemony",
+      "description": "Pomp, precision, and pageantry: the British Army brings the festival to a magnificent close with a ceremony fit for the Crown.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:30 PM",
+          "location": "King's Field"
+        }
+      ]
+    },
+    "British Muster & Drill": {
+      "name": "British Muster & Drill",
+      "description": "The King’s forces maneuver and drill, preparing to suppress the rebellion.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 3,
       "location": "",
+      "people": [
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        }
+      ],
       "times": [
         {
           "time": "9:00 AM",
@@ -47,13 +208,59 @@
       "description": "Watch British military demonstrate offensive and defensive techniques.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 1,
+      "personCount": 2,
+      "scheduleCount": 3,
       "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        },
+        {
+          "name": "Doug Bingham",
+          "character": "General Brich"
+        }
+      ],
       "times": [
         {
           "time": "10:00 AM",
           "location": "The Grove"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "The Grove"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Broom Making Demonstration": {
+      "name": "Broom Making Demonstration",
+      "description": "It's older than the Revolution and harder than it looks. Watch a skilled artisan craft a broom using the same techniques colonial Americans relied on daily.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 3,
+      "location": "Broom Maker's Shop",
+      "people": [
+        {
+          "name": "Darold Francis"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Broom Maker"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Broom Maker"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Broom Maker"
         }
       ]
     },
@@ -75,7 +282,7 @@
       ],
       "times": [
         {
-          "time": "9:00 AM",
+          "time": "1:00 PM",
           "location": "Continental Quarters"
         }
       ]
@@ -85,18 +292,42 @@
       "description": "Quill and ink instruction appropriate for adults and mature youth ($5 fee)",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Daniel Pugmire"
+        },
+        {
+          "name": "Jeanette Swain"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
+          "location": "Continental Quarters"
+        }
+      ]
     },
-    "Children?s Militia 1": {
-      "name": "Children?s Militia 1",
+    "Children’s Militia": {
+      "name": "Children’s Militia",
       "description": "Young colonists muster & march to show their patriotism.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": "",
+      "personCount": 2,
       "scheduleCount": 3,
       "location": "",
+      "people": [
+        {
+          "name": "Cameron Graham",
+          "character": "Nathaniel Green"
+        },
+        {
+          "name": "Johnathan Martin",
+          "character": "Billy Flora"
+        }
+      ],
       "times": [
         {
           "time": "11:30 AM",
@@ -112,27 +343,78 @@
         }
       ]
     },
-    "Children?s Militia 2": {
-      "name": "Children?s Militia 2",
-      "description": "Young colonists muster, march to show their loyalty.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
     "Colonial Dance": {
       "name": "Colonial Dance",
       "description": "Join a colonial dance for adults and children old enough to follow instruction and participate in dancing.",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": "",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 2,
       "scheduleCount": 1,
       "location": "",
+      "people": [
+        {
+          "name": "Brooke Shaw"
+        },
+        {
+          "name": "Hollie Lundell"
+        }
+      ],
+      "times": [
+        {
+          "time": "7:00 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Colonial Dance Instruction": {
+      "name": "Colonial Dance Instruction",
+      "description": "Join this favorite pastime and learn some favorite colonial dances.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Brooke Shaw"
+        },
+        {
+          "name": "Hollie Lundell"
+        }
+      ],
       "times": [
         {
           "time": "12:00 PM",
           "location": "The Grove"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Colonial Economics and the Secret Committee": {
+      "name": "Colonial Economics and the Secret Committee",
+      "description": "Behind the battles was a shadow economy. Uncover the covert trade networks and financial schemes that kept the American Revolution alive.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Carpenters' Hall"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -141,18 +423,41 @@
       "description": "Enjoy some of the lesser-known songs of the American colonial era.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Patrick Ferguson"
+        },
+        {
+          "name": "Leanne Larson"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "The Grove"
+        }
+      ]
     },
     "Colonial School": {
       "name": "Colonial School",
       "description": "Children attend school for academic, etiquette, and moral lessons of the day.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 2,
       "scheduleCount": 4,
       "location": "",
+      "people": [
+        {
+          "name": "Jewel Wellborn"
+        },
+        {
+          "name": "Melanie Hockley"
+        }
+      ],
       "times": [
         {
           "time": "10:00 AM",
@@ -174,43 +479,160 @@
     },
     "Continental Artillery": {
       "name": "Continental Artillery",
-      "description": "Watch Continental forces load and fire cannon typical of the Revolutionary War.",
+      "description": "Feel the ground shake as Continental artillery roars to life — a thunderous demonstration of the firepower that turned the tide of revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
-    "Colonial Dance Instruction": {
-      "name": "Colonial Dance Instruction",
-      "description": "Join this favorite pastime and learn some favorite colonial dances.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": "",
+      "personCount": 1,
+      "scheduleCount": 3,
       "location": "",
       "people": [
         {
-          "name": "Brooke Shaw"
+          "name": "Jared Cornel"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:00 AM",
+          "location": "Continental Field"
         },
         {
-          "name": "Hollie Lundell"
+          "time": "11:00 AM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Continental Field"
         }
       ]
     },
-    "Declaration of Independence": {
-      "name": "Declaration of Independence",
+    "Continental Muster and Drill": {
+      "name": "Continental Muster and Drill",
+      "description": "Watch Continental soldiers and militia unite to drill and fire muskets in a thrilling demonstration of the military force that won American independence.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 3,
+      "location": "",
+      "people": [
+        {
+          "name": "Jared Cornel"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Continental Field"
+        }
+      ]
+    },
+    "Declaration of Independence I": {
+      "name": "Declaration of Independence I",
       "description": "Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 2,
+      "personCount": 9,
+      "scheduleCount": 1,
       "location": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Elary Hall",
+          "character": "Penelope Barker"
+        }
+      ],
       "times": [
         {
           "time": "12:30 PM",
           "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Declaration of Independence II": {
+      "name": "Declaration of Independence II",
+      "description": "Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 9,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
         },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Elary Hall",
+          "character": "Penelope Barker"
+        }
+      ],
+      "times": [
         {
           "time": "5:30 PM",
           "location": "South Meetinghouse"
@@ -219,7 +641,7 @@
     },
     "Dressing a Lady": {
       "name": "Dressing a Lady",
-      "description": "From stays to silk ? join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
+      "description": "From stays to silk — join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
@@ -241,45 +663,383 @@
         }
       ]
     },
+    "Dressing an 18th Century Couple": {
+      "name": "Dressing an 18th Century Couple",
+      "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Kathryn Taber-Garcia"
+        },
+        {
+          "name": "Cameron Graham"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "School House"
+        }
+      ]
+    },
+    "Drop Spindle Class": {
+      "name": "Drop Spindle Class",
+      "description": "Before spinning wheels, there was the drop spindle. Try your hand at this essential colonial skill and leave with yarn you made yourself.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Nickie Allen"
+        },
+        {
+          "name": "Maria Kotter"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Halifax Quarters"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Halifax Quarters"
+        }
+      ]
+    },
+    "Early Printings of the Declaration of Independence": {
+      "name": "Early Printings of the Declaration of Independence",
+      "description": "The ink was barely dry before it changed the world. Discover the fascinating story behind the early printings of the Declaration of Independence.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
     "Elevenses": {
       "name": "Elevenses",
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 12,
       "scheduleCount": 2,
       "location": "",
+      "people": [
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
           "location": "Cup and Quill"
         },
         {
-          "time": "11:00 AM",
+          "time": "11:30 AM",
           "location": "Cup and Quill"
         }
       ]
     },
-    "Founding Father": {
-      "name": "Founding Father",
-      "description": "A conversation with a Founding Father. Who will it be? Come Find out.",
-      "hide": false,
+    "Empty for competing Activity": {
+      "name": "Empty for competing Activity",
+      "description": "This venue is vacant becuase of an nearby activity that competes",
+      "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "scheduleCount": 26,
+      "location": "",
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Tour Departure"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "South Meetinghouse"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Faneuil Hall"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Carpenters' Hall"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "School House"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "King's Field"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Halifax Quarters"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Continental Quarters"
+        },
+        {
+          "time": "5:00 PM",
+          "location": "The Grove"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Tour Departure"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Faneuil Hall"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Carpenters' Hall"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "School House"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Continental Field"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "King's Field"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Halifax Quarters"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Continental Quarters"
+        },
+        {
+          "time": "5:30 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Fan Painting Class": {
+      "name": "Fan Painting Class",
+      "description": "Fans weren't just for cooling off — they were colonial art. Join this charming class and paint your own piece of 18th-century elegance to take home.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Kathryn Taber-Garcia"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:00 PM",
+          "location": "Continental Quarters"
+        }
+      ]
+    },
+    "Finding Noon by The Sun": {
+      "name": "Finding Noon by The Sun",
+      "description": "Discover how 18th-century Americans told time using the sun — a hands-on demonstration of the clever science behind colonial timekeeping.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Dan Maker"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Roper Maker"
+        }
+      ]
     },
     "French Expeditionary Corps": {
       "name": "French Expeditionary Corps",
       "description": "6,000 French soldiers. One crucial alliance. Learn how Rochambeau's corps helped deliver the decisive blow at Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 4,
       "scheduleCount": 1,
       "location": "",
+      "people": [
+        {
+          "name": "Carl Wager",
+          "character": "Comte de Rochambeau"
+        },
+        {
+          "name": "Ashely Gephart",
+          "character": "Count Von Fersen"
+        },
+        {
+          "name": "Robert Diaz",
+          "character": "Colonel Desandrounis"
+        },
+        {
+          "name": "Lance Jensen",
+          "character": "Marquis de Laval"
+        }
+      ],
       "times": [
         {
           "time": "12:00 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "From the Stamp Act to Independence": {
+      "name": "From the Stamp Act to Independence",
+      "description": "It began with a stamp and ended with a revolution. Follow the remarkable chain of events that transformed loyal British subjects into American patriots.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "God and Gunpowder: the Revolutionary Clergy": {
+      "name": "God and Gunpowder: the Revolutionary Clergy",
+      "description": "Musket in one hand, Bible in the other — discover the firebrand preachers whose sermons helped ignite and sustain the American Revolution.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        },
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
           "location": "Faneuil Hall"
         }
       ]
@@ -289,13 +1049,28 @@
       "description": "Listen to a performance of this classical 18th century instrument.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Leanne Larson"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "The Grove"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "The Grove"
+        }
+      ]
     },
     "Hog Thief Trial": {
       "name": "Hog Thief Trial",
-      "description": "Someone stole the hog ? but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
+      "description": "Someone stole the hog — but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 3,
@@ -319,13 +1094,185 @@
         }
       ]
     },
+    "Introduction to Natural Law": {
+      "name": "Introduction to Natural Law",
+      "description": "Before the Revolution came an idea. Discover the philosophy of Natural Law — the intellectual spark that convinced the founders they had every right to rebel.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "Join the 1774 Burgesses": {
+      "name": "Join the 1774 Burgesses",
+      "description": "Liberty or loyalty? Patrick Henry and Governor Dunmore make their case — but YOU cast the deciding vote in this explosive colonial showdown.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Join the 2nd Virginia Convention": {
+      "name": "Join the 2nd Virginia Convention",
+      "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 4,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:30 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Learn about Henry Knox": {
+      "name": "Learn about Henry Knox",
+      "description": "From Boston bookshop to battlefield hero — discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Peter Cannon"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Life of a Laundress: A Demonstration of 18th Century Laundry": {
+      "name": "Life of a Laundress: A Demonstration of 18th Century Laundry",
+      "description": "Clean clothes in colonial America came at a price — hours of back-breaking labor. Watch a live demonstration of the skills that kept the Revolution looking sharp.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Rachel Joy Jackson"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "British Laundry"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "British Laundry"
+        }
+      ]
+    },
+    "Lord and Lady Dunmore's Parlor": {
+      "name": "Lord and Lady Dunmore's Parlor",
+      "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 2,
+      "scheduleCount": 3,
+      "location": "",
+      "people": [
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
     "Lucet Class": {
       "name": "Lucet Class",
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 6,
+      "scheduleCount": 5,
       "location": "",
       "times": [
         {
@@ -334,10 +1281,6 @@
         },
         {
           "time": "11:00 AM",
-          "location": "Halifax Quarters"
-        },
-        {
-          "time": "11:30 AM",
           "location": "Halifax Quarters"
         },
         {
@@ -354,13 +1297,176 @@
         }
       ]
     },
-    "Meet Governor Dunmore": {
-      "name": "Meet Governor Dunmore",
-      "description": "He was Virginia's last royal governor ? and one of its most controversial. Meet Lord Dunmore and hear his side of the story",
+    "Madison debates Henry": {
+      "name": "Madison debates Henry",
+      "description": "He wrote the Constitution. Patrick Henry hated it. Watch James Madison defend his masterpiece against Virginia's most passionate and fiery orator.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Meet Billy Lee": {
+      "name": "Meet Billy Lee",
+      "description": "No one knew George Washington more intimately than Billy Lee. Meet the enslaved man who served at the General's side from Boston to Yorktown.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Carpenters' Hall"
+        }
+      ]
+    },
+    "Meet Christopher Gadsden": {
+      "name": "Meet Christopher Gadsden",
+      "description": "He was called the Sam Adams of the South. Meet Christopher Gadsden — merchant, soldier, and one of the Revolution's most passionate and uncompromising voices.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Faneuil Hall"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Meet Elizabeth Burgin": {
+      "name": "Meet Elizabeth Burgin",
+      "description": "She rescued over 200 American prisoners from British ships and became one of the Revolution's most wanted women. Meet the remarkable Elizabeth Burgin.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Camille Smithson",
+          "character": "Elizabeth Burgen"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "School House"
+        }
+      ]
+    },
+    "Meet Elizabeth Powell": {
+      "name": "Meet Elizabeth Powell",
+      "description": "She dined with Washington, debated with Franklin, and influenced the founders more than history remembers. Meet Philadelphia's most brilliant and powerful woman, Elizabeth Powel.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Meet George Mason": {
+      "name": "Meet George Mason",
+      "description": " He wrote the words that inspired the Bill of Rights and pushed Virginia to curtail slavery. Meet the complex, principled patriot George Mason.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "Geroge Mason"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
+    "Meet George Washington": {
+      "name": "Meet George Washington",
+      "description": "He led a ragged army to victory against the world's greatest military power. Come face to face with General George Washington himself.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Meet Governor Dunmore": {
+      "name": "Meet Governor Dunmore",
+      "description": "He promised freedom to enslaved Americans — then used it as a weapon against the Revolution. Meet Lord Dunmore, the royal governor who lit a powder keg.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -372,30 +1478,77 @@
         {
           "time": "10:30 AM",
           "location": "South Meetinghouse"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
     "Meet Governor Galvez": {
       "name": "Meet Governor Galvez",
-      "description": "He fought the British while America fought for independence. Meet Bernardo de G?lvez ? the Spanish hero the history books forgot.",
+      "description": "He fought the British while America fought for independence. Meet Bernardo de Gálvez — the Spanish hero the history books forgot.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Dennis Carlos",
+          "character": "Bernardo de Gálvez"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Meet Haym Salomon": {
+      "name": "Meet Haym Salomon",
+      "description": "George Washington was desperate for money. Haym Salomon had the answer. Meet the remarkable patriot who quietly saved the American Revolution.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Kent Vance",
+          "character": "Hyam Soloman"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Forge of Sedition"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
     },
     "Meet James Madison": {
       "name": "Meet James Madison",
       "description": "A conversation with the Father of the United States Constitution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
+      "people": [
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        }
+      ],
       "times": [
         {
-          "time": "12:00 PM",
-          "location": "Liberty Tree"
+          "time": "4:30 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -404,18 +1557,57 @@
       "description": "A conversation with the titan of American Independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Meet John Dickinson": {
+      "name": "Meet John Dickinson",
+      "description": "Discover the \"Penman of the Revolution\" — the Founding Father whose powerful words shaped American liberty before anyone fired a shot.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:00 PM",
+          "location": "Carpenters' Hall"
+        }
+      ]
     },
     "Meet John Hancock": {
       "name": "Meet John Hancock",
       "description": "A conversation with the man who lead the Continental Congress to independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 2,
       "location": "",
+      "people": [
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        }
+      ],
       "times": [
         {
           "time": "10:30 AM",
@@ -427,9 +1619,51 @@
         }
       ]
     },
+    "Meet Lydia Darragh": {
+      "name": "Meet Lydia Darragh",
+      "description": "She was a quiet Quaker mother who became one of Washington's most valuable spies. Discover the remarkable true story of patriot hero Lydia Darragh.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Dalane England",
+          "character": "Lydia Darragh"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
+    "Meet Major James Beaumont": {
+      "name": "Meet Major James Beaumont",
+      "description": "roper, proud, and loyal to the Crown — meet Major James Beaumont, the British officer who sees this colonial rebellion as a temporary inconvenience.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "The Grove"
+        }
+      ]
+    },
     "Meet Mercy Otis Warren": {
       "name": "Meet Mercy Otis Warren",
-      "description": "",
+      "description": "Poet, playwright, spy-master, and historian — meet Mercy Otis Warren, the razor-sharp patriot whose pen was as powerful as any musket.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -447,18 +1681,18 @@
           "location": "Carpenters' Hall"
         },
         {
-          "time": "3:00 PM",
+          "time": "3:30 PM",
           "location": "Carpenters' Hall"
         }
       ]
     },
     "Meet Patrick Ferguson": {
       "name": "Meet Patrick Ferguson",
-      "description": "Listen to the Revolutionary War?s top marksman. Will you enlist?",
+      "description": "Listen to the Revolutionary War’s top marksman. Will you enlist?",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -470,12 +1704,16 @@
         {
           "time": "10:30 AM",
           "location": "Liberty Tree"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Liberty Tree"
         }
       ]
     },
     "Meet Patrick Henry": {
       "name": "Meet Patrick Henry",
-      "description": "A conversation with one of the revolution?s top orators.",
+      "description": "A conversation with one of the revolution’s top orators.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -491,6 +1729,102 @@
         {
           "time": "10:00 AM",
           "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Meet Peter Muhlenberg": {
+      "name": "Meet Peter Muhlenberg",
+      "description": "There is a time for prayer and a time for war. Meet Peter Muhlenberg — the fighting parson who chose both and changed history.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Meet Robert Shurliff": {
+      "name": "Meet Robert Shurliff",
+      "description": "Robert Shurtliff served bravely in the Continental Army — but harbored an extraordinary secret. Meet the soldier whose true identity would shock the founding era.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Kimberly Ward",
+          "character": "Robert Shurtliff"
+        },
+        {
+          "name": "Kimberly Ward",
+          "character": "Robert Shurtliff"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "School House"
+        }
+      ]
+    },
+    "Meet Ruth Harrington": {
+      "name": "Meet Ruth Harrington",
+      "description": "She watched the Revolution begin at her own doorstep. Meet Ruth Harrington, who paid a devastating price on April 19, 1775",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Dalane England",
+          "character": "Ruth Harrington"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "The Grove"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
+    "Meet Sybil Ludington": {
+      "name": "Meet Sybil Ludington",
+      "description": "You’ve heard of Paul Revere’s ride; now listen to Sybil tell of her harrowing ride.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Alyssa Michaelis",
+          "character": "Sybil Ludington"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "School House"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "School House"
         }
       ]
     },
@@ -584,32 +1918,77 @@
         }
       ]
     },
-    "Military Closing Volleys": {
-      "name": "Military Closing Volleys",
-      "description": "Close the day as the Crown forces and American troops join in a final volley.",
+    "Minuet Dance Demonstration": {
+      "name": "Minuet Dance Demonstration",
+      "description": "Discover how the founders danced — a captivating demonstration of the minuet, the fashionable step that graced every colonial ballroom.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 2,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Brooke Shaw"
+        },
+        {
+          "name": "Hollie Lundell"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "The Grove"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Morning Toilette": {
+      "name": "Morning Toilette",
+      "description": "Getting dressed in the 18th century was no simple task. Experience the fascinating morning routines that defined style, status, and society in colonial America.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Katherine Moulton"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "British Laundry"
+        }
+      ]
     },
     "Never Caught": {
       "name": "Never Caught",
       "description": "Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
-    "Patriots in Petticoats": {
-      "name": "Patriots in Petticoats",
-      "description": "Contributions of lesser-known women to American Independence.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Hailey Reid",
+          "character": "Ona Judge"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Carpenters' Hall"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Carpenters' Hall"
+        }
+      ]
     },
     "Piracy Trial": {
       "name": "Piracy Trial",
@@ -632,29 +2011,30 @@
         }
       ]
     },
-    "Meet Robert Morris": {
-      "name": "Meet Robert Morris",
-      "description": "",
+    "Revolution from the \"Billy\" point of view": {
+      "name": "Revolution from the \"Billy\" point of view",
+      "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
+      "personCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Johnathan Martin",
+          "character": "Billy Flora"
+        },
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:00 PM",
+          "location": "Faneuil Hall"
         }
       ]
-    },
-    "Meet Roger Sherman": {
-      "name": "Meet Roger Sherman",
-      "description": "Hear the experience of the only founding father to sign all 4 founding documents.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
     },
     "Setup / Takedown": {
       "name": "Setup / Takedown",
@@ -666,10 +2046,6 @@
       "location": "",
       "times": [
         {
-          "time": "9:00 AM",
-          "location": "Cup and Quill"
-        },
-        {
           "time": "9:30 AM",
           "location": "Cup and Quill"
         },
@@ -678,7 +2054,11 @@
           "location": "Cup and Quill"
         },
         {
-          "time": "11:30 AM",
+          "time": "10:30 AM",
+          "location": "Cup and Quill"
+        },
+        {
+          "time": "12:00 PM",
           "location": "Cup and Quill"
         },
         {
@@ -715,38 +2095,29 @@
       "description": "Hear Penelope Barker, organizer of the Edenton Tea Party, discuss the politics of 1774. Will you join the boycott of British goods?",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 2,
       "location": "",
+      "people": [
+        {
+          "name": "Elary Hall",
+          "character": "Penelope Barker"
+        }
+      ],
       "times": [
         {
-          "time": "2:00 PM",
+          "time": "10:00 AM",
           "location": "Liberty Tree"
         },
         {
-          "time": "2:30 PM",
+          "time": "2:00 PM",
           "location": "Liberty Tree"
-        }
-      ]
-    },
-    "Sybil Ludington": {
-      "name": "Sybil Ludington",
-      "description": "You?ve heard of Paul Revere?s ride; now listen to Sybil tell of her harrowing ride.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 1,
-      "location": "",
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "School House"
         }
       ]
     },
     "Tea Tax Debate": {
       "name": "Tea Tax Debate",
-      "description": "The tea sits in the harbor ? will you pay the tax or dump it? Jump into this heated colonial debate and shape the outcome!",
+      "description": "The tea sits in the harbor — will you pay the tax or dump it? Jump into this heated colonial debate and shape the outcome!",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 3,
@@ -770,17 +2141,89 @@
         }
       ]
     },
+    "The Dark times of 1776": {
+      "name": "The Dark times of 1776",
+      "description": "In 1776, the Revolution nearly died. Meet John Glover — the Marblehead mariner whose men pulled Washington back from the brink of total defeat.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "location": "",
+      "people": [
+        {
+          "name": "Luke Rader",
+          "character": "John Glover"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Faneuil Hall"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Faneuil Hall"
+        }
+      ]
+    },
     "The language of the Fan": {
       "name": "The language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Kathryn Taber-Garcia"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "The powder Incident": {
+      "name": "The powder Incident",
+      "description": "One day after Lexington and Concord, Virginia had its own powder keg moment. Discover how Governor Dunmore's midnight raid nearly ignited the Revolution.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "The Wartime Role of an Officer's Wife": {
+      "name": "The Wartime Role of an Officer's Wife",
+      "description": "She didn't carry a musket, but she was indispensable. Explore the remarkable role officer's wives played in keeping the Continental Army together on campaign.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Lindsay Weiler"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "School House"
         }
       ]
     },
@@ -790,12 +2233,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Johnathan Martin",
           "character": "Billy Flora"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -841,12 +2290,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Ben Moulton",
           "character": "James Madison"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:00 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -856,12 +2311,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Jack Pauly",
           "character": "John Adams"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -892,12 +2353,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Cap Caputo",
           "character": "John Hancock"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -907,12 +2374,33 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Tom Wellborn",
           "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "Tour Departure"
+        }
+      ]
+    },
+    "Tour with Mercy Otis Warren": {
+      "name": "Tour with Mercy Otis Warren",
+      "description": "See the festival through the eyes of America's most fearless female patriot — writer, satirist, and revolutionary Mercy Otis Warren.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Lyla Jackson",
+          "character": "Mercy Otis Warren"
         }
       ]
     },
@@ -922,12 +2410,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Benjamin Muhlestein",
           "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -937,12 +2431,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Elary Hall",
           "character": "Penelope Barker"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -952,12 +2452,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "John Hockley",
           "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -982,12 +2488,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Alyssa Michaelis",
           "character": "Sybil Ludington"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -997,27 +2509,39 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Nathan Crandall",
           "character": "Thomas Jefferson"
         }
+      ],
+      "times": [
+        {
+          "time": "2:00 PM",
+          "location": "Tour Departure"
+        }
       ]
     },
-    "Tour with William Lee": {
-      "name": "Tour with William Lee",
-      "description": "Join Tour with William Lee on a village tour and observe the day's business",
+    "Tour with Billy Lee": {
+      "name": "Tour with Billy Lee",
+      "description": "Join Tour with Billy Lee on a village tour and observe the day's business",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Patrick Martin",
           "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -1037,611 +2561,16 @@
       ],
       "times": [
         {
-          "time": "10:00 AM",
-          "location": "Liberty Tree"
+          "time": "9:30 AM",
+          "location": "Carpenters' Hall"
         },
         {
           "time": "12:30 PM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Liberty Tree"
-        }
-      ]
-    },
-    "Meet Haym Salomon": {
-      "name": "Meet Haym Salomon",
-      "description": "George Washington was desperate for money. Haym Salomon had the answer. Meet the remarkable patriot who quietly saved the American Revolution.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Kent Vance",
-          "character": "Hyam Soloman"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "Meet George Washington": {
-      "name": "Meet George Washington",
-      "description": "He led a ragged army to victory against the world's greatest military power. Come face to face with General George Washington himself.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        }
-      ],
-      "times": [
-        {
-          "time": "2:00 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Empty for competing Activity": {
-      "name": "Empty for competing Activity",
-      "description": "This venue is vacant becuase of an nearby activity that competes",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 28,
-      "location": "",
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "South Meetinghouse"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Tour Departure"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "South Meetinghouse"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Faneuil Hall"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Carpenters' Hall"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "School House"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "King's Field"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Halifax Quarters"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Continental Quarters"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "The Grove"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Tour Departure"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Faneuil Hall"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Carpenters' Hall"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "School House"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "King's Field"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Halifax Quarters"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "Continental Quarters"
-        },
-        {
-          "time": "5:30 PM",
-          "location": "The Grove"
-        }
-      ]
-    },
-    "Madison debates Henry": {
-      "name": "Madison debates Henry",
-      "description": "He wrote the Constitution. Patrick Henry hated it. Watch James Madison defend his masterpiece against Virginia's most passionate and fiery orator.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Lord and Lady Dunmore's Parlor": {
-      "name": "Lord and Lady Dunmore's Parlor",
-      "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 2,
-      "scheduleCount": 3,
-      "location": "",
-      "people": [
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
-          "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Join the 1774 Burgesses": {
-      "name": "Join the 1774 Burgesses",
-      "description": "Liberty or loyalty? Patrick Henry and Governor Dunmore make their case ? but YOU cast the deciding vote in this explosive colonial showdown.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 4,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Meet Peter Muhlenberg": {
-      "name": "Meet Peter Muhlenberg",
-      "description": "There is a time for prayer and a time for war. Meet Peter Muhlenberg ? the fighting parson who chose both and changed history.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "Learn about Henry Knox": {
-      "name": "Learn about Henry Knox",
-      "description": "From Boston bookshop to battlefield hero ? discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Peter Cannon"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "18th century battle field tactics": {
-      "name": "18th century battle field tactics",
-      "description": "Stand your ground, hold your fire, and march straight at the enemy. Discover why 18th-century battlefield tactics were as brutal as they were brilliant.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Cody Huls"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "Meet Christopher Gadsden": {
-      "name": "Meet Christopher Gadsden",
-      "description": "He was called the Sam Adams of the South. Meet Christopher Gadsden ? merchant, soldier, and one of the Revolution's most passionate and uncompromising voices.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Faneuil Hall"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "The Dark times of 1776": {
-      "name": "The Dark times of 1776",
-      "description": "In 1776, the Revolution nearly died. Meet John Glover ? the Marblehead mariner whose men pulled Washington back from the brink of total defeat.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Luke Rader",
-          "character": "John Glover"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "Faneuil Hall"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "18th Century Weapons Demonstrations": {
-      "name": "18th Century Weapons Demonstrations",
-      "description": "From flintlock to bayonet ? see, hear, and learn how 18th-century soldiers loaded and fired the weapons that won American independence.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Cody Huls"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "Join the 2nd Virginia Convention": {
-      "name": "Join the 2nd Virginia Convention",
-      "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 3,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
-        }
-      ],
-      "times": [
-        {
-          "time": "4:30 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Revolution from the \"Billy\" point of view": {
-      "name": "Revolution from the \"Billy\" point of view",
-      "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Johnathan Martin",
-          "character": "Billy Flora"
-        },
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        }
-      ],
-      "times": [
-        {
-          "time": "2:00 PM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "God and Gunpowder: the Revolutionary Clergy": {
-      "name": "God and Gunpowder: the Revolutionary Clergy",
-      "description": "Musket in one hand, Bible in the other ? discover the firebrand preachers whose sermons helped ignite and sustain the American Revolution.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        },
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        }
-      ],
-      "times": [
-        {
-          "time": "2:30 PM",
-          "location": "Faneuil Hall"
-        }
-      ]
-    },
-    "What really happened at the Boston Massacre": {
-      "name": "What really happened at the Boston Massacre",
-      "description": "Crispus Attucks fell first. But who fired ? and why? Dig beneath the legend and uncover the truth behind colonial America's most infamous night.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "Introduction to Natural Law": {
-      "name": "Introduction to Natural Law",
-      "description": "Before the Revolution came an idea. Discover the philosophy of Natural Law ? the intellectual spark that convinced the founders they had every right to rebel.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "From the Stamp Act to Independence": {
-      "name": "From the Stamp Act to Independence",
-      "description": "It began with a stamp and ended with a revolution. Follow the remarkable chain of events that transformed loyal British subjects into American patriots.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "Early Printings of the Declaration of Independence": {
-      "name": "Early Printings of the Declaration of Independence",
-      "description": "The ink was barely dry before it changed the world. Discover the fascinating story behind the early printings of the Declaration of Independence.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Forge of Sedition"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "The powder Incident": {
-      "name": "The powder Incident",
-      "description": "One day after Lexington and Concord, Virginia had its own powder keg moment. Discover how Governor Dunmore's midnight raid nearly ignited the Revolution.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
           "location": "Forge of Sedition"
         },
         {
           "time": "4:00 PM",
-          "location": "Forge of Sedition"
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -1655,7 +2584,7 @@
       "location": "",
       "people": [
         {
-          "name": "Ralph C. Hancock"
+          "name": "Ralph C Hancock"
         }
       ],
       "times": [
@@ -1664,84 +2593,14 @@
           "location": "Liberty Tree"
         },
         {
-          "time": "11:30 AM",
-          "location": "South Meetinghouse"
+          "time": "12:00 PM",
+          "location": "Liberty Tree"
         }
       ]
     },
-    "Meet Ona Judge": {
-      "name": "Meet Ona Judge",
-      "description": "She heard the words liberty and freedom every day ? and one day she acted on them. Meet Ona Judge and discover her remarkable journey to freedom.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "",
-      "people": [
-        {
-          "name": "Hailey Reid",
-          "character": "Ona Judge"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Carpenters' Hall"
-        },
-        {
-          "time": "12:30 PM",
-          "location": "Carpenters' Hall"
-        }
-      ]
-    },
-    "": {
-      "name": "",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
-    "Meet Billy Lee": {
-      "name": "Meet Billy Lee",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Carpenters' Hall"
-        }
-      ]
-    },
-    "Meet Sybil Luddington": {
-      "name": "Meet Sybil Luddington",
-      "description": "You?ve heard of Paul Revere?s ride; now listen to Sybil tell of her harrowing ride.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "",
-      "people": [
-        {
-          "name": "Alyssa Michaelis",
-          "character": "Sybil Ludington"
-        }
-      ]
-    },
-    "Meet John Dickinson": {
-      "name": "Meet John Dickinson",
-      "description": "Discover the \"Penman of the Revolution\" ? the Founding Father whose powerful words shaped American liberty before anyone fired a shot.",
+    "What really happened at the Boston Massacre": {
+      "name": "What really happened at the Boston Massacre",
+      "description": "Crispus Attucks fell first. But who fired — and why? Dig beneath the legend and uncover the truth behind colonial America's most infamous night.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -1749,24 +2608,24 @@
       "location": "",
       "people": [
         {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
         }
       ],
       "times": [
         {
-          "time": "12:00 PM",
-          "location": "Carpenters' Hall"
+          "time": "9:30 AM",
+          "location": "Forge of Sedition"
         },
         {
-          "time": "1:00 PM",
-          "location": "Carpenters' Hall"
+          "time": "2:00 PM",
+          "location": "Forge of Sedition"
         }
       ]
     },
-    "Meet Major James Beaumont": {
-      "name": "Meet Major James Beaumont",
-      "description": "",
+    "Tour with Major Beaumont": {
+      "name": "Tour with Major Beaumont",
+      "description": "Join Tour with Major Beaumont on a village tour and observe the day's business",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -1780,14 +2639,14 @@
       ],
       "times": [
         {
-          "time": "2:00 PM",
-          "location": "Carpenters' Hall"
+          "time": "11:00 AM",
+          "location": "Tour Departure"
         }
       ]
     },
-    "A History in Four Documents": {
-      "name": "A History in Four Documents",
-      "description": "",
+    "Meet Benjamin Franklin": {
+      "name": "Meet Benjamin Franklin",
+      "description": "He flew a kite in a thunderstorm and negotiated with kings. Meet Benjamin Franklin — America's most irresistible genius and the Revolution's secret weapon.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -1795,382 +2654,63 @@
       "location": "",
       "people": [
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
         }
       ],
       "times": [
         {
-          "time": "2:30 PM",
-          "location": "Carpenters' Hall"
+          "time": "4:00 PM",
+          "location": "South Meetinghouse"
         }
       ]
     },
-    "Colonial Economics and the Secret Committee": {
-      "name": "Colonial Economics and the Secret Committee",
-      "description": "",
+    "Meet Lady Dunmore": {
+      "name": "Meet Lady Dunmore",
+      "description": "While patriots cheered and loyalists fled, Lady Dunmore watched her world collapse. Meet the woman who lived the Revolution from the other side.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": "",
       "scheduleCount": 1,
       "location": "",
-      "people": [
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        }
-      ],
       "times": [
         {
-          "time": "3:30 PM",
-          "location": "Carpenters' Hall"
-        }
-      ]
-    },
-    "Meet George Mason": {
-      "name": "Meet George Mason",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Charles Castleberry",
-          "character": "Geroge Mason"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
+          "time": "12:30 PM",
           "location": "Liberty Tree"
         }
       ]
     },
-    "Meet Ruth Harrington": {
-      "name": "Meet Ruth Harrington",
-      "description": "",
+    "Sipping Chocolate with Lady Charlotte": {
+      "name": "Sipping Chocolate with Lady Charlotte",
+      "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in — should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 5,
       "scheduleCount": 1,
       "location": "",
       "people": [
         {
-          "name": "Dalane England",
-          "character": "Ruth Harrington"
-        }
-      ],
-      "times": [
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
         {
-          "time": "1:00 PM",
-          "location": "Liberty Tree"
-        }
-      ]
-    },
-    "Meet Lydia Darragh": {
-      "name": "Meet Lydia Darragh",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
+          "name": "Lindsay Weiler"
+        },
         {
-          "name": "Dalane England",
-          "character": "Lydia Darragh"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "Liberty Tree"
-        }
-      ]
-    },
-    "Know Your Representation: Meet the Repesentative of His Majesty King George III": {
-      "name": "Know Your Representation: Meet the Repesentative of His Majesty King George III",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "Carpenters' Hall"
-        }
-      ]
-    },
-    "Meet Robert Shurliff": {
-      "name": "Meet Robert Shurliff",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Kimberly Ward",
-          "character": "Robert Shurtliff"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "School House"
-        }
-      ]
-    },
-    "Meet Elizabeth Powell": {
-      "name": "Meet Elizabeth Powell",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
+          "name": "Brooke LaBarr"
+        },
         {
           "name": "Katrina Kim",
           "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Rachel Hawks"
         }
       ],
       "times": [
         {
           "time": "12:30 PM",
-          "location": "School House"
-        }
-      ]
-    },
-    "Meet Elizabeth Burgin": {
-      "name": "Meet Elizabeth Burgin",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Camille Smithson",
-          "character": "Elizabeth Burgen"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "School House"
-        }
-      ]
-    },
-    "The Role of an Officer's Wife During a Campaign": {
-      "name": "The Role of an Officer's Wife During a Campaign",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Lindsay Weiler"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "School House"
-        }
-      ]
-    },
-    "Morning Toilette": {
-      "name": "Morning Toilette",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "",
-      "people": [
-        {
-          "name": "Katherine Moulton"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "In Site"
-        }
-      ]
-    },
-    "Life of a Laundress: A Demonstration of 18th Century Laundry": {
-      "name": "Life of a Laundress: A Demonstration of 18th Century Laundry",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "British Laundray",
-      "people": [
-        {
-          "name": "Rachel Joy Jackson"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "In Site"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "In Site"
-        }
-      ]
-    },
-    "Finding Noon by The Sun": {
-      "name": "Finding Noon by The Sun",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "",
-      "people": [
-        {
-          "name": "Dan Maker"
-        }
-      ]
-    },
-    "Broom Making Class/Demonstration": {
-      "name": "Broom Making Class/Demonstration",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "location": "",
-      "people": [
-        {
-          "name": "Darold Francis"
-        }
-      ]
-    },
-    "Cannon Fire": {
-      "name": "Cannon Fire",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 4,
-      "location": "",
-      "times": [
-        {
-          "time": "9:00 AM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "11:00 AM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Continental Field"
-        },
-        {
-          "time": "5:00 PM",
-          "location": "Continental Field"
-        }
-      ]
-    },
-    "God and Gunpowder: American's Revolutionary Clergy": {
-      "name": "God and Gunpowder: American's Revolutionary Clergy",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
-    "British Children's Militia": {
-      "name": "British Children's Militia",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": ""
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "King's Field"
-        }
-      ]
-    },
-    "Minuet Dance Demonstration": {
-      "name": "Minuet Dance Demonstration",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Brooke Shaw"
-        },
-        {
-          "name": "Hollie Lundell"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "The Grove"
-        }
-      ]
-    },
-    "Continental Muster and Drill": {
-      "name": "Continental Muster and Drill",
-      "description": "",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
-    },
-    "Dressing a Lady II": {
-      "name": "Dressing a Lady II",
-      "description": "A review of the layers of clothing that a working-class colonnial woman wore",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Kathryn Taber-Garcia"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "School House"
+          "location": "Cup and Quill"
         }
       ]
     }
@@ -2295,6 +2835,22 @@
       "coordinates": "",
       "x": "",
       "y": ""
+    },
+    "Broom Maker's Shop": {
+      "name": "Broom Maker's Shop",
+      "description": "Attached to the village cooper",
+      "mapNumber": 16,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Gray's Rope Walk": {
+      "name": "Gray's Rope Walk",
+      "description": "Where durable, manilla rope is made while you wait",
+      "mapNumber": 17,
+      "coordinates": "",
+      "x": "",
+      "y": ""
     }
   },
   "group": {
@@ -2305,7 +2861,7 @@
       "Signers of Constitution",
       "Constitutional Convention"
     ],
-    "Bernardo de G?lvez": [
+    "Bernardo de Gálvez": [
       "Military"
     ],
     "Billy Flora": [
@@ -2366,7 +2922,7 @@
       "Founding Fathers",
       "2nd Continenal Congress",
       "Constitutional Convention",
-      "Signers of Declaration"
+      "Signers of Constitution"
     ],
     "John Adams": [
       "Founding Fathers",
@@ -2417,9 +2973,6 @@
       "Signers of the Continental Association",
       "Military"
     ],
-    "Penelope Barker": [
-      "Women of the Revolution"
-    ],
     "Peter Muhlenberg": [
       "Military",
       "1st Continental Congress",
@@ -2433,8 +2986,7 @@
       "Signers of Constitution"
     ],
     "Robert Shurtliff": [
-      "Military",
-      "Women of the Revolution"
+      "Military"
     ],
     "Roger Sherman": [
       "Founding Fathers",
@@ -2458,6 +3010,32 @@
       "Founding Fathers",
       "2nd Continenal Congress",
       "Signers of Declaration"
+    ],
+    "Nathaniel Green": [
+      "Military"
+    ],
+    "John Savage": [
+      "British",
+      "Military"
+    ],
+    "Joseph Plumb Martin": [
+      "Military"
+    ],
+    "Colonel Desandrounis": [
+      "Military"
+    ],
+    "Count Von Fersen": [
+      "Military"
+    ],
+    "Marquis de Laval": [
+      "Military"
+    ],
+    "Penelope Barker": [
+      "Women of the Revolution"
+    ],
+    "Deborah Sampson": [
+      "Military",
+      "Women of the Revolution"
     ]
   }
 }

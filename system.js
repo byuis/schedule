@@ -174,7 +174,7 @@ function filterSchedule(filter){
 
 }
 async function start_me_up(){
-    const urlParams = new URLSearchParams(window.location.search);
+    const params = new URLSearchParams(window.location.search);
     const filterClasses={
         character:[],
         person:[],
@@ -183,7 +183,7 @@ async function start_me_up(){
     }
 
     let scheduleData=null
-    if(urlParams.get('draft')){
+    if(params.get('draft')){
         // in chf schedule builder owned by gove colonialheritage.org
         const url = "https://script.google.com/macros/s/AKfycbx5XJ-FlVy7qj3SjOw4mpd7ioUJYljaN5GEqhOd8PThX1m6weY7B26TXPdnJTueDOZP/exec?mode=draft"
         const response = await fetch(url);
@@ -299,6 +299,16 @@ async function start_me_up(){
         tag("filter").appendChild(option)
     }
 
+   if(params.get("filter")){
+        console.log("filter filter filter",params.get("filter") )
+        filterSchedule(params.get("filter"))
+    }
+ 
+    if(params.get("filter")){
+        console.log("filter filter filter",params.get("filter") )
+        filterSchedule(params.get("filter"))
+    }
+
 
 
     return
@@ -306,7 +316,7 @@ async function start_me_up(){
 
     make_map()
 
-    let params = new URLSearchParams(document.location.search);
+    //let params = new URLSearchParams(document.location.search);
     
 
     if(params.get("pin")){
@@ -325,11 +335,8 @@ async function start_me_up(){
     }
     
 
-    if(params.get("filter")){
-        console.log("filter filter filter",params.get("filter") )
-        filterSchedule(params.get("filter"))
-    }
-    filterSchedule()
+
+   // filterSchedule()
     const spans = document.getElementsByTagName("span");
     for(let i=0; i < spans.length; i++){
         const elem=spans[i]
