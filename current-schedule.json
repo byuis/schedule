@@ -82,13 +82,13 @@
         }
       ]
     },
-    "Break bread with the Brits": {
-      "name": "Break bread with the Brits",
+    "Break Bread with the Brits": {
+      "name": "Break Bread with the Brits",
       "description": "Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 8,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -124,10 +124,6 @@
       "times": [
         {
           "time": "2:00 PM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "2:30 PM",
           "location": "Cup and Quill"
         }
       ]
@@ -743,8 +739,8 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 12,
-      "scheduleCount": 2,
+      "personCount": 11,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -765,10 +761,6 @@
         {
           "name": "Gregg Hardy",
           "character": "Benjamin Franklin"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
         },
         {
           "name": "Jared Rader",
@@ -798,10 +790,6 @@
       "times": [
         {
           "time": "10:30 AM",
-          "location": "Cup and Quill"
-        },
-        {
-          "time": "11:00 AM",
           "location": "Cup and Quill"
         }
       ]
@@ -1484,7 +1472,7 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "10:00 AM",
           "location": "South Meetinghouse"
         },
         {
@@ -1735,7 +1723,7 @@
       ],
       "times": [
         {
-          "time": "10:00 AM",
+          "time": "10:30 AM",
           "location": "South Meetinghouse"
         }
       ]
@@ -1882,7 +1870,7 @@
       "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 11,
+      "personCount": 13,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1926,6 +1914,14 @@
         },
         {
           "name": "Jo Beaty"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
         }
       ],
       "times": [
@@ -2713,7 +2709,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 5,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -2738,12 +2734,154 @@
         {
           "time": "12:30 PM",
           "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Elevenses, continued": {
+      "name": "Elevenses, continued",
+      "description": "Elevenses will last a full 60 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 10,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
         },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Break Bread with the Brits, continued": {
+      "name": "Break Bread with the Brits, continued",
+      "description": "Breaking Bread will last a full 60 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 8,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        },
+        {
+          "name": "Judy Polinski"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Sipping Chocolate and Spilling Tea, continued": {
+      "name": "Sipping Chocolate and Spilling Tea, continued",
+      "description": "Sipping Chocolate will last 45 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Brooke LaBarr"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Eizabeth Powell"
+        },
+        {
+          "name": "Rachel Hawks"
+        }
+      ],
+      "times": [
         {
           "time": "1:00 PM",
           "location": "Cup and Quill"
         }
       ]
+    },
+    "": {
+      "name": "",
+      "description": "",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": "",
+      "location": ""
     }
   },
   "location": {
