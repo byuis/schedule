@@ -742,7 +742,7 @@
       "name": "Elevenses",
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 12,
       "scheduleCount": 2,
       "location": "",
@@ -1119,12 +1119,12 @@
         }
       ]
     },
-    "Join the 1774 Burgesses": {
-      "name": "Join the 1774 Burgesses",
-      "description": "Liberty or loyalty? Patrick Henry and Governor Dunmore make their case ? but YOU cast the deciding vote in this explosive colonial showdown.",
+    "Will Virginia Defy the Crown? You Decide": {
+      "name": "Will Virginia Defy the Crown? You Decide",
+      "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote ? and face the consequences.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 6,
+      "personCount": 7,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1151,6 +1151,10 @@
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Charles Castleberry",
+          "character": "Geroge Mason"
         }
       ],
       "times": [
@@ -1160,12 +1164,12 @@
         }
       ]
     },
-    "Join the 2nd Virginia Convention": {
-      "name": "Join the 2nd Virginia Convention",
+    "Liberty or Death: You Decide Virginia's Fate": {
+      "name": "Liberty or Death: You Decide Virginia's Fate",
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 4,
+      "audienceInvolved": true,
+      "personCount": 6,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1184,6 +1188,14 @@
         {
           "name": "Nathan Crandall",
           "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Charles Castleberry",
+          "character": "Geroge Mason"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
         }
       ],
       "times": [
@@ -1420,7 +1432,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -1429,10 +1441,6 @@
         }
       ],
       "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Liberty Tree"
-        },
         {
           "time": "2:30 PM",
           "location": "Liberty Tree"
@@ -1824,18 +1832,22 @@
         }
       ]
     },
-    "Meet the Delegates to the 1st Continental Congress": {
-      "name": "Meet the Delegates to the 1st Continental Congress",
+    "The Continental Association: What was the Cost of Unity?": {
+      "name": "The Continental Association: What was the Cost of Unity?",
       "description": "Meet the men who first set their differences aside to unite America",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 6,
+      "audienceInvolved": true,
+      "personCount": 7,
       "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
         },
         {
           "name": "Lawrence Howard",
@@ -1867,9 +1879,9 @@
     },
     "Redress or Revolution: You Decide the Fate of the Colonies": {
       "name": "Redress or Revolution: You Decide the Fate of the Colonies",
-      "description": "Discuss the road to independence with the men who lived it",
+      "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 11,
       "scheduleCount": 1,
       "location": "",
@@ -2679,21 +2691,27 @@
       "description": "While patriots cheered and loyalists fled, Lady Dunmore watched her world collapse. Meet the woman who lived the Revolution from the other side.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
+      "people": [
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        }
+      ],
       "times": [
         {
-          "time": "12:30 PM",
-          "location": "Liberty Tree"
+          "time": "12:00 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
-    "Sipping Chocolate with Lady Charlotte": {
-      "name": "Sipping Chocolate with Lady Charlotte",
+    "Sipping Chocolate and Spilling Tea": {
+      "name": "Sipping Chocolate and Spilling Tea",
       "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in ? should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 5,
       "scheduleCount": 2,
       "location": "",
