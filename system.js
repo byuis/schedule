@@ -178,7 +178,8 @@ async function start_me_up(){
     const filterClasses={
         character:[],
         person:[],
-        group:[]
+        group:[],
+        location:[]
 
     }
 
@@ -272,9 +273,17 @@ async function start_me_up(){
         }
     }
    }
+    filterClasses.location.sort()
     filterClasses.group.sort()
     filterClasses.person.sort(byLastFirst)
     filterClasses.character.sort(byLastFirst)
+    for(const loc of filterClasses.location){
+        
+        option = document.createElement("option")
+        option.value = nameToClass(loc)
+        option.innerHTML  = "Location: " + loc
+        tag("filter").appendChild(option)
+    }
 
     for(const group of filterClasses.group){
         
@@ -360,9 +369,19 @@ async function start_me_up(){
         const title = event.presentation
         const description = pres.description
         const modifier =  pres.audienceInvolved ? "Arrive Early to participate" : ""
-        
+       
+
         
         const row = document.createElement("tr")
+
+        const locationClass = nameToClass(location.name)
+        row.classList.add(nameToClass(location.name))
+ 
+        if(!filterClasses.location.includes(location.name)){
+            filterClasses.location.push(location.name)
+        }        
+
+
         if(pres.people){
             console.log("people", pres.people)
             for(const person of pres.people){
