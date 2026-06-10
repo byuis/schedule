@@ -664,7 +664,7 @@
       "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 3,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -673,6 +673,9 @@
         },
         {
           "name": "Cameron Graham"
+        },
+        {
+          "name": "Kathryn Taber-Garcia"
         }
       ],
       "times": [
@@ -739,7 +742,7 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 11,
+      "personCount": 12,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -785,6 +788,10 @@
         {
           "name": "John Hockley",
           "character": "Robert Morris"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
         }
       ],
       "times": [
@@ -2317,7 +2324,7 @@
       ],
       "times": [
         {
-          "time": "3:00 PM",
+          "time": "2:30 PM",
           "location": "Tour Departure"
         }
       ]
@@ -2338,7 +2345,7 @@
       ],
       "times": [
         {
-          "time": "2:30 PM",
+          "time": "3:00 PM",
           "location": "Tour Departure"
         }
       ]
@@ -2742,7 +2749,7 @@
       "description": "Elevenses will last a full 60 minutes",
       "hide": true,
       "audienceInvolved": false,
-      "personCount": 10,
+      "personCount": 11,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -2785,6 +2792,10 @@
         {
           "name": "John Hockley",
           "character": "Robert Morris"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
         }
       ],
       "times": [
