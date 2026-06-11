@@ -745,7 +745,7 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 8,
+      "personCount": 9,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -779,6 +779,10 @@
         {
           "name": "Ben Moulton",
           "character": "James Madison"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
         }
       ],
       "times": [
@@ -2707,7 +2711,7 @@
       "description": "Elevenses will last a full 60 minutes",
       "hide": true,
       "audienceInvolved": false,
-      "personCount": 8,
+      "personCount": 9,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -2741,6 +2745,10 @@
         },
         {
           "name": "Kim Gardner"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
         }
       ],
       "times": [
