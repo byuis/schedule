@@ -1617,7 +1617,7 @@
       ],
       "times": [
         {
-          "time": "3:30 PM",
+          "time": "4:00 PM",
           "location": "Liberty Tree"
         }
       ]
@@ -2572,7 +2572,7 @@
           "location": "Forge of Sedition"
         },
         {
-          "time": "4:00 PM",
+          "time": "4:30 PM",
           "location": "Liberty Tree"
         }
       ]
@@ -2831,6 +2831,27 @@
         {
           "time": "1:00 PM",
           "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Meet General O'hara": {
+      "name": "Meet General O'hara",
+      "description": "He handed over the sword at Yorktown. Meet General O'Hara, the British officer who stood at the Revolution's final, defining moment.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "Liberty Tree"
         }
       ]
     },
