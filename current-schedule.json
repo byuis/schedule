@@ -96,7 +96,7 @@
         },
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Christina Forst",
@@ -214,7 +214,7 @@
         },
         {
           "name": "Doug Bingham",
-          "character": "General Brich"
+          "character": "General Birch"
         }
       ],
       "times": [
@@ -506,12 +506,15 @@
       "description": "Watch Continental soldiers and militia unite to drill and fire muskets in a thrilling demonstration of the military force that won American independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 3,
       "location": "",
       "people": [
         {
           "name": "Jared Cornel"
+        },
+        {
+          "name": "Cameron Graham"
         }
       ],
       "times": [
@@ -751,7 +754,7 @@
         },
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Patrick Martin",
@@ -1133,7 +1136,7 @@
         },
         {
           "name": "Charles Castleberry",
-          "character": "Geroge Mason"
+          "character": "George Mason"
         }
       ],
       "times": [
@@ -1387,7 +1390,7 @@
       "people": [
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         }
       ],
       "times": [
@@ -1408,7 +1411,7 @@
       "people": [
         {
           "name": "Charles Castleberry",
-          "character": "Geroge Mason"
+          "character": "George Mason"
         }
       ],
       "times": [
@@ -2686,7 +2689,7 @@
         },
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Rachel Hawks"
@@ -2710,7 +2713,7 @@
       "people": [
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Patrick Martin",
@@ -2761,7 +2764,7 @@
         },
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Christina Forst",
@@ -2814,7 +2817,7 @@
         },
         {
           "name": "Katrina Kim",
-          "character": "Eizabeth Powell"
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Rachel Hawks"
@@ -3004,7 +3007,7 @@
     "Comte de Rochambeau": [
       "Military"
     ],
-    "Eizabeth Powell": [
+    "Elizabeth Powell": [
       "Women of the Revolution"
     ],
     "Elizabeth Burgen": [
@@ -3015,7 +3018,7 @@
       "2nd Continenal Congress",
       "Signers of Declaration"
     ],
-    "General Brich": [
+    "General Birch": [
       "British",
       "Military"
     ],
@@ -3026,7 +3029,7 @@
       "Signers of Constitution",
       "Military"
     ],
-    "Geroge Mason": [
+    "George Mason": [
       "Founding Fathers",
       "Constitutional Convention"
     ],
