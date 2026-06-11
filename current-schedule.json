@@ -317,7 +317,7 @@
       "people": [
         {
           "name": "Cameron Graham",
-          "character": "Nathaniel Green"
+          "character": "Nathanael Greene"
         },
         {
           "name": "Johnathan Martin",
@@ -1248,7 +1248,7 @@
       "name": "Lord and Lady Dunmore's Parlor",
       "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 3,
       "location": "",
@@ -1283,7 +1283,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 5,
+      "scheduleCount": 4,
       "location": "",
       "times": [
         {
@@ -1295,15 +1295,11 @@
           "location": "Halifax Quarters"
         },
         {
-          "time": "12:00 PM",
+          "time": "2:00 PM",
           "location": "Halifax Quarters"
         },
         {
-          "time": "4:00 PM",
-          "location": "Halifax Quarters"
-        },
-        {
-          "time": "4:30 PM",
+          "time": "2:30 PM",
           "location": "Halifax Quarters"
         }
       ]
@@ -2689,27 +2685,6 @@
         }
       ]
     },
-    "Meet Lady Dunmore": {
-      "name": "Meet Lady Dunmore",
-      "description": "While patriots cheered and loyalists fled, Lady Dunmore watched her world collapse. Meet the woman who lived the Revolution from the other side.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Carpenters' Hall"
-        }
-      ]
-    },
     "Sipping Chocolate and Spilling Tea": {
       "name": "Sipping Chocolate and Spilling Tea",
       "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in ? should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
@@ -3191,7 +3166,7 @@
       "2nd Continenal Congress",
       "Signers of Declaration"
     ],
-    "Nathaniel Green": [
+    "Nathanael Greene": [
       "Military"
     ],
     "John Savage": [
