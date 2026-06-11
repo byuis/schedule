@@ -640,7 +640,7 @@
       "description": "From stays to silk ? join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 3,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -650,6 +650,9 @@
         },
         {
           "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Kathryn Taber-Garcia"
         }
       ],
       "times": [
@@ -664,7 +667,7 @@
       "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
+      "personCount": 2,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -673,9 +676,6 @@
         },
         {
           "name": "Cameron Graham"
-        },
-        {
-          "name": "Kathryn Taber-Garcia"
         }
       ],
       "times": [
