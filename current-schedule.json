@@ -1452,7 +1452,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -1464,10 +1464,6 @@
         {
           "time": "10:00 AM",
           "location": "South Meetinghouse"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Carpenters' Hall"
         }
       ]
     },
