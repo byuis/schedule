@@ -742,7 +742,7 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 12,
+      "personCount": 8,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -754,10 +754,6 @@
           "character": "Eizabeth Powell"
         },
         {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
           "name": "Patrick Martin",
           "character": "Billy Lee"
         },
@@ -766,24 +762,12 @@
           "character": "Benjamin Franklin"
         },
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
           "name": "Jack Pauly",
           "character": "John Adams"
         },
         {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        },
-        {
           "name": "Cap Caputo",
           "character": "John Hancock"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
         },
         {
           "name": "John Hockley",
@@ -1164,7 +1148,7 @@
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 6,
+      "personCount": 5,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1183,10 +1167,6 @@
         {
           "name": "Nathan Crandall",
           "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Charles Castleberry",
-          "character": "Geroge Mason"
         },
         {
           "name": "Gove Allen",
@@ -2724,17 +2704,13 @@
       "description": "Elevenses will last a full 60 minutes",
       "hide": true,
       "audienceInvolved": false,
-      "personCount": 11,
+      "personCount": 8,
       "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Katrina Kim",
           "character": "Eizabeth Powell"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
         },
         {
           "name": "Patrick Martin",
@@ -2745,24 +2721,12 @@
           "character": "Benjamin Franklin"
         },
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
           "name": "Jack Pauly",
           "character": "John Adams"
         },
         {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        },
-        {
           "name": "Cap Caputo",
           "character": "John Hancock"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
         },
         {
           "name": "John Hockley",
@@ -2771,6 +2735,9 @@
         {
           "name": "Ben Moulton",
           "character": "James Madison"
+        },
+        {
+          "name": "Kim Gardner"
         }
       ],
       "times": [
