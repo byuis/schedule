@@ -40,6 +40,358 @@
         }
       ]
     },
+    "A drink with Benjamin Franklin": {
+      "name": "A drink with Benjamin Franklin",
+      "description": "Join Benjamin Franklin at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        }
+      ]
+    },
+    "A drink with Billy Lee": {
+      "name": "A drink with Billy Lee",
+      "description": "Join Billy Lee at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        }
+      ]
+    },
+    "A drink with Christopher Gadsden": {
+      "name": "A drink with Christopher Gadsden",
+      "description": "Join Christopher Gadsden at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        }
+      ]
+    },
+    "A drink with Francis Hopkinson": {
+      "name": "A drink with Francis Hopkinson",
+      "description": "Join Francis Hopkinson at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Devaughn Simper",
+          "character": "Francis Hopkinson"
+        }
+      ]
+    },
+    "A drink with General Birch": {
+      "name": "A drink with General Birch",
+      "description": "Join General Birch at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Doug Bingham",
+          "character": "General Birch"
+        }
+      ]
+    },
+    "A drink with George Mason": {
+      "name": "A drink with George Mason",
+      "description": "Join George Mason at the tavern to the day's happenings and politics",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
+        }
+      ]
+    },
+    "A drink with Hyam Soloman": {
+      "name": "A drink with Hyam Soloman",
+      "description": "Join Hyam Soloman at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Kent Vance",
+          "character": "Hyam Soloman"
+        }
+      ]
+    },
+    "A drink with James Madison": {
+      "name": "A drink with James Madison",
+      "description": "Join James Madison at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "A drink with John Adams": {
+      "name": "A drink with John Adams",
+      "description": "Join John Adams at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "A drink with John Dickinson": {
+      "name": "A drink with John Dickinson",
+      "description": "Join John Dickinson at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        }
+      ]
+    },
+    "A drink with John Glover": {
+      "name": "A drink with John Glover",
+      "description": "Join John Glover at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Luke Rader",
+          "character": "John Glover"
+        }
+      ]
+    },
+    "A drink with John Hancock": {
+      "name": "A drink with John Hancock",
+      "description": "Join John Hancock at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        }
+      ]
+    },
+    "A drink with John Paul Jones": {
+      "name": "A drink with John Paul Jones",
+      "description": "Join John Paul Jones at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Tom Wellborn",
+          "character": "John Paul Jones"
+        }
+      ]
+    },
+    "A drink with Major Beaumont": {
+      "name": "A drink with Major Beaumont",
+      "description": "Join Major Beaumont at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ]
+    },
+    "A drink with Nathanael Greene": {
+      "name": "A drink with Nathanael Greene",
+      "description": "Join Nathanael Greene at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Cameron Graham",
+          "character": "Nathanael Greene"
+        }
+      ]
+    },
+    "A drink with Patrick Ferguson": {
+      "name": "A drink with Patrick Ferguson",
+      "description": "Join Patrick Ferguson at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Patrick Ferguson"
+        }
+      ]
+    },
+    "A drink with Patrick Henry": {
+      "name": "A drink with Patrick Henry",
+      "description": "Join Patrick Henry at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "A drink with Peter Muhlenberg": {
+      "name": "A drink with Peter Muhlenberg",
+      "description": "Join Peter Muhlenberg at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ]
+    },
+    "A drink with Robert Morris": {
+      "name": "A drink with Robert Morris",
+      "description": "Join Robert Morris at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ]
+    },
+    "A drink with Robert Shurtliff": {
+      "name": "A drink with Robert Shurtliff",
+      "description": "Join Robert Shurtliff at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Kimberly Ward",
+          "character": "Robert Shurtliff"
+        }
+      ]
+    },
+    "A drink with Roger Sherman": {
+      "name": "A drink with Roger Sherman",
+      "description": "Join Roger Sherman at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        }
+      ]
+    },
+    "A drink with Thomas Jefferson": {
+      "name": "A drink with Thomas Jefferson",
+      "description": "Join Thomas Jefferson at the tavern to the day's happenings and politics",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        }
+      ]
+    },
     "A History in Four Documents": {
       "name": "A History in Four Documents",
       "description": "Four documents. One nation. Join Founding Father Roger Sherman as he traces the remarkable story of American liberty through history's most transformative texts.",
@@ -124,6 +476,52 @@
       "times": [
         {
           "time": "2:00 PM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Break Bread with the Brits continued": {
+      "name": "Break Bread with the Brits continued",
+      "description": "Breaking Bread will last a full 60 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 8,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        },
+        {
+          "name": "Judy Polinski"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
           "location": "Cup and Quill"
         }
       ]
@@ -788,6 +1186,58 @@
         }
       ]
     },
+    "Elevenses continued": {
+      "name": "Elevenses continued",
+      "description": "Elevenses will last a full 60 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 9,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
     "Empty for competing Activity": {
       "name": "Empty for competing Activity",
       "description": "This venue is vacant becuase of an nearby activity that competes",
@@ -1101,48 +1551,23 @@
         }
       ]
     },
-    "Will Virginia Defy the Crown? You Decide": {
-      "name": "Will Virginia Defy the Crown? You Decide",
-      "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote ? and face the consequences.",
+    "Learn about Henry Knox": {
+      "name": "Learn about Henry Knox",
+      "description": "From Boston bookshop to battlefield hero ? discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 1,
       "location": "",
       "people": [
         {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        },
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        },
-        {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
+          "name": "Peter Cannon"
         }
       ],
       "times": [
         {
-          "time": "11:30 AM",
-          "location": "South Meetinghouse"
+          "time": "10:30 AM",
+          "location": "Faneuil Hall"
         }
       ]
     },
@@ -1184,26 +1609,6 @@
         {
           "time": "4:30 PM",
           "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Learn about Henry Knox": {
-      "name": "Learn about Henry Knox",
-      "description": "From Boston bookshop to battlefield hero ? discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Peter Cannon"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Faneuil Hall"
         }
       ]
     },
@@ -1316,6 +1721,27 @@
         }
       ]
     },
+    "Meet Benjamin Franklin": {
+      "name": "Meet Benjamin Franklin",
+      "description": "He flew a kite in a thunderstorm and negotiated with kings. Meet Benjamin Franklin ? America's most irresistible genius and the Revolution's secret weapon.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
     "Meet Billy Lee": {
       "name": "Meet Billy Lee",
       "description": "No one knew George Washington more intimately than Billy Lee. Meet the enslaved man who served at the General's side from Boston to Yorktown.",
@@ -1401,6 +1827,27 @@
         {
           "time": "4:00 PM",
           "location": "Faneuil Hall"
+        }
+      ]
+    },
+    "Meet General O'Hara": {
+      "name": "Meet General O'Hara",
+      "description": "He handed over the sword at Yorktown. Meet General O'Hara, the British officer who stood at the Revolution's final, defining moment.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "General O'Hara"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "The Grove"
         }
       ]
     },
@@ -1810,117 +2257,6 @@
         }
       ]
     },
-    "The Continental Association: What was the Cost of Unity?": {
-      "name": "The Continental Association: What was the Cost of Unity?",
-      "description": "They disagreed on nearly everything ? yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        },
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Redress or Revolution: You Decide the Fate of the Colonies": {
-      "name": "Redress or Revolution: You Decide the Fate of the Colonies",
-      "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 13,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        },
-        {
-          "name": "Nathan Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Jeff Beaty"
-        },
-        {
-          "name": "Rowan Beaty"
-        },
-        {
-          "name": "Jo Beaty"
-        },
-        {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
     "Minuet Dance Demonstration": {
       "name": "Minuet Dance Demonstration",
       "description": "Discover how the founders danced ? a captivating demonstration of the minuet, the fashionable step that graced every colonial ballroom.",
@@ -2014,6 +2350,93 @@
         }
       ]
     },
+    "Redress or Revolution: You Decide the Fate of the Colonies": {
+      "name": "Redress or Revolution: You Decide the Fate of the Colonies",
+      "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 13,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Reveille with the Kings Forces": {
+      "name": "Reveille with the Kings Forces",
+      "description": "The King?s forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:00 AM",
+          "location": "King's Field"
+        }
+      ]
+    },
     "Revolution from the \"Billy\" point of view": {
       "name": "Revolution from the \"Billy\" point of view",
       "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
@@ -2097,6 +2520,74 @@
         }
       ]
     },
+    "Sipping Chocolate and Spilling Tea": {
+      "name": "Sipping Chocolate and Spilling Tea",
+      "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in ? should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Brooke LaBarr"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Rachel Hawks"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:30 PM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
+    "Sipping Chocolate and Spilling Tea continued": {
+      "name": "Sipping Chocolate and Spilling Tea continued",
+      "description": "Sipping Chocolate will last 45 minutes",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Christina Forst",
+          "character": "Charlotte Dunmore"
+        },
+        {
+          "name": "Lindsay Weiler"
+        },
+        {
+          "name": "Brooke LaBarr"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Rachel Hawks"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Cup and Quill"
+        }
+      ]
+    },
     "Spilling Tea and Making History": {
       "name": "Spilling Tea and Making History",
       "description": "Hear Penelope Barker, organizer of the Edenton Tea Party, discuss the politics of 1774. Will you join the boycott of British goods?",
@@ -2144,6 +2635,96 @@
       "times": [
         {
           "time": "11:00 AM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "The Continental Association: What was the Cost of Unity?": {
+      "name": "The Continental Association: What was the Cost of Unity?",
+      "description": "They disagreed on nearly everything ? yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 7,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "The Convention and the 3/5 clause": {
+      "name": "The Convention and the 3/5 clause",
+      "description": "The Constitution's darkest bargain: discover how the founders traded principle for union and what that decision ultimately cost America.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 7,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
           "location": "South Meetinghouse"
         }
       ]
@@ -2255,9 +2836,9 @@
         }
       ]
     },
-    "Tour with George Washington": {
-      "name": "Tour with George Washington",
-      "description": "Join Tour with George Washington on a village tour and observe the day's business",
+    "Tour with Billy Lee": {
+      "name": "Tour with Billy Lee",
+      "description": "Join Tour with Billy Lee on a village tour and observe the day's business",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2265,14 +2846,29 @@
       "location": "",
       "people": [
         {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
         }
       ],
       "times": [
         {
-          "time": "10:00 AM",
+          "time": "3:30 PM",
           "location": "Tour Departure"
+        }
+      ]
+    },
+    "Tour with George Washington": {
+      "name": "Tour with George Washington",
+      "description": "Join Tour with George Washington on a village tour and observe the day's business",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "location": "",
+      "people": [
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
         }
       ]
     },
@@ -2396,6 +2992,27 @@
         }
       ]
     },
+    "Tour with Major Beaumont": {
+      "name": "Tour with Major Beaumont",
+      "description": "Join Tour with Major Beaumont on a village tour and observe the day's business",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Tour Departure"
+        }
+      ]
+    },
     "Tour with Mercy Otis Warren": {
       "name": "Tour with Mercy Otis Warren",
       "description": "See the festival through the eyes of America's most fearless female patriot ? writer, satirist, and revolutionary Mercy Otis Warren.",
@@ -2480,12 +3097,18 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
           "name": "Jared Rader",
           "character": "Roger Sherman"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Tour Departure"
         }
       ]
     },
@@ -2527,27 +3150,6 @@
       "times": [
         {
           "time": "2:00 PM",
-          "location": "Tour Departure"
-        }
-      ]
-    },
-    "Tour with Billy Lee": {
-      "name": "Tour with Billy Lee",
-      "description": "Join Tour with Billy Lee on a village tour and observe the day's business",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
           "location": "Tour Departure"
         }
       ]
@@ -2630,232 +3232,48 @@
         }
       ]
     },
-    "Tour with Major Beaumont": {
-      "name": "Tour with Major Beaumont",
-      "description": "Join Tour with Major Beaumont on a village tour and observe the day's business",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Tour Departure"
-        }
-      ]
-    },
-    "Meet Benjamin Franklin": {
-      "name": "Meet Benjamin Franklin",
-      "description": "He flew a kite in a thunderstorm and negotiated with kings. Meet Benjamin Franklin ? America's most irresistible genius and the Revolution's secret weapon.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        }
-      ],
-      "times": [
-        {
-          "time": "4:00 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Sipping Chocolate and Spilling Tea": {
-      "name": "Sipping Chocolate and Spilling Tea",
-      "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in ? should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
+    "Will Virginia Defy the Crown? You Decide": {
+      "name": "Will Virginia Defy the Crown? You Decide",
+      "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote ? and face the consequences.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 5,
+      "personCount": 7,
       "scheduleCount": 1,
       "location": "",
       "people": [
         {
-          "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
-        },
-        {
-          "name": "Lindsay Weiler"
-        },
-        {
-          "name": "Brooke LaBarr"
-        },
-        {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
-          "name": "Rachel Hawks"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:30 PM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Elevenses, continued": {
-      "name": "Elevenses, continued",
-      "description": "Elevenses will last a full 60 minutes",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 9,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        },
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
-        },
-        {
-          "name": "Kim Gardner"
+          "name": "Lawrence Howard",
+          "character": "George Washington"
         },
         {
           "name": "Benjamin Muhlestein",
           "character": "Patrick Henry"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Break Bread with the Brits, continued": {
-      "name": "Break Bread with the Brits, continued",
-      "description": "Breaking Bread will last a full 60 minutes",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 8,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Kim Gardner"
         },
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
+          "name": "Nathan Crandall",
+          "character": "Thomas Jefferson"
         },
         {
-          "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
         },
         {
           "name": "Scott Forst",
           "character": "Governor Dunmore"
         },
         {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
         },
         {
-          "name": "Lindsay Weiler"
-        },
-        {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
-        },
-        {
-          "name": "Judy Polinski"
+          "name": "Charles Castleberry",
+          "character": "George Mason"
         }
       ],
       "times": [
         {
-          "time": "2:30 PM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Sipping Chocolate and Spilling Tea, continued": {
-      "name": "Sipping Chocolate and Spilling Tea, continued",
-      "description": "Sipping Chocolate will last 45 minutes",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 5,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
-        },
-        {
-          "name": "Lindsay Weiler"
-        },
-        {
-          "name": "Brooke LaBarr"
-        },
-        {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
-          "name": "Rachel Hawks"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "Cup and Quill"
-        }
-      ]
-    },
-    "Meet General O'hara": {
-      "name": "Meet General O'hara",
-      "description": "He handed over the sword at Yorktown. Meet General O'Hara, the British officer who stood at the Revolution's final, defining moment.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Steven Leon",
-          "character": "General O'hara"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "The Grove"
+          "time": "11:30 AM",
+          "location": "South Meetinghouse"
         }
       ]
     },
@@ -2876,72 +3294,6 @@
         {
           "time": "4:00 PM",
           "location": "Liberty Tree"
-        }
-      ]
-    },
-    "The Convention and the 3/5 clause": {
-      "name": "The Convention and the 3/5 clause",
-      "description": "The Constitution's darkest bargain: discover how the founders traded principle for union and what that decision ultimately cost America.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
-        },
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:30 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Reveille with the Kings Forces": {
-      "name": "Reveille with the Kings Forces",
-      "description": "The King?s forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "location": "",
-      "people": [
-        {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:00 AM",
-          "location": "King's Field"
         }
       ]
     },
@@ -3088,6 +3440,14 @@
       "name": "Gray's Rope Walk",
       "description": "Where durable, manilla rope is made while you wait",
       "mapNumber": 17,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Green Dragon Tavern": {
+      "name": "Green Dragon Tavern",
+      "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
+      "mapNumber": 18,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3277,7 +3637,7 @@
       "Military",
       "Women of the Revolution"
     ],
-    "General O'hara": [
+    "General O'Hara": [
       "Military",
       "British"
     ]
