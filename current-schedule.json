@@ -176,7 +176,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -185,10 +185,6 @@
         }
       ],
       "times": [
-        {
-          "time": "9:00 AM",
-          "location": "South Meetinghouse"
-        },
         {
           "time": "10:30 AM",
           "location": "King's Field"
@@ -683,7 +679,7 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "12:30 PM",
           "location": "School House"
         }
       ]
