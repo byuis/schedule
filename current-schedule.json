@@ -149,8 +149,8 @@
         }
       ]
     },
-    "British Closing Cermemony": {
-      "name": "British Closing Cermemony",
+    "British Daily Retreat": {
+      "name": "British Daily Retreat",
       "description": "Pomp, precision, and pageantry: the British Army brings the festival to a magnificent close with a ceremony fit for the Crown.",
       "hide": false,
       "audienceInvolved": false,
@@ -433,7 +433,7 @@
       ],
       "times": [
         {
-          "time": "3:30 PM",
+          "time": "4:30 PM",
           "location": "The Grove"
         }
       ]
@@ -1155,7 +1155,7 @@
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 5,
+      "personCount": 6,
       "scheduleCount": 1,
       "location": "",
       "people": [
@@ -1178,6 +1178,10 @@
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
         }
       ],
       "times": [
@@ -1311,8 +1315,8 @@
       ],
       "times": [
         {
-          "time": "3:30 PM",
-          "location": "South Meetinghouse"
+          "time": "2:00 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -1571,8 +1575,8 @@
       ],
       "times": [
         {
-          "time": "2:00 PM",
-          "location": "Carpenters' Hall"
+          "time": "4:30 PM",
+          "location": "Faneuil Hall"
         }
       ]
     },
@@ -1617,7 +1621,7 @@
       ],
       "times": [
         {
-          "time": "4:00 PM",
+          "time": "3:30 PM",
           "location": "Liberty Tree"
         }
       ]
@@ -1762,7 +1766,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 3,
       "location": "",
       "people": [
         {
@@ -1774,6 +1778,10 @@
         {
           "time": "11:00 AM",
           "location": "The Grove"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Liberty Tree"
         },
         {
           "time": "1:30 PM",
@@ -1808,7 +1816,7 @@
     },
     "The Continental Association: What was the Cost of Unity?": {
       "name": "The Continental Association: What was the Cost of Unity?",
-      "description": "Meet the men who first set their differences aside to unite America",
+      "description": "They disagreed on nearly everything ? yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 7,
@@ -2845,13 +2853,99 @@
       "people": [
         {
           "name": "Steven Leon",
-          "character": "Major Beaumont"
+          "character": "General O'hara"
         }
       ],
       "times": [
         {
           "time": "3:30 PM",
+          "location": "The Grove"
+        }
+      ]
+    },
+    "Young Founder's Living Museum": {
+      "name": "Young Founder's Living Museum",
+      "description": "Fifth graders become Founding Fathers ? and mothers. Experience our living museum and hear history told by the voices that will carry it forward. (Thursday Only)",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Elary Hall"
+        }
+      ],
+      "times": [
+        {
+          "time": "4:00 PM",
           "location": "Liberty Tree"
+        }
+      ]
+    },
+    "The Convention and the 3/5 clause": {
+      "name": "The Convention and the 3/5 clause",
+      "description": "The Constitution's darkest bargain: discover how the founders traded principle for union and what that decision ultimately cost America.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 7,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:30 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Reveille with the Kings Forces": {
+      "name": "Reveille with the Kings Forces",
+      "description": "The King?s forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "location": "",
+      "people": [
+        {
+          "name": "Radford Polinsky",
+          "character": "John Savage"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:00 AM",
+          "location": "King's Field"
         }
       ]
     },
@@ -3186,6 +3280,10 @@
     "Deborah Sampson": [
       "Military",
       "Women of the Revolution"
+    ],
+    "General O'hara": [
+      "Military",
+      "British"
     ]
   }
 }
