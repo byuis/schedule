@@ -1252,7 +1252,7 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "School House"
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -3470,6 +3470,15 @@
           "location": "Liberty Tree"
         }
       ]
+    },
+    "Naval Recruitment": {
+      "name": "Naval Recruitment",
+      "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": "",
+      "location": ""
     },
     "": {
       "name": "",
