@@ -117,7 +117,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "location": "",
       "people": [
         {
@@ -136,6 +136,10 @@
         },
         {
           "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
           "location": "Green Dragon Tavern"
         }
       ]
@@ -418,10 +422,6 @@
         {
           "time": "2:30 PM",
           "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -465,6 +465,10 @@
         }
       ],
       "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
         {
           "time": "1:30 PM",
           "location": "Green Dragon Tavern"
