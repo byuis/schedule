@@ -283,6 +283,10 @@
       ],
       "times": [
         {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
           "time": "11:00 AM",
           "location": "Green Dragon Tavern"
         },
@@ -313,6 +317,10 @@
       "times": [
         {
           "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
           "location": "Green Dragon Tavern"
         },
         {
