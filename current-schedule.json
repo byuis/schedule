@@ -204,6 +204,10 @@
       ],
       "times": [
         {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
           "time": "2:00 PM",
           "location": "Green Dragon Tavern"
         }
