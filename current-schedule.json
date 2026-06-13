@@ -53,6 +53,20 @@
           "name": "Gregg Hardy",
           "character": "Benjamin Franklin"
         }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Billy Lee": {
@@ -67,6 +81,12 @@
         {
           "name": "Patrick Martin",
           "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -83,6 +103,20 @@
           "name": "Roger Gary",
           "character": "Christopher Gadsden"
         }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Francis Hopkinson": {
@@ -97,6 +131,20 @@
         {
           "name": "Devaughn Simper",
           "character": "Francis Hopkinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -128,6 +176,16 @@
           "name": "Charles Castleberry",
           "character": "George Mason"
         }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Hyam Soloman": {
@@ -142,6 +200,12 @@
         {
           "name": "Kent Vance",
           "character": "Hyam Soloman"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -163,6 +227,14 @@
         {
           "time": "9:30 AM",
           "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -172,7 +244,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "location": "",
       "people": [
         {
@@ -197,7 +269,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": "",
       "location": "",
       "people": [
         {
@@ -244,6 +316,20 @@
           "name": "Cap Caputo",
           "character": "John Hancock"
         }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with John Paul Jones": {
@@ -289,6 +375,16 @@
           "name": "Cameron Graham",
           "character": "Nathanael Greene"
         }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Patrick Ferguson": {
@@ -303,6 +399,16 @@
         {
           "name": "C. David Belt",
           "character": "Patrick Ferguson"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -322,7 +428,11 @@
       ],
       "times": [
         {
-          "time": "9:30 AM",
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
           "location": "Green Dragon Tavern"
         }
       ]
@@ -340,6 +450,16 @@
           "name": "David Woodward",
           "character": "Peter Muhlenberg"
         }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Robert Morris": {
@@ -354,6 +474,12 @@
         {
           "name": "John Hockley",
           "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -385,6 +511,20 @@
           "name": "Jared Rader",
           "character": "Roger Sherman"
         }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Thomas Jefferson": {
@@ -399,6 +539,20 @@
         {
           "name": "Nate Crandall",
           "character": "Thomas Jefferson"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
