@@ -3476,9 +3476,29 @@
       "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "location": ""
+      "personCount": 1,
+      "scheduleCount": 3,
+      "location": "",
+      "people": [
+        {
+          "name": "Tom Wellborn",
+          "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:00 AM",
+          "location": "Naval Recruitment"
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Naval Recruitment"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Naval Recruitment"
+        }
+      ]
     },
     "": {
       "name": "",
