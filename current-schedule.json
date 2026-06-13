@@ -496,6 +496,12 @@
           "name": "Kimberly Ward",
           "character": "Robert Shurtliff"
         }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        }
       ]
     },
     "A drink with Roger Sherman": {
