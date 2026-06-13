@@ -283,7 +283,7 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
           "location": "Green Dragon Tavern"
         },
         {
@@ -297,13 +297,27 @@
       "description": "Join John Glover at the tavern to the day's happenings and politics",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": "",
       "location": "",
       "people": [
         {
           "name": "Luke Rader",
           "character": "John Glover"
+        },
+        {
+          "name": "Luke Rader",
+          "character": "John Glover"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
@@ -344,6 +358,16 @@
         {
           "name": "Tom Wellborn",
           "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
         }
       ]
     },
