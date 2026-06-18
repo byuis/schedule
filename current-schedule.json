@@ -1833,11 +1833,11 @@
       ],
       "times": [
         {
-          "time": "11:30 AM",
+          "time": "12:30 PM",
           "location": "British Laundry"
         },
         {
-          "time": "2:00 PM",
+          "time": "3:00 PM",
           "location": "British Laundry"
         }
       ]
@@ -3529,6 +3529,25 @@
         {
           "time": "2:00 PM",
           "location": "Naval Recruitment"
+        }
+      ]
+    },
+    "The Greivences of the Declaration": {
+      "name": "The Greivences of the Declaration",
+      "description": "The writers intended the list of grievances to be central to the Declaration. Explore how they relate to ?life, liberty, and the pursuit of Happiness?.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": 2,
+      "location": "",
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "School House"
         }
       ]
     },
