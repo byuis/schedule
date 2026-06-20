@@ -2277,7 +2277,7 @@
     },
     "Meet Major James Beaumont": {
       "name": "Meet Major James Beaumont",
-      "description": "roper, proud, and loyal to the Crown ? meet Major James Beaumont, the British officer who sees this colonial rebellion as a temporary inconvenience.",
+      "description": "Proper, proud, and loyal to the Crown ? meet Major James Beaumont, the British officer who sees this colonial rebellion as a temporary inconvenience.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2321,9 +2321,9 @@
         }
       ]
     },
-    "Meet Patrick Ferguson": {
-      "name": "Meet Patrick Ferguson",
-      "description": "Listen to the Revolutionary War?s top marksman. Will you enlist?",
+    "Meet Lt. Alexander Chesney": {
+      "name": "Meet Lt. Alexander Chesney",
+      "description": "Join Lt. Chesney of South Carolina to hear his adventures with the Militia. Will you enlist to serve under the war's top marksman?",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3532,14 +3532,19 @@
         }
       ]
     },
-    "The Greivences of the Declaration": {
-      "name": "The Greivences of the Declaration",
+    "The Grievances of the Declaration": {
+      "name": "The Grievances of the Declaration",
       "description": "The writers intended the list of grievances to be central to the Declaration. Explore how they relate to ?life, liberty, and the pursuit of Happiness?.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 2,
       "location": "",
+      "people": [
+        {
+          "name": "Julie Siebach"
+        }
+      ],
       "times": [
         {
           "time": "11:30 AM",
@@ -3548,6 +3553,38 @@
         {
           "time": "4:30 PM",
           "location": "School House"
+        }
+      ]
+    },
+    "Soap Making Demonstration": {
+      "name": "Soap Making Demonstration",
+      "description": "Learn how to make soap",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 4,
+      "location": "",
+      "people": [
+        {
+          "name": "Jane Hall"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Colonial Soap Works"
         }
       ]
     },
