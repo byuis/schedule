@@ -415,9 +415,9 @@
         }
       ]
     },
-    "A drink with Patrick Ferguson": {
-      "name": "A drink with Patrick Ferguson",
-      "description": "Join Patrick Ferguson at the tavern to discuss the day's happenings and politics",
+    "A drink with Lt. Alexander Chesney": {
+      "name": "A drink with Lt. Alexander Chesney",
+      "description": "Join Lt. Alexander Chesney at the tavern to discuss the day's happenings and politics",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -426,7 +426,7 @@
       "people": [
         {
           "name": "C. David Belt",
-          "character": "Patrick Ferguson"
+          "character": "Lt. Alexander Chesney"
         }
       ],
       "times": [
@@ -735,7 +735,7 @@
       "people": [
         {
           "name": "C. David Belt",
-          "character": "Patrick Ferguson"
+          "character": "Lt. Alexander Chesney"
         }
       ],
       "times": [
@@ -1017,7 +1017,7 @@
       "people": [
         {
           "name": "C. David Belt",
-          "character": "Patrick Ferguson"
+          "character": "Lt. Alexander Chesney"
         },
         {
           "name": "Leanne Larson"
@@ -2328,7 +2328,7 @@
       "people": [
         {
           "name": "C. David Belt",
-          "character": "Patrick Ferguson"
+          "character": "Lt. Alexander Chesney"
         }
       ],
       "times": [
@@ -3899,7 +3899,7 @@
     "Ona Judge": [
       "Women of the Revolution"
     ],
-    "Patrick Ferguson": [
+    "Lt. Alexander Chesney": [
       "British",
       "Military"
     ],
