@@ -20,12 +20,12 @@
                 text+=evt.clientX + "," + evt.clientY + "','"   
                 mode=mode+1
             }else if(mode===2){
-                text+=evt.clientY + "','" + evt.clientX + "','"   
+                text+=evt.clientY + "','" + evt.clientX + "',\""   
                 let title = getLabel()
                 if(!title){
                   title=prompt("title")
                 }
-                text+=title + "')"
+                text+=title + '")'
                 document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+text
                 navigator.clipboard.writeText(text)
                 mode=0
