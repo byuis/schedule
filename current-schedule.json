@@ -1075,7 +1075,7 @@
     },
     "Continental Artillery": {
       "name": "Continental Artillery",
-      "description": "Feel the ground shake as Continental artillery roars to life ? a thunderous demonstration of the firepower that turned the tide of revolution.",
+      "description": "Feel the ground shake as Continental artillery roars to life &mdash; a thunderous demonstration of the firepower that turned the tide of revolution.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,

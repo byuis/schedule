@@ -24,11 +24,16 @@ function place_pins(text,pins, clear){
 
 
 function place_pin(area, clear=true){
-    //console.log("typeof area", typeof area)
+    console.log("typeof area", typeof area)
+    if(typeof area==="string"){
+        area=parseInt(area)
+    }
     if(typeof area==="number"){
         area={dataset:{number:area}}
     }
-    //console.log("at place pin.  Area number", area.dataset.number)
+
+
+    console.log("at place pin.  Area number", area.dataset.number)
     if(clear){
         clear_all_pins()
     }
@@ -53,7 +58,7 @@ function place_pin(area, clear=true){
         y=map_locations[area.dataset.number].y
         name=map_locations[area.dataset.number].name
     }
-    //console.log("at place pin")
+    console.log("at place pin", area.dataset.number)
     pin.style.visibility="visible"
     let left=(x-15)+"px"
     let top=(y-47)+"px"
@@ -420,7 +425,11 @@ async function start_me_up(){
         div.className = "location"
 
         const loc = document.createElement("span")
-        loc.dataset.number="25"
+        loc.dataset.number=location.mapNumber
+        loc.addEventListener("click", function (evt) {
+            console.log("clicked", parseInt(evt.target.dataset.number))
+            place_pin(evt.target.dataset.number)
+        });
         //console.log("location",location)
         loc.innerHTML = `${location.name} (#${location.mapNumber})` 
         loc.className="map"
