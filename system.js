@@ -24,11 +24,11 @@ function place_pins(text,pins, clear){
 
 
 function place_pin(area, clear=true){
-    console.log("typeof area", typeof area)
+    //console.log("typeof area", typeof area)
     if(typeof area==="number"){
         area={dataset:{number:area}}
     }
-    console.log("at place pin.  Area number", area.dataset.number)
+    //console.log("at place pin.  Area number", area.dataset.number)
     if(clear){
         clear_all_pins()
     }
@@ -53,11 +53,11 @@ function place_pin(area, clear=true){
         y=map_locations[area.dataset.number].y
         name=map_locations[area.dataset.number].name
     }
-    console.log("at place pin")
+    //console.log("at place pin")
     pin.style.visibility="visible"
     let left=(x-15)+"px"
     let top=(y-47)+"px"
-    console.log(top,left)
+    //console.log(top,left)
 
     pin.style.left=left
     pin.style.top=top
@@ -66,7 +66,7 @@ function place_pin(area, clear=true){
 
     label.style.left=(parseInt(x)-(label.offsetWidth/2))+"px"
     label.style.top=(parseInt(y)-50-label.offsetHeight)+"px"
-    console.log("label.offsetWidth",label.offsetWidth)
+    //console.log("label.offsetWidth",label.offsetWidth)
     if(clear){
       label.scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
     }
@@ -105,7 +105,7 @@ function add_area(coords,y,x,name,supplement_coords){
     element.shape = "circle"
     let c=(parseInt(x)) + "," + (parseInt(y)) + "," + 13
     // let c=(parseInt(x)-8) + "," + (parseInt(y)+51) + "," + 13
-    console.log(c)
+    //console.log(c)
     element.coords = c
     element.onclick = function() {place_pin(this)}
     // element.dataset.x=Math.round(parseInt(x)*scale)
@@ -155,7 +155,7 @@ function add_area(coords,y,x,name,supplement_coords){
 function filterSchedule(filter){
     if(!filter){return}
     
-    console.log("filter=", filter)
+    //console.log("filter=", filter)
     if(filter==="full"){
         for(row of document.querySelectorAll("tr")){
             row.style.display=""
@@ -164,7 +164,7 @@ function filterSchedule(filter){
     }
     tag("filter").value=filter
     for(row of document.querySelectorAll("tr")){
-        console.log(row, row.classList.contains(filter))
+        //console.log(row, row.classList.contains(filter))
         if(!(row.outerHTML.includes('colspan="2"') || row.classList.contains(filter))){
             row.style.display="none"
         }else{
@@ -174,6 +174,7 @@ function filterSchedule(filter){
 
 }
 async function start_me_up(){
+    //tag("message").style.visibility="hidden"
     const params = new URLSearchParams(window.location.search);
     const filterClasses={
         character:[],
@@ -189,7 +190,7 @@ async function start_me_up(){
         const url = "https://script.google.com/macros/s/AKfycbx5XJ-FlVy7qj3SjOw4mpd7ioUJYljaN5GEqhOd8PThX1m6weY7B26TXPdnJTueDOZP/exec?mode=draft"
         const response = await fetch(url);
         scheduleData = await response.json();
-        console.log("using Draft ", scheduleData)
+        //console.log("using Draft ", scheduleData)
     }else{
         scheduleData = await getScheduleData()
     }
@@ -202,7 +203,7 @@ async function start_me_up(){
 
 
 
-    console.log("schedule", schedule)
+    //console.log("schedule", schedule)
     const sched=[]
     for(const value of Object.values(schedule)){
         if(value.times){
@@ -224,7 +225,7 @@ async function start_me_up(){
         return toMinutes(a.time) - toMinutes(b.time)
     })
 
-    console.log("sched",sched)
+    //console.log("sched",sched)
     
     let currentTime = "No time like the present AM"
     for(const event of sched){
@@ -232,15 +233,15 @@ async function start_me_up(){
           addTimeRow(event.time)
           currentTime = event.time
         }
-        console.log("event", event)
+        //console.log("event", event)
         const pres = schedule[event.presentation]
         if(!pres.hide){
           let modifier=""
           if(pres.audienceInvolved){
             modifier = "Arrive Early to participate"
           }
-          console.log("pres.location", event.location)
-          console.log("loations", locations)
+          //console.log("pres.location", event.location)
+          //console.log("loations", locations)
           let theLocation = locations[event.location]
           if(!theLocation){theLocation=locations[pres.location]}
           if(!theLocation){theLocation=locations["Unknown"]}
@@ -263,7 +264,7 @@ async function start_me_up(){
     // build the filter options
 
    //build the group filter  
-   console.log(groups)
+   //console.log(groups)
    for(const [person,groupList] of Object.entries(groups)){
     for(const group of groupList){
         if(!filterClasses.group.includes(group)){
@@ -309,12 +310,12 @@ async function start_me_up(){
     }
 
    if(params.get("filter")){
-        console.log("filter filter filter",params.get("filter") )
+        //console.log("filter filter filter",params.get("filter") )
         filterSchedule(params.get("filter"))
     }
  
     if(params.get("filter")){
-        console.log("filter filter filter",params.get("filter") )
+        //console.log("filter filter filter",params.get("filter") )
         filterSchedule(params.get("filter"))
     }
 
@@ -348,7 +349,7 @@ async function start_me_up(){
     const spans = document.getElementsByTagName("span");
     for(let i=0; i < spans.length; i++){
         const elem=spans[i]
-        console.log(elem.innerHTML)
+        //console.log(elem.innerHTML)
         if(elem.dataset.number && !elem.innerHTML){
             elem.innerHTML = elem.dataset.time + " at #" + elem.dataset.number
         }    
@@ -382,7 +383,7 @@ async function start_me_up(){
 
 
         if(pres.people){
-            console.log("people", pres.people)
+            //console.log("people", pres.people)
             for(const person of pres.people){
                 if(person.name){
                     row.classList.add(nameToClass(person.name))
@@ -397,7 +398,7 @@ async function start_me_up(){
                         filterClasses.character.push(person.character)
                     }
                     if(groups[person.character]){
-                        console.log(person.character,groups[person.character])
+                        //console.log(person.character,groups[person.character])
                         for(const group of groups[person.character]){
                             if(group){
                               const groupClass = nameToClass(group)
@@ -414,13 +415,13 @@ async function start_me_up(){
         
         cell = document.createElement( "td")
         cell.innerHTML=description
-        console.log("Location", location)
+        //console.log("Location", location)
         let div=document.createElement("div")
         div.className = "location"
 
         const loc = document.createElement("span")
         loc.dataset.number="25"
-        console.log("location",location)
+        //console.log("location",location)
         loc.innerHTML = `${location.name} (#${location.mapNumber})` 
         loc.className="map"
         if(modifier){
@@ -455,6 +456,7 @@ function hideMessage(){
 tag("message").style.display="none"
 }
 function showMessage(){
+tag("message").style.visibility="visible"
 tag("message").style.bottom="50%"
 }
 
