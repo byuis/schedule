@@ -747,7 +747,7 @@
     },
     "British Daily Retreat": {
       "name": "British Daily Retreat",
-      "description": "The King?s forces end their duty day and retire the Colour.",
+      "description": "The King's forces end their duty day and retire the Colour.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -768,7 +768,7 @@
     },
     "British Muster & Drill": {
       "name": "British Muster & Drill",
-      "description": "The King?s forces maneuver and drill, preparing to suppress the rebellion.",
+      "description": "The King's forces maneuver and drill, preparing to suppress the rebellion.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -898,8 +898,8 @@
         }
       ]
     },
-    "Children?s Militia": {
-      "name": "Children?s Militia",
+    "Children's Militia": {
+      "name": "Children's Militia",
       "description": "Young colonists muster & march to show their patriotism.",
       "hide": false,
       "audienceInvolved": true,
@@ -2007,7 +2007,7 @@
       "times": [
         {
           "time": "1:00 PM",
-          "location": "School House"
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -2344,7 +2344,7 @@
     },
     "Meet Patrick Henry": {
       "name": "Meet Patrick Henry",
-      "description": "A conversation with one of the revolution?s top orators.",
+      "description": "A conversation with one of the revolution's top orators.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2411,7 +2411,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 2,
       "location": "",
       "people": [
         {
@@ -2425,10 +2425,6 @@
           "location": "The Grove"
         },
         {
-          "time": "1:00 PM",
-          "location": "Liberty Tree"
-        },
-        {
           "time": "1:30 PM",
           "location": "Liberty Tree"
         }
@@ -2436,7 +2432,7 @@
     },
     "Meet Sybil Ludington": {
       "name": "Meet Sybil Ludington",
-      "description": "You?ve heard of Paul Revere?s ride; now listen to Sybil tell of her harrowing ride.",
+      "description": "You've heard of Paul Revere's ride; now listen to Sybil tell of her harrowing ride.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2620,7 +2616,7 @@
     },
     "Reveille with the King's Forces": {
       "name": "Reveille with the King's Forces",
-      "description": "The King?s forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
+      "description": "The King's forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
