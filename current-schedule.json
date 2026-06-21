@@ -871,7 +871,7 @@
       "times": [
         {
           "time": "1:00 PM",
-          "location": "Continental Quarters"
+          "location": "Boston Quarters"
         }
       ]
     },
@@ -894,7 +894,7 @@
       "times": [
         {
           "time": "4:00 PM",
-          "location": "Continental Quarters"
+          "location": "Boston Quarters"
         }
       ]
     },
@@ -1303,11 +1303,11 @@
       "times": [
         {
           "time": "11:30 AM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "3:00 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         }
       ]
     },
@@ -1499,11 +1499,11 @@
         },
         {
           "time": "5:00 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "5:00 PM",
-          "location": "Continental Quarters"
+          "location": "Boston Quarters"
         },
         {
           "time": "5:00 PM",
@@ -1547,11 +1547,11 @@
         },
         {
           "time": "5:30 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "5:30 PM",
-          "location": "Continental Quarters"
+          "location": "Boston Quarters"
         },
         {
           "time": "5:30 PM",
@@ -1575,7 +1575,7 @@
       "times": [
         {
           "time": "3:00 PM",
-          "location": "Continental Quarters"
+          "location": "Boston Quarters"
         }
       ]
     },
@@ -1882,19 +1882,19 @@
       "times": [
         {
           "time": "10:30 AM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "11:00 AM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "2:00 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "2:30 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         }
       ]
     },
@@ -2714,11 +2714,11 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         },
         {
           "time": "3:30 PM",
-          "location": "Halifax Quarters"
+          "location": "Halifax Hall"
         }
       ]
     },
@@ -3667,8 +3667,8 @@
       "x": "",
       "y": ""
     },
-    "Halifax Quarters": {
-      "name": "Halifax Quarters",
+    "Halifax Hall": {
+      "name": "Halifax Hall",
       "description": "Pavilion in British Camp",
       "mapNumber": 71,
       "coordinates": "",
@@ -3709,7 +3709,7 @@
     },
     "British Laundry": {
       "name": "British Laundry",
-      "description": "Mistres Morgan's laundry",
+      "description": "",
       "mapNumber": 76,
       "coordinates": "",
       "x": "",
@@ -3735,6 +3735,54 @@
       "name": "Green Dragon Tavern",
       "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
       "mapNumber": 5,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Naval Recruitment": {
+      "name": "Naval Recruitment",
+      "description": "Visit John Paul Jones",
+      "mapNumber": 4,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Broom Maker": {
+      "name": "Broom Maker",
+      "description": "",
+      "mapNumber": 53,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Roper Maker": {
+      "name": "Roper Maker",
+      "description": "",
+      "mapNumber": 83,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Apple Cider Press": {
+      "name": "Apple Cider Press",
+      "description": "",
+      "mapNumber": 29,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Colonial Soap Works": {
+      "name": "Colonial Soap Works",
+      "description": "",
+      "mapNumber": 40,
+      "coordinates": "",
+      "x": "",
+      "y": ""
+    },
+    "Boston Quarters": {
+      "name": "Boston Quarters",
+      "description": "",
+      "mapNumber": 36,
       "coordinates": "",
       "x": "",
       "y": ""
