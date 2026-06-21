@@ -21,7 +21,10 @@
                 mode=mode+1
             }else if(mode===2){
                 text+=evt.clientY + "','" + evt.clientX + "','"   
-                const title = prompt("title")
+                let title = getLabel()
+                if(!title){
+                  title=prompt("title")
+                }
                 text+=title + "')"
                 document.getElementById("data").innerHTML = document.getElementById("data").innerHTML +"\n"+text
                 navigator.clipboard.writeText(text)
@@ -41,11 +44,20 @@
                 navigator.clipboard.writeText( document.getElementById("coords").innerHTML );
             }
         }
+        function getLabel(){
+            const ta = document.getElementById("labels");
+            data=ta.value.split("\n")
+            const val=data.shift()
+            
+            ta.value=data.join("\n")
+            return val
+        }
     </script>
 </head>
 <body style="margin:0" onkeyup="copyCoords(event)">
     <img id="i" src="current_map.png" onclick="click_me(event)" onmousemove="showCoords(event)">
     <div id="coords"></div>
-    <pre id="data"><pre>
+    <textArea id="labels" rows="20" cols="50"></textArea>    
+    <pre id="data"></pre>
 </body>
 </html>

@@ -91,6 +91,7 @@ function add_rect(coords,func,show_pointer=true){
 }
 
 function add_area(coords,y,x,name,supplement_coords){
+    console.log("adding area",coords,y,x,name,supplement_coords)
     const area_number=Object.keys(map_locations).length+1
     let element = document.createElement("AREA")
     element.shape = "rect"
@@ -173,6 +174,7 @@ function filterSchedule(filter){
 
 }
 function start_me_up(){
+
     make_map()
 
     let params = new URLSearchParams(document.location.search);

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+
+  async function startMeUp(){
+    const res = await fetch('https://declaration250.blogspot.com/feeds/posts/default?alt=json&max-results=0');
+    const data = await res.json();
+    const categories = data.feed.category || [];
+    const highest = Math.max(...categories.map(c => Number(c.term)).filter(n => !isNaN(n)));
+    console.log(highest);
+  }
+
+
+
+</script>
+</body>
+</html>

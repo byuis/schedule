@@ -320,7 +320,6 @@ async function start_me_up(){
 
 
 
-    return
         // start of original code===================================
 
     make_map()
