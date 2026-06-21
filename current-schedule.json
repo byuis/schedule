@@ -3610,7 +3610,7 @@
     "South Meetinghouse": {
       "name": "South Meetinghouse",
       "description": "Large meeting venue",
-      "mapNumber": 2,
+      "mapNumber": 3,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3618,7 +3618,7 @@
     "Faneuil Hall": {
       "name": "Faneuil Hall",
       "description": "Conversation area in the American Camp",
-      "mapNumber": 3,
+      "mapNumber": 24,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3626,7 +3626,7 @@
     "Forge of Sedition": {
       "name": "Forge of Sedition",
       "description": "Printinghouse theatre",
-      "mapNumber": 4,
+      "mapNumber": 31,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3634,7 +3634,7 @@
     "Carpenters' Hall": {
       "name": "Carpenters' Hall",
       "description": "Conversation Area near Children's games",
-      "mapNumber": 5,
+      "mapNumber": 59,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3642,7 +3642,7 @@
     "Liberty Tree": {
       "name": "Liberty Tree",
       "description": "Conversation area near the Gift Shop",
-      "mapNumber": 6,
+      "mapNumber": 26,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3650,7 +3650,7 @@
     "School House": {
       "name": "School House",
       "description": "Conversations and classroom work",
-      "mapNumber": 7,
+      "mapNumber": 51,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3658,7 +3658,7 @@
     "Continental Field": {
       "name": "Continental Field",
       "description": "Open area near American Camp",
-      "mapNumber": 8,
+      "mapNumber": 25,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3666,7 +3666,7 @@
     "King's Field": {
       "name": "King's Field",
       "description": "Open Area near Bristh Camp",
-      "mapNumber": 9,
+      "mapNumber": 78,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3674,7 +3674,7 @@
     "Halifax Quarters": {
       "name": "Halifax Quarters",
       "description": "Pavilion in British Camp",
-      "mapNumber": 10,
+      "mapNumber": 71,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3682,7 +3682,7 @@
     "Continental Quarters": {
       "name": "Continental Quarters",
       "description": "Pavilion in Continental Camp",
-      "mapNumber": 11,
+      "mapNumber": 19,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3690,7 +3690,7 @@
     "Cup and Quill": {
       "name": "Cup and Quill",
       "description": "Meeting area for intimate gatherings at tables",
-      "mapNumber": 12,
+      "mapNumber": 21,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3698,7 +3698,7 @@
     "The Grove": {
       "name": "The Grove",
       "description": "Dance and Swordplay near Mayflower",
-      "mapNumber": 13,
+      "mapNumber": 27,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3711,10 +3711,10 @@
       "x": "",
       "y": ""
     },
-    "British Laundray": {
-      "name": "British Laundray",
+    "British Laundry": {
+      "name": "British Laundry",
       "description": "Mistres Morgan's laundry",
-      "mapNumber": 15,
+      "mapNumber": 76,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3722,7 +3722,7 @@
     "Broom Maker's Shop": {
       "name": "Broom Maker's Shop",
       "description": "Attached to the village cooper",
-      "mapNumber": 16,
+      "mapNumber": 53,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3730,7 +3730,7 @@
     "Gray's Rope Walk": {
       "name": "Gray's Rope Walk",
       "description": "Where durable, manilla rope is made while you wait",
-      "mapNumber": 17,
+      "mapNumber": 83,
       "coordinates": "",
       "x": "",
       "y": ""
@@ -3738,7 +3738,7 @@
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
       "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
-      "mapNumber": 18,
+      "mapNumber": 5,
       "coordinates": "",
       "x": "",
       "y": ""
