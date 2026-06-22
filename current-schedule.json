@@ -650,7 +650,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         },
         {
           "name": "Scott Forst",
@@ -696,7 +696,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         },
         {
           "name": "Scott Forst",
@@ -1245,7 +1245,7 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         },
         {
           "name": "Lindsay Weiler"
@@ -1853,7 +1853,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         }
       ],
       "times": [
@@ -2720,7 +2720,7 @@
     },
     "Sipping Chocolate and Spilling Tea": {
       "name": "Sipping Chocolate and Spilling Tea",
-      "description": "Sip chocolate with Lady Charlotte Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
+      "description": "Sip chocolate with Lady Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 5,
@@ -2729,7 +2729,7 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         },
         {
           "name": "Lindsay Weiler"
@@ -2763,7 +2763,7 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Charlotte Dunmore"
+          "character": "Lady Dunmore"
         },
         {
           "name": "Lindsay Weiler"
@@ -3801,7 +3801,7 @@
     "Billy Lee": [
       "Military"
     ],
-    "Charlotte Dunmore": [
+    "Lady Dunmore": [
       "British",
       "Women of the Revolution"
     ],
