@@ -2118,7 +2118,7 @@
     },
     "Meet Governor Galvez": {
       "name": "Meet Governor Galvez",
-      "description": "He fought the British while America fought for independence. Meet Bernardo de G?lvez &mdash; the Spanish hero the history books forgot.",
+      "description": "He fought the British while America fought for independence. Meet Bernardo de Galvez &mdash; the Spanish hero the history books forgot.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2127,7 +2127,7 @@
       "people": [
         {
           "name": "Dennis Carlos",
-          "character": "Bernardo de G?lvez"
+          "character": "Bernardo de Galvez"
         }
       ],
       "times": [
@@ -2720,7 +2720,7 @@
     },
     "Sipping Chocolate and Spilling Tea": {
       "name": "Sipping Chocolate and Spilling Tea",
-      "description": "Sip chocolate with Lady Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
+      "description": "Sip chocolate with Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 5,
@@ -3792,7 +3792,7 @@
       "Signers of Constitution",
       "Constitutional Convention"
     ],
-    "Bernardo de G?lvez": [
+    "Bernardo de Galvez": [
       "Military"
     ],
     "Billy Flora": [
