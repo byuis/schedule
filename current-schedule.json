@@ -1308,11 +1308,11 @@
       "times": [
         {
           "time": "11:30 AM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "3:00 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         }
       ]
     },
@@ -1504,7 +1504,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "5:00 PM",
@@ -1552,7 +1552,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "5:30 PM",
@@ -2712,11 +2712,11 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "3:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         }
       ]
     },
@@ -3605,6 +3605,25 @@
         }
       ]
     },
+    "What's for Supper? The Hidden Work Behind a Frontier Meal": {
+      "name": "What's for Supper? The Hidden Work Behind a Frontier Meal",
+      "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": 2,
+      "additionalText": "",
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Frontier Kitchen"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Frontier Kitchen"
+        }
+      ]
+    },
     "": {
       "name": "",
       "description": "",
@@ -3940,6 +3959,9 @@
       "British"
     ],
     "Marie Clyne": [
+      ""
+    ],
+    "Amanda Davis": [
       ""
     ]
   },
@@ -4285,6 +4307,12 @@
         ""
       ],
       "desc": "Camp follower, butter maker, lucet instructor"
+    },
+    "Amanda Davis": {
+      "groups": [
+        ""
+      ],
+      "desc": "Frontier Kitchen"
     }
   }
 }
