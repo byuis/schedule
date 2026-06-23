@@ -1,6 +1,6 @@
 const scale = 1
 const map_locations={}
-
+let characters = null
 
 function colonialQuest(pins){
   place_pin(parseInt(pins[0]), true)
@@ -17,14 +17,14 @@ function place_pins(text,pins, clear){
     if(clear===false){
         clearMe=false
     }
-    
-    place_pin({dataset:{x:parseInt(pin[0])-0,y:parseInt(pin[1])-2,name:text}},clearMe)
+    console.log("pin", pin)
+    place_pin({dataset:{x:parseInt(pin[1])+2,y:parseInt(pin[0]),name:text}},clearMe)
   }
 }
 
 
 function place_pin(area, clear=true){
-    console.log("typeof area", typeof area)
+    console.log("area", area)
     if(typeof area==="string"){
         area=parseInt(area)
     }
@@ -110,7 +110,7 @@ function add_area(coords,y,x,name,supplement_coords){
     element.shape = "circle"
     let c=(parseInt(x)) + "," + (parseInt(y)) + "," + 13
     // let c=(parseInt(x)-8) + "," + (parseInt(y)+51) + "," + 13
-    //console.log(c)
+    console.log("c",c)
     element.coords = c
     element.onclick = function() {place_pin(this)}
     // element.dataset.x=Math.round(parseInt(x)*scale)
@@ -121,7 +121,7 @@ function add_area(coords,y,x,name,supplement_coords){
     tag("image-map").appendChild( element )
 
     map_locations[area_number]={
-        x,
+        x:parseInt(x)+2,
         y,
         name
     }
@@ -205,7 +205,7 @@ async function start_me_up(){
     const schedule = scheduleData.presentation
     const locations = scheduleData.location
     const groups = scheduleData.group
-
+    characters = scheduleData.character
 
 
     //console.log("schedule", schedule)
@@ -310,7 +310,7 @@ async function start_me_up(){
     for(const person of filterClasses.person){
         option = document.createElement("option")
         option.value = nameToClass(person)
-        option.innerHTML  = "Participant:" + person
+        option.innerHTML  = "Participant: " + person
         tag("filter").appendChild(option)
     }
 
@@ -374,7 +374,8 @@ async function start_me_up(){
         const title = event.presentation
         const description = pres.description
         const modifier =  pres.audienceInvolved ? "Arrive Early to participate" : ""
-       
+        const additionalText =  pres.additionalText
+               
 
         
         const row = document.createElement("tr")
@@ -386,9 +387,9 @@ async function start_me_up(){
             filterClasses.location.push(location.name)
         }        
 
-
+        const eventCharacters=[]
         if(pres.people){
-            //console.log("people", pres.people)
+            console.log("people", pres.people)
             for(const person of pres.people){
                 if(person.name){
                     row.classList.add(nameToClass(person.name))
@@ -397,6 +398,8 @@ async function start_me_up(){
                     }
                 }
                 if(person.character){
+                    eventCharacters.push(characters[person.character])
+                    eventCharacters[eventCharacters.length-1].name=person.character
                     const className =nameToClass(person.character)
                     row.classList.add(nameToClass(person.character))
                     if(!filterClasses.character.includes(person.character)){
@@ -433,16 +436,61 @@ async function start_me_up(){
         //console.log("location",location)
         loc.innerHTML = `${location.name} (#${location.mapNumber})` 
         loc.className="map"
+        
         if(modifier){
             const mod = document.createElement("div")
             mod.innerHTML = modifier
             mod.className="note"
-
+            
             cell.appendChild(mod)
         }
+        if(additionalText){
+            const div = document.createElement("div")
+            div.innerHTML = additionalText
+            div.className="additionalText"
+            
+            cell.appendChild(div)
+        }
         
-        
+        console.log("ecent=================",eventCharacters)
+        let characterDiv=null
+        for(const character of eventCharacters){
+
+            if(!characterDiv){
+                characterDiv = document.createElement("div")
+                cell.appendChild(characterDiv)
+                characterDiv.className = "character-div"
+                const charSpan = document.createElement("span")
+                charSpan.innerHTML = "You may see: "
+                characterDiv.appendChild(charSpan)       
+                
+            }
+            const charSpan = document.createElement("span")
+            charSpan.innerHTML = character.name
+            charSpan.className="character"
+            
+            charSpan.addEventListener('click', (evt) => {
+                const elem = evt.target.nextElementSibling
+                console.log(elem,elem.style.display,elem.style.display==="none")
+                if(elem.style.display==="none"){
+                    elem.style.display=""
+                }else{
+                    elem.style.display="none"
+                }
+            });
+
+            const descSpan = document.createElement("span")
+            descSpan.style.display="none"
+            descSpan.innerHTML = "<br>" + character.desc + "<br>"
+            
+
+            characterDiv.appendChild(charSpan)   
+            characterDiv.appendChild(descSpan)
+
+        }    
+
         div.appendChild(loc)
+        
         cell.appendChild(div)
 
         row.appendChild(cell)
@@ -450,6 +498,7 @@ async function start_me_up(){
         tag("schedule-table").appendChild(row)
 
     }
+
     function nameToClass(name){
         return name.replace(/\s+/g, '-').toLowerCase();
     }

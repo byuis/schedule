@@ -50,6 +50,7 @@ area{
 }
 
 .location {
+    margin-top: .5rem;
     text-align: right;
 } 
 
@@ -71,19 +72,48 @@ h1, h2{
     grid-gap: 1rem;
 }
 
+.additionalText{
+    background-color:rgb(200, 0, 0);
+    margin-top: .5rem;
+    text-align: center;
+    color: white;
+    border-radius:10px;
+}
 
 
 .note{
     background-color:rgb(174, 243, 243);
     margin-top: .5rem;
     text-align: center;
+    border-radius:10px;
+
 }
+
+.character{
+    background-color:rgb(255, 191, 88);
+    border-radius:10px;
+    margin-right:10px;
+    padding: 0 20px;
+    cursor:pointer;
+    display:inline-block;
+    margin-top:5px;
+
+
+}
+.character-div{
+    margin-top: .5rem;
+    
+}
+
+
 .map {
 color: white;
-background-color: #800000;
+background-color: darkgreen;
 text-decoration: none;
 padding-left: .5rem;
 padding-right: .5rem;
+border-radius:10px;
+cursor: pointer;
 }
 
 
@@ -94,7 +124,7 @@ th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
-    background-color: #025802;
+    background-color: rgb(33, 68, 120);
     color: white;
 }
 td, th {

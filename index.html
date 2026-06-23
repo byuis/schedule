@@ -95,27 +95,28 @@ add_area('1198,553,1303,569','536','776',"Mayflower Sailor")
 add_area('1200,568,1258,583','509','800',"Luthier")
 add_area('1201,582,1285,598','491','749',"Woodworker")
 add_area('1198,596,1281,611','486','692',"Rope Maker")
+//add_area('1200,610,1319,627','495','281',"Jamestown / Plimoth")
 add_area('1200,610,1319,627','546','665',"Jamestown / Plimoth")
 
 
-add_rect('1135,643,1352,705',place_welcome)
-add_rect('1136,705,1353,768',place_first_aid)
-add_rect('1135,760,1351,829',place_necessary)
-add_rect('1135,833,1353,900',place_well)
+add_rect('567,50,660,140',place_welcome)
+add_rect('657,45,753,141',place_first_aid)
+add_rect('744,48,844,140',place_necessary)
+add_rect('830,42,921,141',place_well)
 
 
-    function place_necessary(){
-        place_pins("The Necessary",[[713,877],[372,464],[75,270],[743,234],[1114,279]])
-    }
-    function place_welcome(){
-        place_pins("Welcome Table",[[1125,426],[743,818],[297,493],[832,170]])
-    }
-    function place_first_aid(){
-        place_pins("First-Aid Station",[[724,833],[318,505],[850,162],[1102,428]])
-    }
-    function place_well(){
-        place_pins("Ice Water",[[329,150],[985,512],[873,504],[1024,685],[810,658],[620,430],[237,419],[706,220]])
-    }
+function place_welcome(){
+    place_pins("Welcome Table",[['521','282'],['858','676'],['456','1073'],['161','1020']])
+}
+function place_first_aid(){
+    place_pins("First-Aid Station",[['151','1002'],['455','1056'],['845','693'],['532','300']])
+}
+function place_necessary(){
+    place_pins("The Necessary",[['334','1073'],['285','680'],['893','673'],['484','344'],['312','70']])
+}
+function place_well(){
+    place_pins("Ice Water",[['734','656'],['425','400'],['79','182'],['357','158'],['720','983'],['503','706'],['523','944'],['231','782']])
+}
 
 }        
 function place_tents(){
@@ -135,7 +136,7 @@ function place_tents(){
         <div id="heading" style="position:relative">
             
             <div class="parent" id="map-div" style="display:block">
-                <img class="image1" src="current_map.png" usemap="#image-map"/>
+                <img class="image1" src="current_map.png" usemap="#image-map" style="width:1440"/>
                 <map name="image-map" id="image-map"/>
                 <div id="message" onclick="hideMessage()">
                     You can tap on various part of the map and schedule to see where different locations are in the park.<br><br>Give it a try!
