@@ -453,41 +453,43 @@ async function start_me_up(){
         }
         
         console.log("ecent=================",eventCharacters)
-        let characterDiv=null
-        for(const character of eventCharacters){
+        if(event.characters.length>1)
+            let characterDiv=null
+            for(const character of eventCharacters){
 
-            if(!characterDiv){
-                characterDiv = document.createElement("div")
-                cell.appendChild(characterDiv)
-                characterDiv.className = "character-div"
-                const charSpan = document.createElement("span")
-                charSpan.innerHTML = "You may see: "
-                characterDiv.appendChild(charSpan)       
-                
-            }
-            const charSpan = document.createElement("span")
-            charSpan.innerHTML = character.name
-            charSpan.className="character"
-            
-            charSpan.addEventListener('click', (evt) => {
-                const elem = evt.target.nextElementSibling
-                console.log(elem,elem.style.display,elem.style.display==="none")
-                if(elem.style.display==="none"){
-                    elem.style.display=""
-                }else{
-                    elem.style.display="none"
+                if(!characterDiv){
+                    characterDiv = document.createElement("div")
+                    cell.appendChild(characterDiv)
+                    characterDiv.className = "character-div"
+                    const charSpan = document.createElement("span")
+                    charSpan.innerHTML = "You may see: "
+                    characterDiv.appendChild(charSpan)       
+                    
                 }
-            });
+                const charSpan = document.createElement("span")
+                charSpan.innerHTML = character.name
+                charSpan.className="character"
+                
+                charSpan.addEventListener('click', (evt) => {
+                    const elem = evt.target.nextElementSibling
+                    console.log(elem,elem.style.display,elem.style.display==="none")
+                    if(elem.style.display==="none"){
+                        elem.style.display=""
+                    }else{
+                        elem.style.display="none"
+                    }
+                });
 
-            const descSpan = document.createElement("span")
-            descSpan.style.display="none"
-            descSpan.innerHTML = "<br>" + character.desc + "<br>"
-            
+                const descSpan = document.createElement("span")
+                descSpan.style.display="none"
+                descSpan.innerHTML = "<br>" + character.desc + "<br>"
+                
 
-            characterDiv.appendChild(charSpan)   
-            characterDiv.appendChild(descSpan)
+                characterDiv.appendChild(charSpan)   
+                characterDiv.appendChild(descSpan)
 
-        }    
+            }   
+        } 
 
         div.appendChild(loc)
         
