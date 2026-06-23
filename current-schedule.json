@@ -3581,9 +3581,9 @@
         }
       ]
     },
-    "Buttermaking": {
-      "name": "Buttermaking",
-      "description": "Learn how to make butter. On Fri & Sat only. ",
+    "Making Butter": {
+      "name": "Making Butter",
+      "description": "Learn how to make butter. Friday & Saturday only",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3627,10 +3627,10 @@
     "": {
       "name": "",
       "description": "",
-      "hide": false,
-      "audienceInvolved": false,
+      "hide": "",
+      "audienceInvolved": "",
       "personCount": "",
-      "scheduleCount": "",
+      "scheduleCount": 192,
       "additionalText": ""
     }
   },
