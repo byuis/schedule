@@ -1882,7 +1882,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1891,7 +1891,11 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
+          "location": "Camp Followers"
+        },
+        {
+          "time": "2:00 PM",
           "location": "Camp Followers"
         }
       ]
@@ -3583,11 +3587,21 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
           "name": "Marie Clyne"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Camp Followers"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Camp Followers"
         }
       ]
     },
