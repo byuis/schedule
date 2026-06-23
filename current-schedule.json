@@ -676,7 +676,7 @@
       "times": [
         {
           "time": "2:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -724,7 +724,7 @@
       "times": [
         {
           "time": "2:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -844,15 +844,15 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         },
         {
           "time": "1:00 PM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         },
         {
           "time": "3:00 PM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         }
       ]
     },
@@ -1057,19 +1057,19 @@
       "times": [
         {
           "time": "10:00 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "12:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "2:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "4:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -1389,7 +1389,7 @@
       "times": [
         {
           "time": "10:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1441,7 +1441,7 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1472,7 +1472,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "5:00 PM",
@@ -1496,7 +1496,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "5:00 PM",
@@ -1520,7 +1520,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "5:30 PM",
@@ -1540,7 +1540,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "5:30 PM",
@@ -1600,7 +1600,7 @@
       "times": [
         {
           "time": "12:00 PM",
-          "location": "Roper Maker"
+          "location": "Gray's Ropewalk"
         }
       ]
     },
@@ -1864,15 +1864,15 @@
       "times": [
         {
           "time": "3:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "4:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "4:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1881,25 +1881,18 @@
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 4,
+      "personCount": 1,
+      "scheduleCount": 1,
       "additionalText": "",
+      "people": [
+        {
+          "name": "Marie Clyne"
+        }
+      ],
       "times": [
         {
           "time": "10:30 AM",
-          "location": "Halifax Hall"
-        },
-        {
-          "time": "11:00 AM",
-          "location": "Halifax Hall"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Halifax Hall"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Halifax Hall"
+          "location": "Camp Followers"
         }
       ]
     },
@@ -2406,7 +2399,7 @@
       "times": [
         {
           "time": "11:30 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -2452,11 +2445,11 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "3:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -2676,31 +2669,31 @@
       "times": [
         {
           "time": "9:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "9:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "10:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "11:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "12:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "1:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "3:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -2754,7 +2747,7 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -2789,7 +2782,7 @@
       "times": [
         {
           "time": "1:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -3017,7 +3010,7 @@
       "times": [
         {
           "time": "1:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -3548,13 +3541,13 @@
         },
         {
           "time": "4:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
     "Soap Making Demonstration": {
       "name": "Soap Making Demonstration",
-      "description": "Learn how to make soap",
+      "description": "Learn how to make soap.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3581,6 +3574,20 @@
         {
           "time": "3:30 PM",
           "location": "Colonial Soap Works"
+        }
+      ]
+    },
+    "Buttermaking": {
+      "name": "Buttermaking",
+      "description": "Learn how to make butter.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Marie Clyne"
         }
       ]
     },
@@ -3631,8 +3638,8 @@
       "mapNumber": 60,
       "coordinates": ""
     },
-    "School House": {
-      "name": "School House",
+    "Schoolhouse": {
+      "name": "Schoolhouse",
       "description": "Conversations and classroom work",
       "mapNumber": 50,
       "coordinates": ""
@@ -3665,12 +3672,6 @@
       "name": "The Grove",
       "description": "Dance and Swordplay near Mayflower",
       "mapNumber": 61,
-      "coordinates": ""
-    },
-    "Unknown": {
-      "name": "Unknown",
-      "description": "An unknown location, to be determined ",
-      "mapNumber": 14,
       "coordinates": ""
     },
     "British Laundry": {
@@ -3721,8 +3722,8 @@
       "mapNumber": 27,
       "coordinates": ""
     },
-    "Camp Folloers": {
-      "name": "Camp Folloers",
+    "Camp Followers": {
+      "name": "Camp Followers",
       "description": "",
       "mapNumber": 82,
       "coordinates": ""
@@ -3923,6 +3924,9 @@
     "Ensign Prym": [
       "Military",
       "British"
+    ],
+    "Marie Clyne": [
+      ""
     ]
   },
   "character": {
@@ -4261,6 +4265,12 @@
         "British"
       ],
       "desc": ""
+    },
+    "Marie Clyne": {
+      "groups": [
+        ""
+      ],
+      "desc": "Camp follower, butter maker, lucet instructor"
     }
   }
 }
