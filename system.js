@@ -245,8 +245,8 @@ async function start_me_up(){
           if(pres.audienceInvolved){
             modifier = "Arrive Early to participate"
           }
-          //console.log("pres.location", event.location)
-          //console.log("loations", locations)
+          console.log("pres.location", event.location)
+          console.log("loations", locations)
           let theLocation = locations[event.location]
           if(!theLocation){theLocation=locations[pres.location]}
           if(!theLocation){theLocation=locations["Unknown"]}
