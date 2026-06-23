@@ -148,9 +148,9 @@
         }
       ]
     },
-    "A drink with General Birch": {
-      "name": "A drink with General Birch",
-      "description": "Join General Birch at the tavern to discuss the day's happenings and politics",
+    "A drink with Colonel Birch": {
+      "name": "A drink with Colonel Birch",
+      "description": "Join Colonel Birch at the tavern to discuss the day's happenings and politics",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -159,7 +159,7 @@
       "people": [
         {
           "name": "Doug Bingham",
-          "character": "General Birch"
+          "character": "Colonel Birch"
         }
       ]
     },
@@ -621,8 +621,8 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
+          "name": "Alyssa Michaelis",
+          "character": "Sybil Ludington"
         }
       ],
       "times": [
@@ -645,30 +645,32 @@
           "name": "Kim Gardner"
         },
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
           "name": "Scott Forst",
           "character": "Governor Dunmore"
         },
         {
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
+        },
+        {
           "name": "Steven Leon",
           "character": "Major Beaumont"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Judy Polinsky",
+          "character": "Ensign Prym"
         },
         {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
-        },
-        {
-          "name": "Judy Polinsky"
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
         }
       ],
       "times": [
@@ -696,7 +698,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
           "name": "Scott Forst",
@@ -707,14 +709,16 @@
           "character": "Major Beaumont"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
         },
         {
-          "name": "Judy Polinsky"
+          "name": "Judy Polinsky",
+          "character": "Ensign Prym"
         }
       ],
       "times": [
@@ -806,7 +810,7 @@
         },
         {
           "name": "Doug Bingham",
-          "character": "General Birch"
+          "character": "Colonel Birch"
         }
       ],
       "times": [
@@ -938,7 +942,7 @@
       "audienceInvolved": true,
       "personCount": 2,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Friday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -1245,10 +1249,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Kathryn Taber-Garcia"
@@ -1853,7 +1858,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         }
       ],
       "times": [
@@ -2462,7 +2467,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "additionalText": "",
+      "additionalText": "Friday and Saturday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -2729,10 +2734,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Brooke LaBarr"
@@ -2763,10 +2769,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Brooke LaBarr"
@@ -2995,7 +3002,7 @@
     },
     "The Wartime Role of an Officer's Wife": {
       "name": "The Wartime Role of an Officer's Wife",
-      "description": "She didn't carry a musket, but she was indispensable. Explore the remarkable role officer's wives played in keeping the Continental Army together on campaign.",
+      "description": "She didn't carry a musket, but she was indispensable. Explore the remarkable role officer's wives played in keeping the British Army together on campaign.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3003,7 +3010,8 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         }
       ],
       "times": [
@@ -3749,10 +3757,6 @@
     "Billy Lee": [
       "Military"
     ],
-    "Lady Dunmore": [
-      "British",
-      "Women of the Revolution"
-    ],
     "Christopher Gadsden": [
       "Founding Fathers",
       "1st Continental Congress",
@@ -3772,7 +3776,7 @@
       "2nd Continenal Congress",
       "Signers of Declaration"
     ],
-    "General Birch": [
+    "Colonel Birch": [
       "British",
       "Military"
     ],
@@ -3919,6 +3923,18 @@
     "General O'Hara": [
       "Military",
       "British"
+    ],
+    "Lady Margaret Beaumont": [
+      "Women of the Revolution",
+      "British"
+    ],
+    "Lady Charlotte Stewart Murray, Countess of Dunmore": [
+      "Women of the Revolution",
+      "British"
+    ],
+    "Ensign Prym": [
+      "Military",
+      "British"
     ]
   },
   "character": {
@@ -3949,13 +3965,6 @@
         "Military"
       ],
       "desc": "George Washington's enslaved personal attendant, Billy Lee rode beside him in battle and served through eight years of war."
-    },
-    "Lady Dunmore": {
-      "groups": [
-        "British",
-        "Women of the Revolution"
-      ],
-      "desc": "When revolution tore Virginia apart, Lady Dunmore managed a household, a legacy, and a loyalty that cost her everything."
     },
     "Christopher Gadsden": {
       "groups": [
@@ -3991,7 +4000,7 @@
       ],
       "desc": "New Jersey's most versatile founder &emdash; artist, lawyer, musician, and poet whose genius touched every corner of the new nation."
     },
-    "General Birch": {
+    "Colonel Birch": {
       "groups": [
         "British",
         "Military"
@@ -4243,6 +4252,27 @@
         "British"
       ],
       "desc": "Meet the man who surrendered the British army at Yorktown &emdash; with one last diplomatic flourish that Washington quietly and firmly rejected."
+    },
+    "Lady Margaret Beaumont": {
+      "groups": [
+        "Women of the Revolution",
+        "British"
+      ],
+      "desc": ""
+    },
+    "Lady Charlotte Stewart Murray, Countess of Dunmore": {
+      "groups": [
+        "Women of the Revolution",
+        "British"
+      ],
+      "desc": ""
+    },
+    "Ensign Prym": {
+      "groups": [
+        "Military",
+        "British"
+      ],
+      "desc": ""
     }
   }
 }
