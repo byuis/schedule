@@ -1354,14 +1354,6 @@
           "name": "Kim Gardner"
         },
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        },
-        {
           "name": "Gregg Hardy",
           "character": "Benjamin Franklin"
         },
@@ -1370,12 +1362,20 @@
           "character": "John Adams"
         },
         {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
           "name": "Cap Caputo",
           "character": "John Hancock"
         },
         {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Ben Moulton",
