@@ -7,7 +7,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cody Huls"
@@ -27,7 +27,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cody Huls"
@@ -47,7 +47,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gregg Hardy",
@@ -72,7 +72,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Patrick Martin",
@@ -97,7 +97,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Roger Gary",
@@ -122,7 +122,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Devaughn Simper",
@@ -155,7 +155,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Doug Bingham",
@@ -170,7 +170,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Charles Castleberry",
@@ -195,7 +195,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kent Vance",
@@ -220,7 +220,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Ben Moulton",
@@ -249,7 +249,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jack Pauly",
@@ -274,7 +274,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Thomas Wangeman",
@@ -303,7 +303,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Luke Rader",
@@ -332,7 +332,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cap Caputo",
@@ -357,7 +357,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Tom Wellborn",
@@ -382,7 +382,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -397,7 +397,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cameron Graham",
@@ -422,7 +422,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "C. David Belt",
@@ -447,7 +447,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Benjamin Muhlestein",
@@ -468,7 +468,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "David Woodward",
@@ -493,7 +493,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "John Hockley",
@@ -518,7 +518,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kimberly Ward",
@@ -539,7 +539,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Rader",
@@ -568,7 +568,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Nate Crandall",
@@ -597,7 +597,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Rader",
@@ -618,7 +618,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Rader",
@@ -639,7 +639,7 @@
       "audienceInvolved": true,
       "personCount": 8,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Kim Gardner"
@@ -685,7 +685,7 @@
       "audienceInvolved": false,
       "personCount": 8,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kim Gardner"
@@ -731,7 +731,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "C. David Belt",
@@ -752,7 +752,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -773,7 +773,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -798,7 +798,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -831,7 +831,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 3,
-      "location": "Broom Maker's Shop",
+      "additionalText": "",
       "people": [
         {
           "name": "Darold Francis"
@@ -859,7 +859,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Daniel Pugmire"
@@ -882,7 +882,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Daniel Pugmire"
@@ -905,7 +905,7 @@
       "audienceInvolved": true,
       "personCount": 2,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cameron Graham",
@@ -938,7 +938,7 @@
       "audienceInvolved": true,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -961,7 +961,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -988,7 +988,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "John Hockley",
@@ -1013,7 +1013,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "C. David Belt",
@@ -1041,7 +1041,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 4,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jewel Wellborn"
@@ -1076,7 +1076,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Cornell"
@@ -1104,7 +1104,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Cornell"
@@ -1135,7 +1135,7 @@
       "audienceInvolved": false,
       "personCount": 9,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jack Pauly",
@@ -1188,7 +1188,7 @@
       "audienceInvolved": false,
       "personCount": 9,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jack Pauly",
@@ -1241,7 +1241,7 @@
       "audienceInvolved": false,
       "personCount": 3,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Christina Forst",
@@ -1268,7 +1268,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kathryn Taber-Garcia"
@@ -1291,7 +1291,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Nickie Allen"
@@ -1318,7 +1318,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -1343,7 +1343,7 @@
       "audienceInvolved": true,
       "personCount": 9,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Kim Gardner"
@@ -1395,7 +1395,7 @@
       "audienceInvolved": false,
       "personCount": 9,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Katrina Kim",
@@ -1447,7 +1447,7 @@
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": 27,
-      "location": "",
+      "additionalText": "",
       "times": [
         {
           "time": "12:00 PM",
@@ -1566,7 +1566,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kathryn Taber-Garcia"
@@ -1586,7 +1586,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Dan Maker"
@@ -1606,7 +1606,7 @@
       "audienceInvolved": false,
       "personCount": 4,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Carl Wager",
@@ -1639,7 +1639,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -1664,7 +1664,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "David Woodward",
@@ -1685,7 +1685,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Leanne Larson"
@@ -1709,7 +1709,7 @@
       "audienceInvolved": false,
       "personCount": 3,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jeff Beaty"
@@ -1735,7 +1735,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -1760,7 +1760,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Peter Cannon"
@@ -1780,7 +1780,7 @@
       "audienceInvolved": true,
       "personCount": 6,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -1821,7 +1821,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Rachel Joy Jackson"
@@ -1845,7 +1845,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Scott Forst",
@@ -1878,7 +1878,7 @@
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": 4,
-      "location": "",
+      "additionalText": "",
       "times": [
         {
           "time": "10:30 AM",
@@ -1905,7 +1905,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Ben Moulton",
@@ -1930,7 +1930,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gregg Hardy",
@@ -1951,7 +1951,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Patrick Martin",
@@ -1972,7 +1972,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Roger Gary",
@@ -1997,7 +1997,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Camille Smithson",
@@ -2018,7 +2018,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Katrina Kim",
@@ -2039,7 +2039,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -2060,7 +2060,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Charles Castleberry",
@@ -2081,7 +2081,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -2102,7 +2102,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Scott Forst",
@@ -2123,7 +2123,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Dennis Carlos",
@@ -2144,7 +2144,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kent Vance",
@@ -2169,7 +2169,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Ben Moulton",
@@ -2190,7 +2190,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jack Pauly",
@@ -2211,7 +2211,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Thomas Wangeman",
@@ -2232,7 +2232,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cap Caputo",
@@ -2257,7 +2257,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Dalane England",
@@ -2278,7 +2278,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -2299,7 +2299,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lyla Jackson",
@@ -2324,7 +2324,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "C. David Belt",
@@ -2349,7 +2349,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Benjamin Muhlestein",
@@ -2370,7 +2370,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "David Woodward",
@@ -2391,7 +2391,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kimberly Ward",
@@ -2412,7 +2412,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Dalane England",
@@ -2437,7 +2437,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Alyssa Michaelis",
@@ -2462,7 +2462,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -2489,7 +2489,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Katherine Moulton"
@@ -2509,7 +2509,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Hailey Reid",
@@ -2534,7 +2534,7 @@
       "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -2555,7 +2555,7 @@
       "audienceInvolved": true,
       "personCount": 13,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Thomas Wangeman",
@@ -2621,7 +2621,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -2642,7 +2642,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Johnathan Martin",
@@ -2667,7 +2667,7 @@
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": 7,
-      "location": "",
+      "additionalText": "",
       "times": [
         {
           "time": "9:00 AM",
@@ -2706,7 +2706,7 @@
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "times": [
         {
           "time": "12:30 PM",
@@ -2725,7 +2725,7 @@
       "audienceInvolved": true,
       "personCount": 5,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Christina Forst",
@@ -2759,7 +2759,7 @@
       "audienceInvolved": false,
       "personCount": 5,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Christina Forst",
@@ -2793,7 +2793,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Elary Hall",
@@ -2818,7 +2818,7 @@
       "audienceInvolved": true,
       "personCount": 3,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jeff Beaty"
@@ -2844,7 +2844,7 @@
       "audienceInvolved": true,
       "personCount": 7,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -2884,12 +2884,12 @@
     },
     "The Convention and the 3/5 clause": {
       "name": "The Convention and the 3/5 clause",
-      "description": "The Constitution's darkest bargain: discover how the founders traded principle for union and what that decision ultimately cost America.",
+      "description": "Debate alongside the founders as they forge a fragile union, balancing impossible choices in hopes of securing liberty for generations to come.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 7,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Charles Castleberry",
@@ -2934,7 +2934,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Luke Rader",
@@ -2959,7 +2959,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Kathryn Taber-Garcia"
@@ -2979,7 +2979,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -3000,7 +3000,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lindsay Weiler"
@@ -3020,7 +3020,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Johnathan Martin",
@@ -3041,7 +3041,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Patrick Martin",
@@ -3062,7 +3062,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -3077,7 +3077,7 @@
       "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -3092,7 +3092,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Ben Moulton",
@@ -3113,7 +3113,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jack Pauly",
@@ -3134,7 +3134,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Thomas Wangeman",
@@ -3155,7 +3155,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Cap Caputo",
@@ -3176,7 +3176,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Tom Wellborn",
@@ -3197,7 +3197,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Steven Leon",
@@ -3218,7 +3218,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lyla Jackson",
@@ -3233,7 +3233,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Benjamin Muhlestein",
@@ -3254,7 +3254,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Elary Hall",
@@ -3275,7 +3275,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "John Hockley",
@@ -3296,7 +3296,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jared Rader",
@@ -3317,7 +3317,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Alyssa Michaelis",
@@ -3338,7 +3338,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Nate Crandall",
@@ -3359,7 +3359,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Devaughn Simper",
@@ -3388,7 +3388,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Ralph C Hancock"
@@ -3408,7 +3408,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -3433,7 +3433,7 @@
       "audienceInvolved": true,
       "personCount": 7,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -3478,7 +3478,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Elary Hall"
@@ -3498,7 +3498,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 3,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Tom Wellborn",
@@ -3527,7 +3527,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Julie Siebach"
@@ -3551,7 +3551,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 4,
-      "location": "",
+      "additionalText": "",
       "people": [
         {
           "name": "Jane Hall"
@@ -3583,7 +3583,7 @@
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": "",
-      "location": ""
+      "additionalText": ""
     }
   },
   "location": {
@@ -3591,193 +3591,145 @@
       "name": "Tour Departure",
       "description": "Probably near the gift shop, just a place to begin tours",
       "mapNumber": 1,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "South Meetinghouse": {
       "name": "South Meetinghouse",
       "description": "Large meeting venue",
       "mapNumber": 3,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Faneuil Hall": {
       "name": "Faneuil Hall",
       "description": "Conversation area in the American Camp",
       "mapNumber": 24,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Forge of Sedition": {
       "name": "Forge of Sedition",
       "description": "Printinghouse theatre",
       "mapNumber": 31,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Carpenters' Hall": {
       "name": "Carpenters' Hall",
       "description": "Conversation Area near Children's games",
       "mapNumber": 59,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Liberty Tree": {
       "name": "Liberty Tree",
       "description": "Conversation area near the Gift Shop",
       "mapNumber": 26,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "School House": {
       "name": "School House",
       "description": "Conversations and classroom work",
       "mapNumber": 51,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Continental Field": {
       "name": "Continental Field",
       "description": "Open area near American Camp",
       "mapNumber": 25,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "King's Field": {
       "name": "King's Field",
       "description": "Open Area near Bristh Camp",
       "mapNumber": 78,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Halifax Hall": {
       "name": "Halifax Hall",
       "description": "Pavilion in British Camp",
       "mapNumber": 71,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Continental Quarters": {
       "name": "Continental Quarters",
       "description": "Pavilion in Continental Camp",
       "mapNumber": 19,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Cup and Quill": {
       "name": "Cup and Quill",
       "description": "Meeting area for intimate gatherings at tables",
       "mapNumber": 21,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "The Grove": {
       "name": "The Grove",
       "description": "Dance and Swordplay near Mayflower",
       "mapNumber": 27,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Unknown": {
       "name": "Unknown",
       "description": "An unknown location, to be determined ",
       "mapNumber": 14,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "British Laundry": {
       "name": "British Laundry",
       "description": "",
       "mapNumber": 76,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Broom Maker's Shop": {
       "name": "Broom Maker's Shop",
       "description": "Attached to the village cooper",
       "mapNumber": 53,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Gray's Rope Walk": {
       "name": "Gray's Rope Walk",
       "description": "Where durable, manilla rope is made while you wait",
       "mapNumber": 83,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
       "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
       "mapNumber": 5,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Naval Recruitment": {
       "name": "Naval Recruitment",
       "description": "Visit John Paul Jones",
       "mapNumber": 4,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Broom Maker": {
       "name": "Broom Maker",
       "description": "",
       "mapNumber": 53,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Roper Maker": {
       "name": "Roper Maker",
       "description": "",
       "mapNumber": 83,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Apple Cider Press": {
       "name": "Apple Cider Press",
       "description": "",
       "mapNumber": 29,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Colonial Soap Works": {
       "name": "Colonial Soap Works",
       "description": "",
       "mapNumber": 40,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     },
     "Boston Quarters": {
       "name": "Boston Quarters",
       "description": "",
       "mapNumber": 36,
-      "coordinates": "",
-      "x": "",
-      "y": ""
+      "coordinates": ""
     }
   },
   "group": {
@@ -3968,5 +3920,329 @@
       "Military",
       "British"
     ]
+  },
+  "character": {
+    "Benjamin Franklin": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Signers of Declaration",
+        "Signers of Constitution",
+        "Constitutional Convention"
+      ],
+      "desc": "Printer, scientist, diplomat, and wit ? Franklin charmed France into the alliance that made American independence possible."
+    },
+    "Bernardo de Galvez": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Spanish governor who defied an empire to aid the Revolution, capturing British forts across the Gulf and changing the war's outcome."
+    },
+    "Billy Flora": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Free Black hero of the Battle of Great Bridge who held the bridge single-handedly so his comrades could escape the British."
+    },
+    "Billy Lee": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "George Washington's enslaved personal attendant, Billy Lee rode beside him in battle and served through eight years of war."
+    },
+    "Lady Dunmore": {
+      "groups": [
+        "British",
+        "Women of the Revolution"
+      ],
+      "desc": "When revolution tore Virginia apart, Lady Dunmore managed a household, a legacy, and a loyalty that cost her everything."
+    },
+    "Christopher Gadsden": {
+      "groups": [
+        "Founding Fathers",
+        "1st Continental Congress",
+        "Signers of the Continental Association"
+      ],
+      "desc": "South Carolina's most passionate patriot ? Gadsden designed the \"Don't Tread on Me\" flag and demanded independence before almost anyone else."
+    },
+    "Comte de Rochambeau": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "French general who commanded 6,000 troops at Yorktown and treated Washington as an equal when others would not."
+    },
+    "Elizabeth Powell": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Philadelphia's most brilliant hostess ? she challenged Washington to stay in public life and may have changed American history."
+    },
+    "Elizabeth Burgen": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "New York patriot who risked everything to help more than 200 American prisoners escape the horrors of British prison ships."
+    },
+    "Francis Hopkinson": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Signers of Declaration"
+      ],
+      "desc": "New Jersey's most versatile founder ? artist, lawyer, musician, and poet whose genius touched every corner of the new nation."
+    },
+    "General Birch": {
+      "groups": [
+        "British",
+        "Military"
+      ],
+      "desc": "Meet the British officer who gave thousands of Black Loyalists their freedom papers ? one of the Revolution's more surprising acts of honor."
+    },
+    "George Washington": {
+      "groups": [
+        "Founding Fathers",
+        "1st Continental Congress",
+        "2nd Continenal Congress",
+        "Signers of Constitution",
+        "Military"
+      ],
+      "desc": "General, president, farmer ? Washington was the one figure every founder trusted, the indispensable man of American independence."
+    },
+    "George Mason": {
+      "groups": [
+        "Founding Fathers",
+        "Constitutional Convention"
+      ],
+      "desc": "Virginia's brilliant, forgotten founder wrote the Declaration of Rights ? and refused to sign the Constitution because it protected slavery."
+    },
+    "Governor Dunmore": {
+      "groups": [
+        "British",
+        "Military"
+      ],
+      "desc": "Virginia's last royal governor tried to crush rebellion, burned Norfolk, and promised freedom to enslaved people who joined the British."
+    },
+    "Hyam Soloman": {
+      "groups": [
+        ""
+      ],
+      "desc": "Polish-born Jewish financier Haym Salomon personally raised funds that kept the Continental Army in the field through its darkest hours."
+    },
+    "Isaiah Thomas": {
+      "groups": [
+        ""
+      ],
+      "desc": "His printing press was a weapon. Isaiah Thomas spread the patriot cause across New England before the first shots were fired."
+    },
+    "James Madison": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Constitutional Convention",
+        "Signers of Constitution"
+      ],
+      "desc": "Small in stature, enormous in intellect ? Madison designed the Constitution, defended it in the Federalist Papers, and shaped American government."
+    },
+    "John Adams": {
+      "groups": [
+        "Founding Fathers",
+        "1st Continental Congress",
+        "2nd Continenal Congress",
+        "Signers of Declaration",
+        "Signers of the Continental Association"
+      ],
+      "desc": "Stubborn, brilliant, and impossible to ignore ? Adams argued America into independence and spent a lifetime defending what the founders built."
+    },
+    "John Dickinson": {
+      "groups": [
+        "Founding Fathers",
+        "1st Continental Congress",
+        "2nd Continenal Congress",
+        "Signers of Constitution",
+        "Signers of the Continental Association",
+        "Military",
+        "Constitutional Convention"
+      ],
+      "desc": "The \"Penman of the Revolution\" argued for reconciliation but served faithfully when independence came ? a man of conscience and compromise."
+    },
+    "John Glover": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Massachusetts fisherman whose Marblehead regiment ferried Washington's army across the Delaware ? making the Trenton surprise possible."
+    },
+    "John Hancock": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Signers of Declaration"
+      ],
+      "desc": "Boston's wealthiest merchant, president of the Continental Congress, and the man with the boldest signature on the Declaration of Independence."
+    },
+    "John Paul Jones": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Scottish-born naval hero whose daring sea victories gave the fledgling American navy its first legends and its fighting motto."
+    },
+    "Lydia Darragh": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Philadelphia Quaker who eavesdropped on British officers planning an attack, then risked her life to warn Washington in time."
+    },
+    "Major Beaumont": {
+      "groups": [
+        "British",
+        "Military"
+      ],
+      "desc": "Through Major Beaumont's eyes, experience the Revolution from the other side ? professional, principled, and far from home."
+    },
+    "Mercy Otis Warren": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Massachusetts playwright and historian whose sharp pen mocked British tyranny ? and whose history of the Revolution shaped American memory."
+    },
+    "Ona Judge": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "She risked everything for freedom and refused a comfortable return to captivity. Meet the woman who made the Washingtons face their own contradictions."
+    },
+    "Lt. Alexander Chesney": {
+      "groups": [
+        "British",
+        "Military"
+      ],
+      "desc": "He chose the King over independence and paid dearly for it. Meet a loyalist officer whose story reveals the revolution's other half."
+    },
+    "Patrick Henry": {
+      "groups": [
+        "1st Continental Congress",
+        "Signers of the Continental Association",
+        "Military"
+      ],
+      "desc": "Virginia's great orator ? \"Give me liberty or give me death!\" ? Henry's voice ignited a revolution and shaped the American conscience."
+    },
+    "Peter Muhlenberg": {
+      "groups": [
+        "Military",
+        "1st Continental Congress",
+        "Signers of the Continental Association"
+      ],
+      "desc": "Lutheran pastor who shed his clerical robes mid-sermon to reveal a Continental uniform ? then marched three hundred men to war."
+    },
+    "Robert Morris": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Signers of Declaration",
+        "Constitutional Convention",
+        "Signers of Constitution"
+      ],
+      "desc": "The Revolution's banker ? Morris used his personal fortune to keep Washington's army supplied when Congress could not or would not."
+    },
+    "Robert Shurtliff": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "He was a good soldier ? until the army discovered \"he\" was a woman named Deborah Sampson who had fooled everyone for two years."
+    },
+    "Roger Sherman": {
+      "groups": [
+        "Founding Fathers",
+        "1st Continental Congress",
+        "2nd Continenal Congress",
+        "Signers of Declaration",
+        "Signers of Constitution",
+        "Signers of the Continental Association",
+        "Constitutional Convention"
+      ],
+      "desc": "Connecticut cobbler turned statesman ? the only founder to sign all four of America's founding documents, from the Articles to the Constitution."
+    },
+    "Ruth Harrington": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Her husband fell at Lexington. Ruth Harrington's story puts a human face on the morning the Revolutionary War began."
+    },
+    "Samoset": {
+      "groups": [
+        ""
+      ],
+      "desc": "The Abenaki leader who walked into Plymouth Colony in 1621, greeted the Pilgrims in English, and made the first peace possible."
+    },
+    "Sybil Ludington": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Paul Revere's ride was famous. Sybil Ludington's was twice as long ? made by a sixteen-year-old girl on a rainy night."
+    },
+    "Thomas Jefferson": {
+      "groups": [
+        "Founding Fathers",
+        "2nd Continenal Congress",
+        "Signers of Declaration"
+      ],
+      "desc": "Architect of American ideals, Jefferson's words launched a nation. His contradictions ? slaveholder and freedom's champion ? still echo today."
+    },
+    "Nathanael Greene": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "He retreated brilliantly, conserved his army masterfully, and wore the British down until they had nothing left to fight with."
+    },
+    "John Savage": {
+      "groups": [
+        "British",
+        "Military"
+      ],
+      "desc": "Meet Sergeant Savage: a British soldier trying to keep his men honorable while carrying out a war that tests every principle he holds."
+    },
+    "Joseph Plumb Martin": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Connecticut private who left the most vivid memoir of the Revolution ? cold, hungry, and faithful, he saw the war from the bottom up."
+    },
+    "Colonel Desandrounis": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "French military engineer who helped design the siege works at Yorktown ? the technical genius whose fortifications made Cornwallis's surrender inevitable."
+    },
+    "Count Von Fersen": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "Swedish nobleman who served as aide to Rochambeau at Yorktown, fighting for American liberty on the other side of the world."
+    },
+    "Marquis de Laval": {
+      "groups": [
+        "Military"
+      ],
+      "desc": "French nobleman who served with Rochambeau's forces, bringing aristocratic courage and European military skill to Yorktown's final campaign."
+    },
+    "Penelope Barker": {
+      "groups": [
+        "Women of the Revolution"
+      ],
+      "desc": "Fifty-one women signed her proclamation. Barker's Edenton Tea Party proved colonial women had political opinions ? and the courage to act."
+    },
+    "Deborah Sampson": {
+      "groups": [
+        "Military",
+        "Women of the Revolution"
+      ],
+      "desc": "Massachusetts woman who disguised herself as Robert Shurtliff, fought as a Continental soldier, and kept her secret through wounds and battle."
+    },
+    "General O'Hara": {
+      "groups": [
+        "Military",
+        "British"
+      ],
+      "desc": "Meet the man who surrendered the British army at Yorktown ? with one last diplomatic flourish that Washington quietly and firmly rejected."
+    }
   }
 }
