@@ -148,9 +148,9 @@
         }
       ]
     },
-    "A drink with General Birch": {
-      "name": "A drink with General Birch",
-      "description": "Join General Birch at the tavern to discuss the day's happenings and politics",
+    "A drink with Colonel Birch": {
+      "name": "A drink with Colonel Birch",
+      "description": "Join Colonel Birch at the tavern to discuss the day's happenings and politics",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -159,7 +159,7 @@
       "people": [
         {
           "name": "Doug Bingham",
-          "character": "General Birch"
+          "character": "Colonel Birch"
         }
       ]
     },
@@ -621,8 +621,8 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
+          "name": "Alyssa Michaelis",
+          "character": "Sybil Ludington"
         }
       ],
       "times": [
@@ -645,36 +645,38 @@
           "name": "Kim Gardner"
         },
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
         },
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Steven Leon",
           "character": "Major Beaumont"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Judy Polinsky",
+          "character": "Ensign Prym"
         },
         {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
-        },
-        {
-          "name": "Judy Polinsky"
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
         }
       ],
       "times": [
         {
           "time": "2:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -696,7 +698,7 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
           "name": "Scott Forst",
@@ -707,20 +709,22 @@
           "character": "Major Beaumont"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
-          "name": "Radford Polinsky",
-          "character": "John Savage"
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
         },
         {
-          "name": "Judy Polinsky"
+          "name": "Judy Polinsky",
+          "character": "Ensign Prym"
         }
       ],
       "times": [
         {
           "time": "2:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -801,12 +805,12 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
         },
         {
-          "name": "Doug Bingham",
-          "character": "General Birch"
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
         }
       ],
       "times": [
@@ -840,15 +844,15 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         },
         {
           "time": "1:00 PM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         },
         {
           "time": "3:00 PM",
-          "location": "Broom Maker"
+          "location": "Broom Maker & Cooper"
         }
       ]
     },
@@ -938,7 +942,7 @@
       "audienceInvolved": true,
       "personCount": 2,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Friday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -1053,19 +1057,19 @@
       "times": [
         {
           "time": "10:00 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "12:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "2:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "4:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -1245,10 +1249,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Kathryn Taber-Garcia"
@@ -1303,11 +1308,11 @@
       "times": [
         {
           "time": "11:30 AM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "3:00 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         }
       ]
     },
@@ -1349,14 +1354,6 @@
           "name": "Kim Gardner"
         },
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        },
-        {
           "name": "Gregg Hardy",
           "character": "Benjamin Franklin"
         },
@@ -1365,12 +1362,20 @@
           "character": "John Adams"
         },
         {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
           "name": "Cap Caputo",
           "character": "John Hancock"
         },
         {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Ben Moulton",
@@ -1384,7 +1389,7 @@
       "times": [
         {
           "time": "10:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1436,7 +1441,7 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1467,7 +1472,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "5:00 PM",
@@ -1491,7 +1496,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "5:00 PM",
@@ -1499,7 +1504,7 @@
         },
         {
           "time": "5:00 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "5:00 PM",
@@ -1515,7 +1520,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "5:30 PM",
@@ -1535,7 +1540,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "5:30 PM",
@@ -1547,7 +1552,7 @@
         },
         {
           "time": "5:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "5:30 PM",
@@ -1595,7 +1600,7 @@
       "times": [
         {
           "time": "12:00 PM",
-          "location": "Roper Maker"
+          "location": "Gray's Ropewalk"
         }
       ]
     },
@@ -1824,7 +1829,7 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Rachel Joy Jackson"
+          "name": "Katherine Moulton"
         }
       ],
       "times": [
@@ -1853,21 +1858,21 @@
         },
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         }
       ],
       "times": [
         {
           "time": "3:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "4:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "4:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -1876,25 +1881,22 @@
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 4,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
+      "people": [
+        {
+          "name": "Marie Clyne"
+        }
+      ],
       "times": [
         {
-          "time": "10:30 AM",
-          "location": "Halifax Hall"
-        },
-        {
           "time": "11:00 AM",
-          "location": "Halifax Hall"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Halifax Hall"
+          "location": "Camp Followers"
         },
         {
           "time": "2:30 PM",
-          "location": "Halifax Hall"
+          "location": "Camp Followers"
         }
       ]
     },
@@ -2401,7 +2403,7 @@
       "times": [
         {
           "time": "11:30 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -2447,11 +2449,11 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "School House"
+          "location": "Schoolhouse"
         },
         {
           "time": "3:00 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -2462,7 +2464,7 @@
       "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 2,
-      "additionalText": "",
+      "additionalText": "Friday and Saturday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -2671,31 +2673,31 @@
       "times": [
         {
           "time": "9:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "9:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "10:00 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "11:30 AM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "12:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "1:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         },
         {
           "time": "3:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -2710,11 +2712,11 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         },
         {
           "time": "3:30 PM",
-          "location": "Halifax Hall"
+          "location": "Halifax Quarters"
         }
       ]
     },
@@ -2729,10 +2731,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Brooke LaBarr"
@@ -2748,7 +2751,7 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -2763,10 +2766,11 @@
       "people": [
         {
           "name": "Christina Forst",
-          "character": "Lady Dunmore"
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Brooke LaBarr"
@@ -2782,7 +2786,7 @@
       "times": [
         {
           "time": "1:00 PM",
-          "location": "Cup and Quill"
+          "location": "Cup & Quill"
         }
       ]
     },
@@ -2995,7 +2999,7 @@
     },
     "The Wartime Role of an Officer's Wife": {
       "name": "The Wartime Role of an Officer's Wife",
-      "description": "She didn't carry a musket, but she was indispensable. Explore the remarkable role officer's wives played in keeping the Continental Army together on campaign.",
+      "description": "She didn't carry a musket, but she was indispensable. Explore the remarkable role officer's wives played in keeping the British Army together on campaign.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3003,13 +3007,14 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Lindsay Weiler"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         }
       ],
       "times": [
         {
           "time": "1:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -3540,13 +3545,13 @@
         },
         {
           "time": "4:30 PM",
-          "location": "School House"
+          "location": "Schoolhouse"
         }
       ]
     },
     "Soap Making Demonstration": {
       "name": "Soap Making Demonstration",
-      "description": "Learn how to make soap",
+      "description": "Learn how to make soap.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3576,13 +3581,56 @@
         }
       ]
     },
-    "": {
-      "name": "",
-      "description": "",
+    "Making Butter": {
+      "name": "Making Butter",
+      "description": "Learn how to make butter. Friday & Saturday only",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Marie Clyne"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Camp Followers"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Camp Followers"
+        }
+      ]
+    },
+    "What's for Supper? The Hidden Work Behind a Frontier Meal": {
+      "name": "What's for Supper? The Hidden Work Behind a Frontier Meal",
+      "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": "",
+      "scheduleCount": 2,
+      "additionalText": "",
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Frontier Kitchen"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Frontier Kitchen"
+        }
+      ]
+    },
+    "": {
+      "name": "",
+      "description": "",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": "",
+      "scheduleCount": 192,
       "additionalText": ""
     }
   },
@@ -3590,145 +3638,127 @@
     "Tour Departure": {
       "name": "Tour Departure",
       "description": "Probably near the gift shop, just a place to begin tours",
-      "mapNumber": 1,
+      "mapNumber": 9,
       "coordinates": ""
     },
     "South Meetinghouse": {
       "name": "South Meetinghouse",
       "description": "Large meeting venue",
-      "mapNumber": 3,
+      "mapNumber": 65,
       "coordinates": ""
     },
     "Faneuil Hall": {
       "name": "Faneuil Hall",
       "description": "Conversation area in the American Camp",
-      "mapNumber": 24,
+      "mapNumber": 87,
       "coordinates": ""
     },
     "Forge of Sedition": {
       "name": "Forge of Sedition",
-      "description": "Printinghouse theatre",
-      "mapNumber": 31,
+      "description": "",
+      "mapNumber": 2,
       "coordinates": ""
     },
     "Carpenters' Hall": {
       "name": "Carpenters' Hall",
-      "description": "Conversation Area near Children's games",
-      "mapNumber": 59,
+      "description": "",
+      "mapNumber": 44,
       "coordinates": ""
     },
     "Liberty Tree": {
       "name": "Liberty Tree",
       "description": "Conversation area near the Gift Shop",
-      "mapNumber": 26,
+      "mapNumber": 60,
       "coordinates": ""
     },
-    "School House": {
-      "name": "School House",
+    "Schoolhouse": {
+      "name": "Schoolhouse",
       "description": "Conversations and classroom work",
-      "mapNumber": 51,
+      "mapNumber": 50,
       "coordinates": ""
     },
     "Continental Field": {
       "name": "Continental Field",
       "description": "Open area near American Camp",
-      "mapNumber": 25,
+      "mapNumber": 75,
       "coordinates": ""
     },
     "King's Field": {
       "name": "King's Field",
       "description": "Open Area near Bristh Camp",
-      "mapNumber": 78,
+      "mapNumber": 37,
       "coordinates": ""
     },
-    "Halifax Hall": {
-      "name": "Halifax Hall",
+    "Halifax Quarters": {
+      "name": "Halifax Quarters",
       "description": "Pavilion in British Camp",
-      "mapNumber": 71,
+      "mapNumber": 31,
       "coordinates": ""
     },
-    "Continental Quarters": {
-      "name": "Continental Quarters",
-      "description": "Pavilion in Continental Camp",
-      "mapNumber": 19,
-      "coordinates": ""
-    },
-    "Cup and Quill": {
-      "name": "Cup and Quill",
+    "Cup & Quill": {
+      "name": "Cup & Quill",
       "description": "Meeting area for intimate gatherings at tables",
-      "mapNumber": 21,
+      "mapNumber": 84,
       "coordinates": ""
     },
     "The Grove": {
       "name": "The Grove",
       "description": "Dance and Swordplay near Mayflower",
-      "mapNumber": 27,
-      "coordinates": ""
-    },
-    "Unknown": {
-      "name": "Unknown",
-      "description": "An unknown location, to be determined ",
-      "mapNumber": 14,
+      "mapNumber": 61,
       "coordinates": ""
     },
     "British Laundry": {
       "name": "British Laundry",
-      "description": "",
-      "mapNumber": 76,
+      "description": "Mistres Morgan's laundry",
+      "mapNumber": 36,
       "coordinates": ""
     },
-    "Broom Maker's Shop": {
-      "name": "Broom Maker's Shop",
+    "Broom Maker & Cooper": {
+      "name": "Broom Maker & Cooper",
       "description": "Attached to the village cooper",
-      "mapNumber": 53,
+      "mapNumber": 52,
       "coordinates": ""
     },
-    "Gray's Rope Walk": {
-      "name": "Gray's Rope Walk",
+    "Gray's Ropewalk": {
+      "name": "Gray's Ropewalk",
       "description": "Where durable, manilla rope is made while you wait",
-      "mapNumber": 83,
+      "mapNumber": 59,
       "coordinates": ""
     },
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
       "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
-      "mapNumber": 5,
+      "mapNumber": 67,
       "coordinates": ""
     },
     "Naval Recruitment": {
       "name": "Naval Recruitment",
       "description": "Visit John Paul Jones",
-      "mapNumber": 4,
-      "coordinates": ""
-    },
-    "Broom Maker": {
-      "name": "Broom Maker",
-      "description": "",
-      "mapNumber": 53,
-      "coordinates": ""
-    },
-    "Roper Maker": {
-      "name": "Roper Maker",
-      "description": "",
-      "mapNumber": 83,
-      "coordinates": ""
-    },
-    "Apple Cider Press": {
-      "name": "Apple Cider Press",
-      "description": "",
-      "mapNumber": 29,
+      "mapNumber": 66,
       "coordinates": ""
     },
     "Colonial Soap Works": {
       "name": "Colonial Soap Works",
       "description": "",
-      "mapNumber": 40,
+      "mapNumber": 11,
       "coordinates": ""
     },
     "Boston Quarters": {
       "name": "Boston Quarters",
       "description": "",
-      "mapNumber": 36,
+      "mapNumber": 6,
+      "coordinates": ""
+    },
+    "Frontier Kitchen": {
+      "name": "Frontier Kitchen",
+      "description": "",
+      "mapNumber": 27,
+      "coordinates": ""
+    },
+    "Camp Followers": {
+      "name": "Camp Followers",
+      "description": "",
+      "mapNumber": 82,
       "coordinates": ""
     }
   },
@@ -3749,10 +3779,6 @@
     "Billy Lee": [
       "Military"
     ],
-    "Lady Dunmore": [
-      "British",
-      "Women of the Revolution"
-    ],
     "Christopher Gadsden": [
       "Founding Fathers",
       "1st Continental Congress",
@@ -3772,7 +3798,7 @@
       "2nd Continenal Congress",
       "Signers of Declaration"
     ],
-    "General Birch": [
+    "Colonel Birch": [
       "British",
       "Military"
     ],
@@ -3919,6 +3945,24 @@
     "General O'Hara": [
       "Military",
       "British"
+    ],
+    "Lady Margaret Beaumont": [
+      "Women of the Revolution",
+      "British"
+    ],
+    "Lady Charlotte Stewart Murray, Countess of Dunmore": [
+      "Women of the Revolution",
+      "British"
+    ],
+    "Ensign Prym": [
+      "Military",
+      "British"
+    ],
+    "Marie Clyne": [
+      ""
+    ],
+    "Amanda Davis": [
+      ""
     ]
   },
   "character": {
@@ -3949,13 +3993,6 @@
         "Military"
       ],
       "desc": "George Washington's enslaved personal attendant, Billy Lee rode beside him in battle and served through eight years of war."
-    },
-    "Lady Dunmore": {
-      "groups": [
-        "British",
-        "Women of the Revolution"
-      ],
-      "desc": "When revolution tore Virginia apart, Lady Dunmore managed a household, a legacy, and a loyalty that cost her everything."
     },
     "Christopher Gadsden": {
       "groups": [
@@ -3991,7 +4028,7 @@
       ],
       "desc": "New Jersey's most versatile founder &emdash; artist, lawyer, musician, and poet whose genius touched every corner of the new nation."
     },
-    "General Birch": {
+    "Colonel Birch": {
       "groups": [
         "British",
         "Military"
@@ -4243,6 +4280,39 @@
         "British"
       ],
       "desc": "Meet the man who surrendered the British army at Yorktown &emdash; with one last diplomatic flourish that Washington quietly and firmly rejected."
+    },
+    "Lady Margaret Beaumont": {
+      "groups": [
+        "Women of the Revolution",
+        "British"
+      ],
+      "desc": ""
+    },
+    "Lady Charlotte Stewart Murray, Countess of Dunmore": {
+      "groups": [
+        "Women of the Revolution",
+        "British"
+      ],
+      "desc": ""
+    },
+    "Ensign Prym": {
+      "groups": [
+        "Military",
+        "British"
+      ],
+      "desc": ""
+    },
+    "Marie Clyne": {
+      "groups": [
+        ""
+      ],
+      "desc": "Camp follower, butter maker, lucet instructor"
+    },
+    "Amanda Davis": {
+      "groups": [
+        ""
+      ],
+      "desc": "Frontier Kitchen"
     }
   }
 }
