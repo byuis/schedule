@@ -3387,7 +3387,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "location": "",
       "people": [
         {
@@ -3397,10 +3397,6 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "12:00 PM",
           "location": "Liberty Tree"
         }
       ]
