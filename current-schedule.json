@@ -645,12 +645,12 @@
           "name": "Kim Gardner"
         },
         {
-          "name": "Christina Forst",
-          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
-        },
-        {
           "name": "Scott Forst",
           "character": "Governor Dunmore"
+        },
+        {
+          "name": "Christina Forst",
+          "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
           "name": "Doug Bingham",
@@ -805,12 +805,12 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        },
-        {
           "name": "Doug Bingham",
           "character": "Colonel Birch"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
         }
       ],
       "times": [
@@ -3598,79 +3598,73 @@
     "Tour Departure": {
       "name": "Tour Departure",
       "description": "Probably near the gift shop, just a place to begin tours",
-      "mapNumber": 1,
+      "mapNumber": 9,
       "coordinates": ""
     },
     "South Meetinghouse": {
       "name": "South Meetinghouse",
       "description": "Large meeting venue",
-      "mapNumber": 3,
+      "mapNumber": 65,
       "coordinates": ""
     },
     "Faneuil Hall": {
       "name": "Faneuil Hall",
       "description": "Conversation area in the American Camp",
-      "mapNumber": 24,
+      "mapNumber": 87,
       "coordinates": ""
     },
     "Forge of Sedition": {
       "name": "Forge of Sedition",
-      "description": "Printinghouse theatre",
-      "mapNumber": 31,
+      "description": "",
+      "mapNumber": 2,
       "coordinates": ""
     },
     "Carpenters' Hall": {
       "name": "Carpenters' Hall",
-      "description": "Conversation Area near Children's games",
-      "mapNumber": 59,
+      "description": "",
+      "mapNumber": 44,
       "coordinates": ""
     },
     "Liberty Tree": {
       "name": "Liberty Tree",
       "description": "Conversation area near the Gift Shop",
-      "mapNumber": 26,
+      "mapNumber": 60,
       "coordinates": ""
     },
     "School House": {
       "name": "School House",
       "description": "Conversations and classroom work",
-      "mapNumber": 51,
+      "mapNumber": 50,
       "coordinates": ""
     },
     "Continental Field": {
       "name": "Continental Field",
       "description": "Open area near American Camp",
-      "mapNumber": 25,
+      "mapNumber": 75,
       "coordinates": ""
     },
     "King's Field": {
       "name": "King's Field",
       "description": "Open Area near Bristh Camp",
-      "mapNumber": 78,
+      "mapNumber": 37,
       "coordinates": ""
     },
-    "Halifax Hall": {
-      "name": "Halifax Hall",
+    "Halifax Quarters": {
+      "name": "Halifax Quarters",
       "description": "Pavilion in British Camp",
-      "mapNumber": 71,
+      "mapNumber": 31,
       "coordinates": ""
     },
-    "Continental Quarters": {
-      "name": "Continental Quarters",
-      "description": "Pavilion in Continental Camp",
-      "mapNumber": 19,
-      "coordinates": ""
-    },
-    "Cup and Quill": {
-      "name": "Cup and Quill",
+    "Cup & Quill": {
+      "name": "Cup & Quill",
       "description": "Meeting area for intimate gatherings at tables",
-      "mapNumber": 21,
+      "mapNumber": 84,
       "coordinates": ""
     },
     "The Grove": {
       "name": "The Grove",
       "description": "Dance and Swordplay near Mayflower",
-      "mapNumber": 27,
+      "mapNumber": 61,
       "coordinates": ""
     },
     "Unknown": {
@@ -3681,62 +3675,56 @@
     },
     "British Laundry": {
       "name": "British Laundry",
-      "description": "",
-      "mapNumber": 76,
+      "description": "Mistres Morgan's laundry",
+      "mapNumber": 36,
       "coordinates": ""
     },
-    "Broom Maker's Shop": {
-      "name": "Broom Maker's Shop",
+    "Broom Maker & Cooper": {
+      "name": "Broom Maker & Cooper",
       "description": "Attached to the village cooper",
-      "mapNumber": 53,
+      "mapNumber": 52,
       "coordinates": ""
     },
     "Gray's Rope Walk": {
       "name": "Gray's Rope Walk",
       "description": "Where durable, manilla rope is made while you wait",
-      "mapNumber": 83,
+      "mapNumber": 59,
       "coordinates": ""
     },
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
       "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
-      "mapNumber": 5,
+      "mapNumber": 67,
       "coordinates": ""
     },
     "Naval Recruitment": {
       "name": "Naval Recruitment",
       "description": "Visit John Paul Jones",
-      "mapNumber": 4,
-      "coordinates": ""
-    },
-    "Broom Maker": {
-      "name": "Broom Maker",
-      "description": "",
-      "mapNumber": 53,
-      "coordinates": ""
-    },
-    "Roper Maker": {
-      "name": "Roper Maker",
-      "description": "",
-      "mapNumber": 83,
-      "coordinates": ""
-    },
-    "Apple Cider Press": {
-      "name": "Apple Cider Press",
-      "description": "",
-      "mapNumber": 29,
+      "mapNumber": 66,
       "coordinates": ""
     },
     "Colonial Soap Works": {
       "name": "Colonial Soap Works",
       "description": "",
-      "mapNumber": 40,
+      "mapNumber": 11,
       "coordinates": ""
     },
     "Boston Quarters": {
       "name": "Boston Quarters",
       "description": "",
-      "mapNumber": 36,
+      "mapNumber": 6,
+      "coordinates": ""
+    },
+    "Frontier Kitchen": {
+      "name": "Frontier Kitchen",
+      "description": "",
+      "mapNumber": 27,
+      "coordinates": ""
+    },
+    "Camp Folloers": {
+      "name": "Camp Folloers",
+      "description": "",
+      "mapNumber": 82,
       "coordinates": ""
     }
   },
