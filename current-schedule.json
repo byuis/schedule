@@ -1895,7 +1895,7 @@
           "location": "Camp Followers"
         },
         {
-          "time": "2:00 PM",
+          "time": "2:30 PM",
           "location": "Camp Followers"
         }
       ]
@@ -3583,7 +3583,7 @@
     },
     "Buttermaking": {
       "name": "Buttermaking",
-      "description": "Learn how to make butter.",
+      "description": "Learn how to make butter. On Fri & Sat only. ",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
