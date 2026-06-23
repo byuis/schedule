@@ -453,7 +453,7 @@ async function start_me_up(){
         }
         
         console.log("ecent=================",eventCharacters)
-        if(event.characters.length>1)
+        if(eventCharacters.length>1){
             let characterDiv=null
             for(const character of eventCharacters){
 
