@@ -44,563 +44,13 @@
         }
       ]
     },
-    "A drink with Benjamin Franklin": {
-      "name": "A drink with Benjamin Franklin",
-      "description": "Join Benjamin Franklin at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Billy Lee": {
-      "name": "A drink with Billy Lee",
-      "description": "Join Billy Lee at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Christopher Gadsden": {
-      "name": "A drink with Christopher Gadsden",
-      "description": "Join Christopher Gadsden at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Francis Hopkinson": {
-      "name": "A drink with Francis Hopkinson",
-      "description": "Join Francis Hopkinson at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Devaughn Simper",
-          "character": "Francis Hopkinson"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "11:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Colonel Birch": {
-      "name": "A drink with Colonel Birch",
-      "description": "Join Colonel Birch at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Doug Bingham",
-          "character": "Colonel Birch"
-        }
-      ]
-    },
-    "A drink with George Mason": {
-      "name": "A drink with George Mason",
-      "description": "Join George Mason at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Hyam Soloman": {
-      "name": "A drink with Hyam Soloman",
-      "description": "Join Hyam Soloman at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Kent Vance",
-          "character": "Hyam Soloman"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with James Madison": {
-      "name": "A drink with James Madison",
-      "description": "Join James Madison at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with John Adams": {
-      "name": "A drink with John Adams",
-      "description": "Join John Adams at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with John Dickinson": {
-      "name": "A drink with John Dickinson",
-      "description": "Join John Dickinson at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with John Glover": {
-      "name": "A drink with John Glover",
-      "description": "Join John Glover at the tavern to the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Luke Rader",
-          "character": "John Glover"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with John Hancock": {
-      "name": "A drink with John Hancock",
-      "description": "Join John Hancock at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with John Paul Jones": {
-      "name": "A drink with John Paul Jones",
-      "description": "Join John Paul Jones at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Tom Wellborn",
-          "character": "John Paul Jones"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Major Beaumont": {
-      "name": "A drink with Major Beaumont",
-      "description": "Join Major Beaumont at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        }
-      ]
-    },
-    "A drink with Nathanael Greene": {
-      "name": "A drink with Nathanael Greene",
-      "description": "Join Nathanael Greene at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Cameron Graham",
-          "character": "Nathanael Greene"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Lt. Alexander Chesney": {
-      "name": "A drink with Lt. Alexander Chesney",
-      "description": "Join Lt. Alexander Chesney at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "C. David Belt",
-          "character": "Lt. Alexander Chesney"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Patrick Henry": {
-      "name": "A drink with Patrick Henry",
-      "description": "Join Patrick Henry at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        }
-      ],
-      "times": [
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Peter Muhlenberg": {
-      "name": "A drink with Peter Muhlenberg",
-      "description": "Join Peter Muhlenberg at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Robert Morris": {
-      "name": "A drink with Robert Morris",
-      "description": "Join Robert Morris at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Robert Shurtliff": {
-      "name": "A drink with Robert Shurtliff",
-      "description": "Join Robert Shurtliff at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Kimberly Ward",
-          "character": "Robert Shurtliff"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Roger Sherman": {
-      "name": "A drink with Roger Sherman",
-      "description": "Join Roger Sherman at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "A drink with Thomas Jefferson": {
-      "name": "A drink with Thomas Jefferson",
-      "description": "Join Thomas Jefferson at the tavern to discuss the day's happenings and politics",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
     "A History in Four Documents": {
       "name": "A History in Four Documents",
       "description": "Four documents. One nation. Join Founding Father Roger Sherman as he traces the remarkable story of American liberty through history's most transformative texts.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -617,7 +67,7 @@
     },
     "American Closing Ceremony": {
       "name": "American Closing Ceremony",
-      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.  Includes Cannon fire.",
+      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.  Includes cannon fire.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -641,7 +91,7 @@
       "description": "Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 8,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
@@ -737,7 +187,7 @@
       "description": "The Crown's youngest soldiers are ready for inspection &mdash; cheer on the British Children's Militia as they drill with pride and precision.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 8,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -780,7 +230,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -804,8 +254,8 @@
       "description": "Watch British military demonstrate offensive and defensive techniques.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -837,7 +287,7 @@
       "description": "It's older than the Revolution and harder than it looks. Watch a skilled artisan craft a broom using the same techniques colonial Americans relied on daily.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -865,8 +315,8 @@
       "description": "Beginners use pencil to learn the basic strokes that form 18th century script.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -885,7 +335,7 @@
     },
     "Calligraphy II": {
       "name": "Calligraphy II",
-      "description": "Quill and ink instruction appropriate for adults and mature youth ($5 fee)",
+      "description": "Quill and ink instruction appropriate for adults and mature youth ($5 fee).",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
@@ -912,7 +362,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -945,7 +395,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 1,
+      "scheduleCount": 3,
       "additionalText": "Friday Only",
       "people": [
         {
@@ -968,7 +418,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -994,7 +444,7 @@
       "description": "Behind the battles was a shadow economy. Uncover the covert trade networks and financial schemes that kept the American Revolution alive.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -1019,7 +469,7 @@
       "description": "Enjoy some of the lesser-known songs of the American colonial era.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -1048,7 +498,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 4,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1082,8 +532,8 @@
       "description": "Feel the ground shake as Continental artillery roars to life &mdash; a thunderous demonstration of the firepower that turned the tide of revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 3,
+      "personCount": 2,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -1110,7 +560,7 @@
       "description": "Watch Continental soldiers and militia unite to drill and fire muskets in a thrilling demonstration of the military force that won American independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -1141,8 +591,8 @@
       "description": "Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 9,
-      "scheduleCount": 1,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -1247,7 +697,7 @@
       "description": "From stays to silk &mdash; join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
+      "personCount": 9,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1275,7 +725,7 @@
       "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1299,7 +749,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1325,7 +775,7 @@
       "description": "The ink was barely dry before it changed the world. Discover the fascinating story behind the early printings of the Declaration of Independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -1350,8 +800,8 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 9,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
@@ -1454,8 +904,8 @@
       "description": "This venue is vacant becuase of an nearby activity that competes",
       "hide": true,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 32,
+      "personCount": 9,
+      "scheduleCount": 1,
       "additionalText": "",
       "times": [
         {
@@ -1591,10 +1041,10 @@
     "Fan Painting Class": {
       "name": "Fan Painting Class",
       "description": "Fans weren't just for cooling off &mdash; they were colonial art. Join this charming class and paint your own piece of 18th-century elegance to take home.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
+      "personCount": "",
+      "scheduleCount": 32,
       "additionalText": "",
       "people": [
         {
@@ -1615,7 +1065,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Starts at 1:15pm",
       "people": [
         {
           "name": "Dan Maker"
@@ -1623,7 +1073,7 @@
       ],
       "times": [
         {
-          "time": "12:00 PM",
+          "time": "1:00 PM",
           "location": "Gray's Ropewalk"
         }
       ]
@@ -1633,7 +1083,7 @@
       "description": "6,000 French soldiers. One crucial alliance. Learn how Rochambeau's corps helped deliver the decisive blow at Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 4,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1666,8 +1116,8 @@
       "description": "It began with a stamp and ended with a revolution. Follow the remarkable chain of events that transformed loyal British subjects into American patriots.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 4,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1692,7 +1142,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1713,7 +1163,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1731,12 +1181,32 @@
         }
       ]
     },
+    "Hammered Dulcimer Class": {
+      "name": "Hammered Dulcimer Class",
+      "description": "Try your hand at the hammered dulcimer ? the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Leanne Larson"
+        }
+      ],
+      "times": [
+        {
+          "time": "7:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
     "Hog Thief Trial": {
       "name": "Hog Thief Trial",
       "description": "Someone stole the hog &mdash; but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 3,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1762,8 +1232,8 @@
       "description": "Before the Revolution came an idea. Discover the philosophy of Natural Law &mdash; the intellectual spark that convinced the founders they had every right to rebel.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1784,9 +1254,9 @@
     },
     "Learn about Henry Knox": {
       "name": "Learn about Henry Knox",
-      "description": "From Boston bookshop to battlefield hero &mdash; discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
+      "description": "From Boston bookshop to battlefield hero &mdash; discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
@@ -1810,9 +1280,9 @@
       "name": "Liberty or Death: You Decide Virginia's Fate",
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 6,
-      "scheduleCount": 1,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1852,8 +1322,8 @@
       "description": "Clean clothes in colonial America came at a price &mdash; hours of back-breaking labor. Watch a live demonstration of the skills that kept the Revolution looking sharp.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 6,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1876,8 +1346,8 @@
       "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1909,8 +1379,8 @@
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -1933,8 +1403,8 @@
       "description": "He wrote the Constitution. Patrick Henry hated it. Watch James Madison defend his masterpiece against Virginia's most passionate and fiery orator.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1953,13 +1423,37 @@
         }
       ]
     },
+    "Making Butter": {
+      "name": "Making Butter",
+      "description": "Learn how to make butter.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Marie Clyne"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Camp Followers"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Camp Followers"
+        }
+      ]
+    },
     "Meet Benjamin Franklin": {
       "name": "Meet Benjamin Franklin",
       "description": "He flew a kite in a thunderstorm and negotiated with kings. Meet Benjamin Franklin &mdash; America's most irresistible genius and the Revolution's secret weapon.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2001,7 +1495,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2026,7 +1520,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2043,7 +1537,7 @@
     },
     "Meet Elizabeth Powell": {
       "name": "Meet Elizabeth Powell",
-      "description": "She dined with Washington, debated with Franklin, and influenced the founders more than history remembers. Meet Philadelphia's most brilliant and powerful woman, Elizabeth Powel.",
+      "description": "She dined with Washington, debated with Franklin, and influenced the founders more than history remembers. Meet Philadelphia's most brilliant and powerful woman, Elizabeth Powell.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2089,7 +1583,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2114,7 +1608,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2177,12 +1671,12 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
           "name": "Kent Vance",
-          "character": "Hyam Soloman"
+          "character": "Haym Soloman"
         }
       ],
       "times": [
@@ -2202,7 +1696,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2261,11 +1755,11 @@
     },
     "Meet John Hancock": {
       "name": "Meet John Hancock",
-      "description": "A conversation with the man who lead the Continental Congress to independence.",
+      "description": "A conversation with the man who led the Continental Congress to independence.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2284,13 +1778,38 @@
         }
       ]
     },
+    "Meet Lt. Alexander Chesney": {
+      "name": "Meet Lt. Alexander Chesney",
+      "description": "Join Lt. Chesney of South Carolina to hear his adventures with the Militia. Will you enlist to serve under the war's top marksman?",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Lt. Alexander Chesney"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
     "Meet Lydia Darragh": {
       "name": "Meet Lydia Darragh",
       "description": "She was a quiet Quaker mother who became one of Washington's most valuable spies. Discover the remarkable true story of patriot hero Lydia Darragh.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2332,7 +1851,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2343,36 +1862,11 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Carpenters' Hall"
+          "location": "Schoolhouse"
         },
         {
           "time": "3:30 PM",
           "location": "Carpenters' Hall"
-        }
-      ]
-    },
-    "Meet Lt. Alexander Chesney": {
-      "name": "Meet Lt. Alexander Chesney",
-      "description": "Join Lt. Chesney of South Carolina to hear his adventures with the Militia. Will you enlist to serve under the war's top marksman?",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
-      "people": [
-        {
-          "name": "C. David Belt",
-          "character": "Lt. Alexander Chesney"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Liberty Tree"
         }
       ]
     },
@@ -2382,7 +1876,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2441,12 +1935,12 @@
     },
     "Meet Ruth Harrington": {
       "name": "Meet Ruth Harrington",
-      "description": "She watched the Revolution begin at her own doorstep. Meet Ruth Harrington, who paid a devastating price on April 19, 1775",
+      "description": "She watched the Revolution begin at her own doorstep. Meet Ruth Harrington, who paid a devastating price on April 19, 1775.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
+      "scheduleCount": 1,
+      "additionalText": "Friday and Saturday Only",
       "people": [
         {
           "name": "Dalane England",
@@ -2481,7 +1975,7 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Schoolhouse"
+          "location": "Carpenters' Hall"
         },
         {
           "time": "3:00 PM",
@@ -2494,9 +1988,9 @@
       "description": "Discover how the founders danced &mdash; a captivating demonstration of the minuet, the fashionable step that graced every colonial ballroom.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 2,
-      "additionalText": "Friday and Saturday Only",
+      "additionalText": "",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -2520,9 +2014,9 @@
       "name": "Morning Toilette",
       "description": "Getting dressed in the 18th century was no simple task. Experience the fascinating morning routines that defined style, status, and society in colonial America.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
+      "audienceInvolved": true,
+      "personCount": 2,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2536,13 +2030,42 @@
         }
       ]
     },
+    "Naval Recruitment": {
+      "name": "Naval Recruitment",
+      "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Tom Wellborn",
+          "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:00 AM",
+          "location": "Naval Recruitment"
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Naval Recruitment"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Naval Recruitment"
+        }
+      ]
+    },
     "Never Caught": {
       "name": "Never Caught",
       "description": "Hear the adventures of Ona Judge, escaped from servitude at Mt. Vernon.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -2565,9 +2088,9 @@
       "name": "Piracy Trial",
       "description": "In this Admiralty Court, will we hang another pirate or convict a smuggler?",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2582,12 +2105,61 @@
         }
       ]
     },
+    "Printing the Dunlap Broadside": {
+      "name": "Printing the Dunlap Broadside",
+      "description": "The Declaration is signed. Now someone must print it. Join John Dunlap as he works through the night to tell the world.  Print your own copy of the this historic document on this historic night, 250 years after the original.",
+      "hide": true,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "Robert Livingston"
+        },
+        {
+          "name": "Isaac Johnson",
+          "character": "John Dunlap"
+        },
+        {
+          "name": "Daniel Pugmire",
+          "character": "Charles Thomson"
+        }
+      ],
+      "times": [
+        {
+          "time": "8:00 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
     "Redress or Revolution: You Decide the Fate of the Colonies": {
       "name": "Redress or Revolution: You Decide the Fate of the Colonies",
       "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 13,
+      "audienceInvolved": false,
+      "personCount": 8,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2652,10 +2224,10 @@
       "name": "Reveille with the King's Forces",
       "description": "The King's forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
+      "audienceInvolved": true,
+      "personCount": 13,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -2672,9 +2244,9 @@
     "Revolution from the \"Billy\" point of view": {
       "name": "Revolution from the \"Billy\" point of view",
       "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2697,10 +2269,10 @@
     "Setup / Takedown": {
       "name": "Setup / Takedown",
       "description": "Time reserved for setting up or cleaning up",
-      "hide": true,
+      "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 7,
+      "personCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "times": [
         {
@@ -2736,10 +2308,10 @@
     "Shut-the-Box": {
       "name": "Shut-the-Box",
       "description": "Enter a tournament playing a popular game of chance and skill for a prize.",
-      "hide": false,
-      "audienceInvolved": false,
+      "hide": true,
+      "audienceInvolved": true,
       "personCount": "",
-      "scheduleCount": 2,
+      "scheduleCount": 7,
       "additionalText": "",
       "times": [
         {
@@ -2757,9 +2329,9 @@
       "description": "Sip chocolate with Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 5,
-      "scheduleCount": 1,
-      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
+      "personCount": "",
+      "scheduleCount": 2,
+      "additionalText": "",
       "people": [
         {
           "name": "Christina Forst",
@@ -2790,8 +2362,8 @@
     "Sipping Chocolate and Spilling Tea continued": {
       "name": "Sipping Chocolate and Spilling Tea continued",
       "description": "Sipping Chocolate will last 45 minutes",
-      "hide": true,
-      "audienceInvolved": false,
+      "hide": false,
+      "audienceInvolved": true,
       "personCount": 5,
       "scheduleCount": 1,
       "additionalText": "",
@@ -2822,13 +2394,45 @@
         }
       ]
     },
+    "Soap Making Demonstration": {
+      "name": "Soap Making Demonstration",
+      "description": "Learn how to make soap.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 5,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Jane Hall"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Colonial Soap Works"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Colonial Soap Works"
+        }
+      ]
+    },
     "Spilling Tea and Making History": {
       "name": "Spilling Tea and Making History",
       "description": "Hear Penelope Barker, organizer of the Edenton Tea Party, discuss the politics of 1774. Will you join the boycott of British goods?",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -2851,9 +2455,9 @@
       "name": "Tea Tax Debate",
       "description": "The tea sits in the harbor &mdash; will you pay the tax or dump it? Jump into this heated colonial debate and shape the outcome!",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 3,
-      "scheduleCount": 1,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2877,8 +2481,8 @@
       "name": "The Continental Association: What was the Cost of Unity?",
       "description": "They disagreed on nearly everything &mdash; yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
+      "audienceInvolved": false,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2922,7 +2526,7 @@
       "name": "The Convention and the 3/5 clause",
       "description": "Debate alongside the founders as they forge a fragile union, balancing impossible choices in hopes of securing liberty for generations to come.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 7,
       "scheduleCount": 1,
       "additionalText": "",
@@ -2968,8 +2572,8 @@
       "description": "In 1776, the Revolution nearly died. Meet John Glover &mdash; the Marblehead mariner whose men pulled Washington back from the brink of total defeat.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 7,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2988,13 +2592,37 @@
         }
       ]
     },
+    "The Grievances of the Declaration": {
+      "name": "The Grievances of the Declaration",
+      "description": "The writers intended the list of grievances to be central to the Declaration. Explore how they relate to ?life, liberty, and the pursuit of Happiness?.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Julie Siebach"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Schoolhouse"
+        }
+      ]
+    },
     "The Language of the Fan": {
       "name": "The Language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -3050,9 +2678,30 @@
         }
       ]
     },
+    "Three Boxes of Freedom": {
+      "name": "Three Boxes of Freedom",
+      "description": "Three boxes stood between colonists and tyranny ? the election box, the jury box, and the cartridge box. Learn why all three still matter.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Liberty Tree"
+        }
+      ]
+    },
     "Tour with Billy Flora": {
       "name": "Tour with Billy Flora",
-      "description": "Join Tour with Billy Flora on a village tour and observe the day's business",
+      "description": "Join Billy Flora on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3073,7 +2722,7 @@
     },
     "Tour with Billy Lee": {
       "name": "Tour with Billy Lee",
-      "description": "Join Tour with Billy Lee on a village tour and observe the day's business",
+      "description": "Join Billy Lee on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3094,11 +2743,11 @@
     },
     "Tour with George Washington": {
       "name": "Tour with George Washington",
-      "description": "Join Tour with George Washington on a village tour and observe the day's business",
+      "description": "Join George Washington on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3109,9 +2758,9 @@
     },
     "Tour with Isaiah Thomas ": {
       "name": "Tour with Isaiah Thomas ",
-      "description": "Join Tour with Isaiah Thomas  on a village tour and observe the day's business",
+      "description": "Join Isaiah Thomas  on a village tour and observe the day's business.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": "",
       "additionalText": "",
@@ -3124,11 +2773,11 @@
     },
     "Tour with James Madison": {
       "name": "Tour with James Madison",
-      "description": "Join Tour with James Madison on a village tour and observe the day's business",
+      "description": "Join James Madison on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -3145,7 +2794,7 @@
     },
     "Tour with John Adams": {
       "name": "Tour with John Adams",
-      "description": "Join Tour with John Adams on a village tour and observe the day's business",
+      "description": "Join John Adams on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3166,7 +2815,7 @@
     },
     "Tour with John Dickinson": {
       "name": "Tour with John Dickinson",
-      "description": "Join Tour with John Dickinson on a village tour and observe the day's business",
+      "description": "Join John Dickinson on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3187,7 +2836,7 @@
     },
     "Tour with John Hancock": {
       "name": "Tour with John Hancock",
-      "description": "Join Tour with John Hancock on a village tour and observe the day's business",
+      "description": "Join John Hancock on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3208,7 +2857,7 @@
     },
     "Tour with John Paul Jones": {
       "name": "Tour with John Paul Jones",
-      "description": "Join Tour with John Paul Jones on a village tour and observe the day's business",
+      "description": "Join John Paul Jones on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3229,7 +2878,7 @@
     },
     "Tour with Major Beaumont": {
       "name": "Tour with Major Beaumont",
-      "description": "Join Tour with Major Beaumont on a village tour and observe the day's business",
+      "description": "Join Major Beaumont on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3250,11 +2899,11 @@
     },
     "Tour with Mercy Otis Warren": {
       "name": "Tour with Mercy Otis Warren",
-      "description": "See the festival through the eyes of America's most fearless female patriot &mdash; writer, satirist, and revolutionary Mercy Otis Warren.",
+      "description": "Join Mercy Otis Warren on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3265,11 +2914,11 @@
     },
     "Tour with Patrick Henry": {
       "name": "Tour with Patrick Henry",
-      "description": "Join Tour with Patrick Henry on a village tour and observe the day's business",
+      "description": "Join Patrick Henry on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -3286,7 +2935,7 @@
     },
     "Tour with Penelope Barker": {
       "name": "Tour with Penelope Barker",
-      "description": "Join Tour with Penelope Barker on a village tour and observe the day's business",
+      "description": "Join Penelope Barker on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3307,9 +2956,9 @@
     },
     "Tour with Robert Morris": {
       "name": "Tour with Robert Morris",
-      "description": "Join Tour with Robert Morris on a village tour and observe the day's business",
+      "description": "Join Robert Morris on a village tour and observe the day's business.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
@@ -3328,7 +2977,7 @@
     },
     "Tour with Roger Sherman": {
       "name": "Tour with Roger Sherman",
-      "description": "Join Tour with Roger Sherman on a village tour and observe the day's business",
+      "description": "Join Roger Sherman on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3349,7 +2998,7 @@
     },
     "Tour with Sybil Ludington": {
       "name": "Tour with Sybil Ludington",
-      "description": "Join Tour with Sybil Ludington on a village tour and observe the day's business",
+      "description": "Join Sybil Ludington on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3370,7 +3019,7 @@
     },
     "Tour with Thomas Jefferson": {
       "name": "Tour with Thomas Jefferson",
-      "description": "Join Tour with Thomas Jefferson on a village tour and observe the day's business",
+      "description": "Join Thomas Jefferson on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3395,7 +3044,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3418,13 +3067,559 @@
         }
       ]
     },
+    "Visit with Benjamin Franklin at the tavern": {
+      "name": "Visit with Benjamin Franklin at the tavern",
+      "description": "Join Benjamin Franklin at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Billy Lee at the tavern": {
+      "name": "Visit with Billy Lee at the tavern",
+      "description": "Join Billy Lee at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Christopher Gadsden at the tavern": {
+      "name": "Visit with Christopher Gadsden at the tavern",
+      "description": "Join Christopher Gadsden at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Colonel Birch at the tavern": {
+      "name": "Visit with Colonel Birch at the tavern",
+      "description": "Join Colonel Birch at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
+        }
+      ]
+    },
+    "Visit with Francis Hopkinson at the tavern": {
+      "name": "Visit with Francis Hopkinson at the tavern",
+      "description": "Join Francis Hopkinson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Devaughn Simper",
+          "character": "Francis Hopkinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with George Mason at the tavern": {
+      "name": "Visit with George Mason at the tavern",
+      "description": "Join George Mason at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Haym Soloman at the tavern": {
+      "name": "Visit with Haym Soloman at the tavern",
+      "description": "Join Haym Soloman at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Kent Vance",
+          "character": "Haym Soloman"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with James Madison at the tavern": {
+      "name": "Visit with James Madison at the tavern",
+      "description": "Join James Madison at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Adams at the tavern": {
+      "name": "Visit with John Adams at the tavern",
+      "description": "Join John Adams at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Dickinson at the tavern": {
+      "name": "Visit with John Dickinson at the tavern",
+      "description": "Join John Dickinson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Glover at the tavern": {
+      "name": "Visit with John Glover at the tavern",
+      "description": "Join John Glover at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Luke Rader",
+          "character": "John Glover"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Hancock at the tavern": {
+      "name": "Visit with John Hancock at the tavern",
+      "description": "Join John Hancock at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Paul Jones at the tavern": {
+      "name": "Visit with John Paul Jones at the tavern",
+      "description": "Join John Paul Jones at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Tom Wellborn",
+          "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Lt. Alexander Chesney at the tavern": {
+      "name": "Visit with Lt. Alexander Chesney at the tavern",
+      "description": "Join Lt. Alexander Chesney at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Lt. Alexander Chesney"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Major Beaumont at the tavern": {
+      "name": "Visit with Major Beaumont at the tavern",
+      "description": "Join Major Beaumont at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ]
+    },
+    "Visit with Nathanael Greene at the tavern": {
+      "name": "Visit with Nathanael Greene at the tavern",
+      "description": "Join Nathanael Greene at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Cameron Graham",
+          "character": "Nathanael Greene"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Patrick Henry at the tavern": {
+      "name": "Visit with Patrick Henry at the tavern",
+      "description": "Join Patrick Henry at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Peter Muhlenberg at the tavern": {
+      "name": "Visit with Peter Muhlenberg at the tavern",
+      "description": "Join Peter Muhlenberg at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Robert Morris at the tavern": {
+      "name": "Visit with Robert Morris at the tavern",
+      "description": "Join Robert Morris at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Robert Shurtliff at the tavern": {
+      "name": "Visit with Robert Shurtliff at the tavern",
+      "description": "Join Robert Shurtliff at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Kimberly Ward",
+          "character": "Robert Shurtliff"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Roger Sherman at the tavern": {
+      "name": "Visit with Roger Sherman at the tavern",
+      "description": "Join Roger Sherman at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Thomas Jefferson at the tavern": {
+      "name": "Visit with Thomas Jefferson at the tavern",
+      "description": "Join Thomas Jefferson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
     "We Hold These Truths  . . .": {
       "name": "We Hold These Truths  . . .",
       "description": "Everyone knows the words, but do we know the ideas behind them? Discover the daring philosophy that transformed a colonial grievance into a blueprint for human freedom.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -3444,8 +3639,8 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
+      "scheduleCount": 1,
+      "additionalText": "Friday & Saturday Only",
       "people": [
         {
           "name": "Gove Allen",
@@ -3463,14 +3658,33 @@
         }
       ]
     },
+    "What's for Supper? The Hidden Work Behind a Frontier Meal": {
+      "name": "What's for Supper? The Hidden Work Behind a Frontier Meal",
+      "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "",
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Frontier Kitchen"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Frontier Kitchen"
+        }
+      ]
+    },
     "Will Virginia Defy the Crown? You Decide": {
       "name": "Will Virginia Defy the Crown? You Decide",
       "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote &mdash; and face the consequences.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
-      "scheduleCount": 1,
-      "additionalText": "",
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": 2,
+      "additionalText": "Thursday Only",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -3508,14 +3722,14 @@
         }
       ]
     },
-    "Young Founder's Living Museum": {
-      "name": "Young Founder's Living Museum",
+    "Young Founders Living Museum": {
+      "name": "Young Founders Living Museum",
       "description": "Fifth graders become Founding Fathers &mdash; and mothers. Experience our living museum and hear history told by the voices that will carry it forward. (Thursday Only)",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
+      "audienceInvolved": true,
+      "personCount": 7,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Saturday Only",
       "people": [
         {
           "name": "Elary Hall"
@@ -3528,223 +3742,14 @@
         }
       ]
     },
-    "Naval Recruitment": {
-      "name": "Naval Recruitment",
-      "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 3,
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Tom Wellborn",
-          "character": "John Paul Jones"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:00 AM",
-          "location": "Naval Recruitment"
-        },
-        {
-          "time": "11:00 AM",
-          "location": "Naval Recruitment"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Naval Recruitment"
-        }
-      ]
-    },
-    "The Grievances of the Declaration": {
-      "name": "The Grievances of the Declaration",
-      "description": "The writers intended the list of grievances to be central to the Declaration. Explore how they relate to ?life, liberty, and the pursuit of Happiness?.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Julie Siebach"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Liberty Tree"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Schoolhouse"
-        }
-      ]
-    },
-    "Soap Making Demonstration": {
-      "name": "Soap Making Demonstration",
-      "description": "Learn how to make soap.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 4,
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Jane Hall"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Colonial Soap Works"
-        },
-        {
-          "time": "11:30 AM",
-          "location": "Colonial Soap Works"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Colonial Soap Works"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Colonial Soap Works"
-        }
-      ]
-    },
-    "Making Butter": {
-      "name": "Making Butter",
-      "description": "Learn how to make butter.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "Friday & Saturday Only",
-      "people": [
-        {
-          "name": "Marie Clyne"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Camp Followers"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Camp Followers"
-        }
-      ]
-    },
-    "What's for Supper? The Hidden Work Behind a Frontier Meal": {
-      "name": "What's for Supper? The Hidden Work Behind a Frontier Meal",
-      "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 2,
-      "additionalText": "",
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Frontier Kitchen"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Frontier Kitchen"
-        }
-      ]
-    },
-    "Hammered Dulcimer Class": {
-      "name": "Hammered Dulcimer Class",
-      "description": "Try your hand at the hammered dulcimer ? the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
+    "": {
+      "name": "",
+      "description": "",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "Thursday Only",
-      "people": [
-        {
-          "name": "Leanne Larson"
-        }
-      ],
-      "times": [
-        {
-          "time": "7:00 PM",
-          "location": "South Meetinghouse"
-        }
-      ]
-    },
-    "Printing the Dunlap Broadside": {
-      "name": "Printing the Dunlap Broadside",
-      "description": "The Declaration is signed. Now someone must print it. Join John Dunlap as he works through the night to tell the world.  Print your own copy of the this historic document on this historic night, 250 years after the original.",
-      "hide": false,
-      "audienceInvolved": true,
-      "personCount": 8,
-      "scheduleCount": 1,
-      "additionalText": "Saturday Only",
-      "people": [
-        {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Thomas Wangeman",
-          "character": "Robert Livingston"
-        },
-        {
-          "name": "Isaac Johnson",
-          "character": "John Dunlap"
-        },
-        {
-          "name": "Daniel Pugmire",
-          "character": "Charles Thomson"
-        }
-      ],
-      "times": [
-        {
-          "time": "8:00 PM",
-          "location": "Forge of Sedition"
-        }
-      ]
-    },
-    "Three Boxes of Freedom": {
-      "name": "Three Boxes of Freedom",
-      "description": "Three boxes stood between colonists and tyranny ? the election box, the jury box, and the cartridge box. Learn why all three still matter.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "additionalText": "",
-      "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "Liberty Tree"
-        }
-      ]
+      "additionalText": ""
     }
   },
   "location": {
@@ -3840,7 +3845,7 @@
     },
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
-      "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
+      "description": "Take Visit with with the sons of liberty--or those seeking to uncover their plans",
       "mapNumber": 67,
       "coordinates": ""
     },
@@ -3930,7 +3935,7 @@
       "British",
       "Military"
     ],
-    "Hyam Soloman": [
+    "Haym Soloman": [
       ""
     ],
     "Isaiah Thomas": [
@@ -4175,7 +4180,7 @@
       ],
       "desc": "Virginia's last royal governor tried to crush rebellion, burned Norfolk, and promised freedom to enslaved people who joined the British."
     },
-    "Hyam Soloman": {
+    "Haym Soloman": {
       "groups": [
         ""
       ],
