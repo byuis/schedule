@@ -44,9 +44,9 @@
         }
       ]
     },
-    "A drink with Benjamin Franklin": {
-      "name": "A drink with Benjamin Franklin",
-      "description": "Join Benjamin Franklin at the tavern to discuss the day's happenings and politics",
+    "Visit with Benjamin Franklin at the tavern": {
+      "name": "Visit with Benjamin Franklin at the tavern",
+      "description": "Join Benjamin Franklin at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -69,9 +69,9 @@
         }
       ]
     },
-    "A drink with Billy Lee": {
-      "name": "A drink with Billy Lee",
-      "description": "Join Billy Lee at the tavern to discuss the day's happenings and politics",
+    "Visit with Billy Lee at the tavern": {
+      "name": "Visit with Billy Lee at the tavern",
+      "description": "Join Billy Lee at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -94,9 +94,9 @@
         }
       ]
     },
-    "A drink with Christopher Gadsden": {
-      "name": "A drink with Christopher Gadsden",
-      "description": "Join Christopher Gadsden at the tavern to discuss the day's happenings and politics",
+    "Visit with Christopher Gadsden at the tavern": {
+      "name": "Visit with Christopher Gadsden at the tavern",
+      "description": "Join Christopher Gadsden at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -119,9 +119,9 @@
         }
       ]
     },
-    "A drink with Colonel Birch": {
-      "name": "A drink with Colonel Birch",
-      "description": "Join Colonel Birch at the tavern to discuss the day's happenings and politics",
+    "Visit with Colonel Birch at the tavern": {
+      "name": "Visit with Colonel Birch at the tavern",
+      "description": "Join Colonel Birch at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -134,9 +134,9 @@
         }
       ]
     },
-    "A drink with Francis Hopkinson": {
-      "name": "A drink with Francis Hopkinson",
-      "description": "Join Francis Hopkinson at the tavern to discuss the day's happenings and politics",
+    "Visit with Francis Hopkinson at the tavern": {
+      "name": "Visit with Francis Hopkinson at the tavern",
+      "description": "Join Francis Hopkinson at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -167,9 +167,9 @@
         }
       ]
     },
-    "A drink with George Mason": {
-      "name": "A drink with George Mason",
-      "description": "Join George Mason at the tavern to discuss the day's happenings and politics",
+    "Visit with George Mason at the tavern": {
+      "name": "Visit with George Mason at the tavern",
+      "description": "Join George Mason at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -192,9 +192,9 @@
         }
       ]
     },
-    "A drink with Hyam Soloman": {
-      "name": "A drink with Hyam Soloman",
-      "description": "Join Hyam Soloman at the tavern to discuss the day's happenings and politics",
+    "Visit with Haym Soloman at the tavern": {
+      "name": "Visit with Haym Soloman at the tavern",
+      "description": "Join Haym Soloman at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -203,7 +203,7 @@
       "people": [
         {
           "name": "Kent Vance",
-          "character": "Hyam Soloman"
+          "character": "Haym Soloman"
         }
       ],
       "times": [
@@ -217,9 +217,9 @@
         }
       ]
     },
-    "A drink with James Madison": {
-      "name": "A drink with James Madison",
-      "description": "Join James Madison at the tavern to discuss the day's happenings and politics",
+    "Visit with James Madison at the tavern": {
+      "name": "Visit with James Madison at the tavern",
+      "description": "Join James Madison at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -246,9 +246,9 @@
         }
       ]
     },
-    "A drink with John Adams": {
-      "name": "A drink with John Adams",
-      "description": "Join John Adams at the tavern to discuss the day's happenings and politics",
+    "Visit with John Adams at the tavern": {
+      "name": "Visit with John Adams at the tavern",
+      "description": "Join John Adams at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -271,9 +271,9 @@
         }
       ]
     },
-    "A drink with John Dickinson": {
-      "name": "A drink with John Dickinson",
-      "description": "Join John Dickinson at the tavern to discuss the day's happenings and politics",
+    "Visit with John Dickinson at the tavern": {
+      "name": "Visit with John Dickinson at the tavern",
+      "description": "Join John Dickinson at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -300,9 +300,9 @@
         }
       ]
     },
-    "A drink with John Glover": {
-      "name": "A drink with John Glover",
-      "description": "Join John Glover at the tavern to the day's happenings and politics",
+    "Visit with John Glover at the tavern": {
+      "name": "Visit with John Glover at the tavern",
+      "description": "Join John Glover at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -329,12 +329,12 @@
         }
       ]
     },
-    "A drink with John Hancock": {
-      "name": "A drink with John Hancock",
-      "description": "Join John Hancock at the tavern to discuss the day's happenings and politics",
+    "Visit with John Hancock at the tavern": {
+      "name": "Visit with John Hancock at the tavern",
+      "description": "Join John Hancock at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": "",
       "scheduleCount": "",
       "additionalText": "",
       "people": [
@@ -354,9 +354,9 @@
         }
       ]
     },
-    "A drink with John Paul Jones": {
-      "name": "A drink with John Paul Jones",
-      "description": "Join John Paul Jones at the tavern to discuss the day's happenings and politics",
+    "Visit with John Paul Jones at the tavern": {
+      "name": "Visit with John Paul Jones at the tavern",
+      "description": "Join John Paul Jones at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -379,9 +379,9 @@
         }
       ]
     },
-    "A drink with Lt. Alexander Chesney": {
-      "name": "A drink with Lt. Alexander Chesney",
-      "description": "Join Lt. Alexander Chesney at the tavern to discuss the day's happenings and politics",
+    "Visit with Lt. Alexander Chesney at the tavern": {
+      "name": "Visit with Lt. Alexander Chesney at the tavern",
+      "description": "Join Lt. Alexander Chesney at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -404,9 +404,9 @@
         }
       ]
     },
-    "A drink with Major Beaumont": {
-      "name": "A drink with Major Beaumont",
-      "description": "Join Major Beaumont at the tavern to discuss the day's happenings and politics",
+    "Visit with Major Beaumont at the tavern": {
+      "name": "Visit with Major Beaumont at the tavern",
+      "description": "Join Major Beaumont at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -419,9 +419,9 @@
         }
       ]
     },
-    "A drink with Nathanael Greene": {
-      "name": "A drink with Nathanael Greene",
-      "description": "Join Nathanael Greene at the tavern to discuss the day's happenings and politics",
+    "Visit with Nathanael Greene at the tavern": {
+      "name": "Visit with Nathanael Greene at the tavern",
+      "description": "Join Nathanael Greene at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -444,9 +444,9 @@
         }
       ]
     },
-    "A drink with Patrick Henry": {
-      "name": "A drink with Patrick Henry",
-      "description": "Join Patrick Henry at the tavern to discuss the day's happenings and politics",
+    "Visit with Patrick Henry at the tavern": {
+      "name": "Visit with Patrick Henry at the tavern",
+      "description": "Join Patrick Henry at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -465,9 +465,9 @@
         }
       ]
     },
-    "A drink with Peter Muhlenberg": {
-      "name": "A drink with Peter Muhlenberg",
-      "description": "Join Peter Muhlenberg at the tavern to discuss the day's happenings and politics",
+    "Visit with Peter Muhlenberg at the tavern": {
+      "name": "Visit with Peter Muhlenberg at the tavern",
+      "description": "Join Peter Muhlenberg at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -490,9 +490,9 @@
         }
       ]
     },
-    "A drink with Robert Morris": {
-      "name": "A drink with Robert Morris",
-      "description": "Join Robert Morris at the tavern to discuss the day's happenings and politics",
+    "Visit with Robert Morris at the tavern": {
+      "name": "Visit with Robert Morris at the tavern",
+      "description": "Join Robert Morris at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -515,9 +515,9 @@
         }
       ]
     },
-    "A drink with Robert Shurtliff": {
-      "name": "A drink with Robert Shurtliff",
-      "description": "Join Robert Shurtliff at the tavern to discuss the day's happenings and politics",
+    "Visit with Robert Shurtliff at the tavern": {
+      "name": "Visit with Robert Shurtliff at the tavern",
+      "description": "Join Robert Shurtliff at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -536,9 +536,9 @@
         }
       ]
     },
-    "A drink with Roger Sherman": {
-      "name": "A drink with Roger Sherman",
-      "description": "Join Roger Sherman at the tavern to discuss the day's happenings and politics",
+    "Visit with Roger Sherman at the tavern": {
+      "name": "Visit with Roger Sherman at the tavern",
+      "description": "Join Roger Sherman at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -565,9 +565,9 @@
         }
       ]
     },
-    "A drink with Thomas Jefferson": {
-      "name": "A drink with Thomas Jefferson",
-      "description": "Join Thomas Jefferson at the tavern to discuss the day's happenings and politics",
+    "Visit with Thomas Jefferson at the tavern": {
+      "name": "Visit with Thomas Jefferson at the tavern",
+      "description": "Join Thomas Jefferson at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -585,10 +585,6 @@
           "location": "Green Dragon Tavern"
         },
         {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
           "time": "4:00 PM",
           "location": "Green Dragon Tavern"
         }
@@ -600,7 +596,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -617,12 +613,12 @@
     },
     "American Closing Ceremony": {
       "name": "American Closing Ceremony",
-      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.  Includes Cannon fire.",
+      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.  Includes cannon fire.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
+      "additionalText": "",
       "people": [
         {
           "name": "Alyssa Michaelis",
@@ -639,11 +635,11 @@
     "Break Bread with the Brits": {
       "name": "Break Bread with the Brits",
       "description": "Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 8,
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Kim Gardner"
@@ -687,7 +683,7 @@
     "Break Bread with the Brits continued": {
       "name": "Break Bread with the Brits continued",
       "description": "Breaking Bread will last a full 60 minutes",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
       "personCount": 8,
       "scheduleCount": 1,
@@ -737,7 +733,7 @@
       "description": "The Crown's youngest soldiers are ready for inspection &mdash; cheer on the British Children's Militia as they drill with pride and precision.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 8,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -780,7 +776,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -804,8 +800,8 @@
       "description": "Watch British military demonstrate offensive and defensive techniques.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -837,7 +833,7 @@
       "description": "It's older than the Revolution and harder than it looks. Watch a skilled artisan craft a broom using the same techniques colonial Americans relied on daily.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -865,8 +861,8 @@
       "description": "Beginners use pencil to learn the basic strokes that form 18th century script.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -885,9 +881,9 @@
     },
     "Calligraphy II": {
       "name": "Calligraphy II",
-      "description": "Quill and ink instruction appropriate for adults and mature youth ($5 fee)",
+      "description": "Quill and ink instruction appropriate for adults and mature youth ($5 fee).",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 2,
       "scheduleCount": 1,
       "additionalText": "",
@@ -912,8 +908,8 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 3,
-      "additionalText": "Friday Only",
+      "scheduleCount": 1,
+      "additionalText": "",
       "people": [
         {
           "name": "Cameron Graham",
@@ -943,10 +939,10 @@
       "name": "Colonial Dance",
       "description": "Join a colonial dance for adults and children old enough to follow instruction and participate in dancing.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 1,
-      "additionalText": "",
+      "scheduleCount": 3,
+      "additionalText": "Friday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -968,7 +964,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -994,7 +990,7 @@
       "description": "Behind the battles was a shadow economy. Uncover the covert trade networks and financial schemes that kept the American Revolution alive.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -1018,8 +1014,8 @@
       "name": "Colonial Folk Songs",
       "description": "Enjoy some of the lesser-known songs of the American colonial era.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 2,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -1046,9 +1042,9 @@
       "name": "Colonial School",
       "description": "Children attend school for academic, etiquette, and moral lessons of the day.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 4,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1082,8 +1078,8 @@
       "description": "Feel the ground shake as Continental artillery roars to life &mdash; a thunderous demonstration of the firepower that turned the tide of revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 3,
+      "personCount": 2,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -1110,7 +1106,7 @@
       "description": "Watch Continental soldiers and militia unite to drill and fire muskets in a thrilling demonstration of the military force that won American independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -1141,8 +1137,8 @@
       "description": "Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 9,
-      "scheduleCount": 1,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -1247,7 +1243,7 @@
       "description": "From stays to silk &mdash; join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
+      "personCount": 9,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1275,7 +1271,7 @@
       "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1299,7 +1295,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1324,10 +1320,10 @@
       "name": "Early Printings of the Declaration of Independence",
       "description": "The ink was barely dry before it changed the world. Discover the fascinating story behind the early printings of the Declaration of Independence.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 1,
+      "audienceInvolved": false,
+      "personCount": 2,
       "scheduleCount": 2,
-      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -1348,11 +1344,11 @@
     "Elevenses": {
       "name": "Elevenses",
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 9,
-      "scheduleCount": 1,
-      "additionalText": "",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Kim Gardner"
@@ -1452,10 +1448,10 @@
     "Empty for competing Activity": {
       "name": "Empty for competing Activity",
       "description": "This venue is vacant becuase of an nearby activity that competes",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 32,
+      "personCount": 9,
+      "scheduleCount": 1,
       "additionalText": "",
       "times": [
         {
@@ -1591,11 +1587,11 @@
     "Fan Painting Class": {
       "name": "Fan Painting Class",
       "description": "Fans weren't just for cooling off &mdash; they were colonial art. Join this charming class and paint your own piece of 18th-century elegance to take home.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
-      "additionalText": "Starts at 1:15pm",
+      "personCount": "",
+      "scheduleCount": 32,
+      "additionalText": "",
       "people": [
         {
           "name": "Kathryn Taber-Garcia"
@@ -1615,7 +1611,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Starts at 1:15pm",
       "people": [
         {
           "name": "Dan Maker"
@@ -1633,7 +1629,7 @@
       "description": "6,000 French soldiers. One crucial alliance. Learn how Rochambeau's corps helped deliver the decisive blow at Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 4,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1666,8 +1662,8 @@
       "description": "It began with a stamp and ended with a revolution. Follow the remarkable chain of events that transformed loyal British subjects into American patriots.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 4,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1692,7 +1688,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1711,9 +1707,9 @@
       "name": "Hammered Dulcimer",
       "description": "Listen to a performance of this classical 18th century instrument.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1735,9 +1731,9 @@
       "name": "Hammered Dulcimer Class",
       "description": "Try your hand at the hammered dulcimer ? the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1756,7 +1752,7 @@
       "description": "Someone stole the hog &mdash; but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1781,9 +1777,9 @@
       "name": "Introduction to Natural Law",
       "description": "Before the Revolution came an idea. Discover the philosophy of Natural Law &mdash; the intellectual spark that convinced the founders they had every right to rebel.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "audienceInvolved": false,
+      "personCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1804,9 +1800,9 @@
     },
     "Learn about Henry Knox": {
       "name": "Learn about Henry Knox",
-      "description": "From Boston bookshop to battlefield hero &mdash; discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general",
+      "description": "From Boston bookshop to battlefield hero &mdash; discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
@@ -1831,8 +1827,8 @@
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 6,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1872,8 +1868,8 @@
       "description": "Clean clothes in colonial America came at a price &mdash; hours of back-breaking labor. Watch a live demonstration of the skills that kept the Revolution looking sharp.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 6,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1896,8 +1892,8 @@
       "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1929,8 +1925,8 @@
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -1953,8 +1949,8 @@
       "description": "He wrote the Constitution. Patrick Henry hated it. Watch James Madison defend his masterpiece against Virginia's most passionate and fiery orator.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1978,8 +1974,8 @@
       "description": "Learn how to make butter.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2003,7 +1999,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2045,7 +2041,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2070,7 +2066,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2087,7 +2083,7 @@
     },
     "Meet Elizabeth Powell": {
       "name": "Meet Elizabeth Powell",
-      "description": "She dined with Washington, debated with Franklin, and influenced the founders more than history remembers. Meet Philadelphia's most brilliant and powerful woman, Elizabeth Powel.",
+      "description": "She dined with Washington, debated with Franklin, and influenced the founders more than history remembers. Meet Philadelphia's most brilliant and powerful woman, Elizabeth Powell.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -2133,7 +2129,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2158,7 +2154,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2221,12 +2217,12 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
           "name": "Kent Vance",
-          "character": "Hyam Soloman"
+          "character": "Haym Soloman"
         }
       ],
       "times": [
@@ -2246,7 +2242,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2309,7 +2305,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2359,7 +2355,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2401,7 +2397,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2412,7 +2408,7 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Carpenters' Hall"
+          "location": "Schoolhouse"
         },
         {
           "time": "3:30 PM",
@@ -2426,7 +2422,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2469,7 +2465,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "Friday and Saturday Only",
+      "additionalText": "",
       "people": [
         {
           "name": "Kimberly Ward",
@@ -2485,12 +2481,12 @@
     },
     "Meet Ruth Harrington": {
       "name": "Meet Ruth Harrington",
-      "description": "She watched the Revolution begin at her own doorstep. Meet Ruth Harrington, who paid a devastating price on April 19, 1775",
+      "description": "She watched the Revolution begin at her own doorstep. Meet Ruth Harrington, who paid a devastating price on April 19, 1775.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
+      "scheduleCount": 1,
+      "additionalText": "Friday and Saturday Only",
       "people": [
         {
           "name": "Dalane England",
@@ -2525,7 +2521,7 @@
       "times": [
         {
           "time": "11:00 AM",
-          "location": "Schoolhouse"
+          "location": "Carpenters' Hall"
         },
         {
           "time": "3:00 PM",
@@ -2537,8 +2533,8 @@
       "name": "Minuet Dance Demonstration",
       "description": "Discover how the founders danced &mdash; a captivating demonstration of the minuet, the fashionable step that graced every colonial ballroom.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 2,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -2565,8 +2561,8 @@
       "description": "Getting dressed in the 18th century was no simple task. Experience the fascinating morning routines that defined style, status, and society in colonial America.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 1,
-      "scheduleCount": 1,
+      "personCount": 2,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2584,9 +2580,9 @@
       "name": "Naval Recruitment",
       "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2615,7 +2611,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -2637,10 +2633,10 @@
     "Piracy Trial": {
       "name": "Piracy Trial",
       "description": "In this Admiralty Court, will we hang another pirate or convict a smuggler?",
-      "hide": true,
+      "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2658,9 +2654,9 @@
     "Printing the Dunlap Broadside": {
       "name": "Printing the Dunlap Broadside",
       "description": "The Declaration is signed. Now someone must print it. Join John Dunlap as he works through the night to tell the world.  Print your own copy of the this historic document on this historic night, 250 years after the original.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 8,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2708,10 +2704,10 @@
       "name": "Redress or Revolution: You Decide the Fate of the Colonies",
       "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 13,
+      "audienceInvolved": false,
+      "personCount": 8,
       "scheduleCount": 1,
-      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
+      "additionalText": "",
       "people": [
         {
           "name": "Thomas Wangeman",
@@ -2773,11 +2769,11 @@
     "Reveille with the King's Forces": {
       "name": "Reveille with the King's Forces",
       "description": "The King's forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
-      "hide": true,
-      "audienceInvolved": false,
-      "personCount": 1,
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 13,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -2794,9 +2790,9 @@
     "Revolution from the \"Billy\" point of view": {
       "name": "Revolution from the \"Billy\" point of view",
       "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2820,9 +2816,9 @@
       "name": "Setup / Takedown",
       "description": "Time reserved for setting up or cleaning up",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": "",
-      "scheduleCount": 7,
+      "audienceInvolved": false,
+      "personCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "times": [
         {
@@ -2858,10 +2854,10 @@
     "Shut-the-Box": {
       "name": "Shut-the-Box",
       "description": "Enter a tournament playing a popular game of chance and skill for a prize.",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": true,
       "personCount": "",
-      "scheduleCount": 2,
+      "scheduleCount": 7,
       "additionalText": "",
       "times": [
         {
@@ -2879,8 +2875,8 @@
       "description": "Sip chocolate with Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 5,
-      "scheduleCount": 1,
+      "personCount": "",
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2913,7 +2909,7 @@
       "name": "Sipping Chocolate and Spilling Tea continued",
       "description": "Sipping Chocolate will last 45 minutes",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 5,
       "scheduleCount": 1,
       "additionalText": "",
@@ -2949,8 +2945,8 @@
       "description": "Learn how to make soap.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 4,
+      "personCount": 5,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2982,7 +2978,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -3006,8 +3002,8 @@
       "description": "The tea sits in the harbor &mdash; will you pay the tax or dump it? Jump into this heated colonial debate and shape the outcome!",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -3032,7 +3028,7 @@
       "description": "They disagreed on nearly everything &mdash; yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 7,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -3122,8 +3118,8 @@
       "description": "In 1776, the Revolution nearly died. Meet John Glover &mdash; the Marblehead mariner whose men pulled Washington back from the brink of total defeat.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 7,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3146,7 +3142,7 @@
       "name": "The Grievances of the Declaration",
       "description": "The writers intended the list of grievances to be central to the Declaration. Explore how they relate to ?life, liberty, and the pursuit of Happiness?.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
@@ -3170,9 +3166,9 @@
       "name": "The Language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -3251,7 +3247,7 @@
     },
     "Tour with Billy Flora": {
       "name": "Tour with Billy Flora",
-      "description": "Join Billy Flora on a village tour and observe the day's business",
+      "description": "Join Billy Flora on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3272,7 +3268,7 @@
     },
     "Tour with Billy Lee": {
       "name": "Tour with Billy Lee",
-      "description": "Join Billy Lee on a village tour and observe the day's business",
+      "description": "Join Billy Lee on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3293,11 +3289,11 @@
     },
     "Tour with George Washington": {
       "name": "Tour with George Washington",
-      "description": "Join George Washington on a village tour and observe the day's business",
+      "description": "Join George Washington on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3308,7 +3304,7 @@
     },
     "Tour with Isaiah Thomas ": {
       "name": "Tour with Isaiah Thomas ",
-      "description": "Join Isaiah Thomas  on a village tour and observe the day's business",
+      "description": "Join Isaiah Thomas  on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3323,11 +3319,11 @@
     },
     "Tour with James Madison": {
       "name": "Tour with James Madison",
-      "description": "Join James Madison on a village tour and observe the day's business",
+      "description": "Join James Madison on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -3344,7 +3340,7 @@
     },
     "Tour with John Adams": {
       "name": "Tour with John Adams",
-      "description": "Join John Adams on a village tour and observe the day's business",
+      "description": "Join John Adams on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3365,7 +3361,7 @@
     },
     "Tour with John Dickinson": {
       "name": "Tour with John Dickinson",
-      "description": "Join John Dickinson on a village tour and observe the day's business",
+      "description": "Join John Dickinson on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3386,7 +3382,7 @@
     },
     "Tour with John Hancock": {
       "name": "Tour with John Hancock",
-      "description": "Join John Hancock on a village tour and observe the day's business",
+      "description": "Join John Hancock on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3407,7 +3403,7 @@
     },
     "Tour with John Paul Jones": {
       "name": "Tour with John Paul Jones",
-      "description": "Join John Paul Jones on a village tour and observe the day's business",
+      "description": "Join John Paul Jones on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3428,7 +3424,7 @@
     },
     "Tour with Major Beaumont": {
       "name": "Tour with Major Beaumont",
-      "description": "Join Major Beaumont on a village tour and observe the day's business",
+      "description": "Join Major Beaumont on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3449,11 +3445,11 @@
     },
     "Tour with Mercy Otis Warren": {
       "name": "Tour with Mercy Otis Warren",
-      "description": "Join Mercy Otis Warren on a village tour and observe the day's business",
+      "description": "Join Mercy Otis Warren on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3464,11 +3460,11 @@
     },
     "Tour with Patrick Henry": {
       "name": "Tour with Patrick Henry",
-      "description": "Join Patrick Henry on a village tour and observe the day's business",
+      "description": "Join Patrick Henry on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -3485,9 +3481,9 @@
     },
     "Tour with Penelope Barker": {
       "name": "Tour with Penelope Barker",
-      "description": "Join Penelope Barker on a village tour and observe the day's business",
+      "description": "Join Penelope Barker on a village tour and observe the day's business.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
@@ -3506,9 +3502,9 @@
     },
     "Tour with Robert Morris": {
       "name": "Tour with Robert Morris",
-      "description": "Join Robert Morris on a village tour and observe the day's business",
+      "description": "Join Robert Morris on a village tour and observe the day's business.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
@@ -3527,7 +3523,7 @@
     },
     "Tour with Roger Sherman": {
       "name": "Tour with Roger Sherman",
-      "description": "Join Roger Sherman on a village tour and observe the day's business",
+      "description": "Join Roger Sherman on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3548,7 +3544,7 @@
     },
     "Tour with Sybil Ludington": {
       "name": "Tour with Sybil Ludington",
-      "description": "Join Sybil Ludington on a village tour and observe the day's business",
+      "description": "Join Sybil Ludington on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3569,7 +3565,7 @@
     },
     "Tour with Thomas Jefferson": {
       "name": "Tour with Thomas Jefferson",
-      "description": "Join Thomas Jefferson on a village tour and observe the day's business",
+      "description": "Join Thomas Jefferson on a village tour and observe the day's business.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -3594,7 +3590,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3623,8 +3619,8 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
-      "additionalText": "Friday & Saturday Only",
+      "scheduleCount": 3,
+      "additionalText": "",
       "people": [
         {
           "name": "Ralph C Hancock"
@@ -3643,8 +3639,8 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
-      "additionalText": "",
+      "scheduleCount": 1,
+      "additionalText": "Friday & Saturday Only",
       "people": [
         {
           "name": "Gove Allen",
@@ -3667,9 +3663,9 @@
       "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": 2,
-      "additionalText": "Thursday Only",
+      "additionalText": "",
       "times": [
         {
           "time": "10:30 AM",
@@ -3685,10 +3681,10 @@
       "name": "Will Virginia Defy the Crown? You Decide",
       "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote &mdash; and face the consequences.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
-      "scheduleCount": 1,
-      "additionalText": "Saturday Only",
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": 2,
+      "additionalText": "Thursday Only",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -3730,10 +3726,10 @@
       "name": "Young Founders Living Museum",
       "description": "Fifth graders become Founding Fathers &mdash; and mothers. Experience our living museum and hear history told by the voices that will carry it forward. (Thursday Only)",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
+      "audienceInvolved": true,
+      "personCount": 7,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Saturday Only",
       "people": [
         {
           "name": "Elary Hall"
@@ -3745,6 +3741,15 @@
           "location": "Liberty Tree"
         }
       ]
+    },
+    "": {
+      "name": "",
+      "description": "",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": ""
     }
   },
   "location": {
@@ -3840,7 +3845,7 @@
     },
     "Green Dragon Tavern": {
       "name": "Green Dragon Tavern",
-      "description": "Take a drink with the sons of liberty--or those seeking to uncover their plans",
+      "description": "Take Visit with with the sons of liberty--or those seeking to uncover their plans",
       "mapNumber": 67,
       "coordinates": ""
     },
@@ -3930,7 +3935,7 @@
       "British",
       "Military"
     ],
-    "Hyam Soloman": [
+    "Haym Soloman": [
       ""
     ],
     "Isaiah Thomas": [
@@ -4175,7 +4180,7 @@
       ],
       "desc": "Virginia's last royal governor tried to crush rebellion, burned Norfolk, and promised freedom to enslaved people who joined the British."
     },
-    "Hyam Soloman": {
+    "Haym Soloman": {
       "groups": [
         ""
       ],
