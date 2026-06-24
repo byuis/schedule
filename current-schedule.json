@@ -26,7 +26,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -34,6 +34,10 @@
         }
       ],
       "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Liberty Tree"
+        },
         {
           "time": "1:30 PM",
           "location": "Faneuil Hall"
@@ -1451,9 +1455,13 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 31,
+      "scheduleCount": 32,
       "additionalText": "",
       "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Schoolhouse"
+        },
         {
           "time": "12:00 PM",
           "location": "Continental Field"
@@ -2247,7 +2255,7 @@
       "times": [
         {
           "time": "4:30 PM",
-          "location": "Faneuil Hall"
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -2282,7 +2290,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2291,10 +2299,6 @@
         }
       ],
       "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Liberty Tree"
-        },
         {
           "time": "3:30 PM",
           "location": "Liberty Tree"
@@ -3410,7 +3414,7 @@
         },
         {
           "time": "4:30 PM",
-          "location": "Liberty Tree"
+          "location": "Faneuil Hall"
         }
       ]
     },
