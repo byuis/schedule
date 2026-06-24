@@ -1285,7 +1285,7 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Liberty Tree"
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -1451,12 +1451,24 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 27,
+      "scheduleCount": 31,
       "additionalText": "",
       "times": [
         {
           "time": "12:00 PM",
           "location": "Continental Field"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Schoolhouse"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Schoolhouse"
         },
         {
           "time": "3:00 PM",
@@ -1465,6 +1477,10 @@
         {
           "time": "4:30 PM",
           "location": "Tour Departure"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Schoolhouse"
         },
         {
           "time": "5:00 PM",
@@ -1764,7 +1780,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1775,6 +1791,10 @@
         {
           "time": "10:30 AM",
           "location": "Faneuil Hall"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -2061,7 +2081,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2070,6 +2090,10 @@
         }
       ],
       "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Carpenters' Hall"
+        },
         {
           "time": "2:30 PM",
           "location": "Liberty Tree"
@@ -2258,7 +2282,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2267,6 +2291,10 @@
         }
       ],
       "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Liberty Tree"
+        },
         {
           "time": "3:30 PM",
           "location": "Liberty Tree"
@@ -2386,8 +2414,8 @@
         }
       ]
     },
-    "Meet Robert Shirtliff": {
-      "name": "Meet Robert Shirtliff",
+    "Meet Robert Shurtliff": {
+      "name": "Meet Robert Shurtliff",
       "description": "Robert Shurtliff served bravely in the Continental Army &mdash; but harbored an extraordinary secret. Meet the soldier whose true identity would shock the founding era.",
       "hide": false,
       "audienceInvolved": false,
@@ -2524,7 +2552,7 @@
           "location": "Carpenters' Hall"
         },
         {
-          "time": "12:30 PM",
+          "time": "1:00 PM",
           "location": "Carpenters' Hall"
         }
       ]
@@ -2956,8 +2984,8 @@
         }
       ]
     },
-    "The language of the Fan": {
-      "name": "The language of the Fan",
+    "The Language of the Fan": {
+      "name": "The Language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
       "audienceInvolved": false,
@@ -3544,7 +3572,7 @@
           "location": "Liberty Tree"
         },
         {
-          "time": "4:30 PM",
+          "time": "3:30 PM",
           "location": "Schoolhouse"
         }
       ]
