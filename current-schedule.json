@@ -44,559 +44,13 @@
         }
       ]
     },
-    "Visit with Benjamin Franklin at the tavern": {
-      "name": "Visit with Benjamin Franklin at the tavern",
-      "description": "Join Benjamin Franklin at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Billy Lee at the tavern": {
-      "name": "Visit with Billy Lee at the tavern",
-      "description": "Join Billy Lee at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        }
-      ],
-      "times": [
-        {
-          "time": "1:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Christopher Gadsden at the tavern": {
-      "name": "Visit with Christopher Gadsden at the tavern",
-      "description": "Join Christopher Gadsden at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Colonel Birch at the tavern": {
-      "name": "Visit with Colonel Birch at the tavern",
-      "description": "Join Colonel Birch at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Doug Bingham",
-          "character": "Colonel Birch"
-        }
-      ]
-    },
-    "Visit with Francis Hopkinson at the tavern": {
-      "name": "Visit with Francis Hopkinson at the tavern",
-      "description": "Join Francis Hopkinson at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Devaughn Simper",
-          "character": "Francis Hopkinson"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "11:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with George Mason at the tavern": {
-      "name": "Visit with George Mason at the tavern",
-      "description": "Join George Mason at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Haym Soloman at the tavern": {
-      "name": "Visit with Haym Soloman at the tavern",
-      "description": "Join Haym Soloman at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Kent Vance",
-          "character": "Haym Soloman"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with James Madison at the tavern": {
-      "name": "Visit with James Madison at the tavern",
-      "description": "Join James Madison at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "12:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with John Adams at the tavern": {
-      "name": "Visit with John Adams at the tavern",
-      "description": "Join John Adams at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with John Dickinson at the tavern": {
-      "name": "Visit with John Dickinson at the tavern",
-      "description": "Join John Dickinson at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with John Glover at the tavern": {
-      "name": "Visit with John Glover at the tavern",
-      "description": "Join John Glover at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Luke Rader",
-          "character": "John Glover"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with John Hancock at the tavern": {
-      "name": "Visit with John Hancock at the tavern",
-      "description": "Join John Hancock at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        }
-      ],
-      "times": [
-        {
-          "time": "3:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with John Paul Jones at the tavern": {
-      "name": "Visit with John Paul Jones at the tavern",
-      "description": "Join John Paul Jones at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Tom Wellborn",
-          "character": "John Paul Jones"
-        }
-      ],
-      "times": [
-        {
-          "time": "10:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Lt. Alexander Chesney at the tavern": {
-      "name": "Visit with Lt. Alexander Chesney at the tavern",
-      "description": "Join Lt. Alexander Chesney at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "C. David Belt",
-          "character": "Lt. Alexander Chesney"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Major Beaumont at the tavern": {
-      "name": "Visit with Major Beaumont at the tavern",
-      "description": "Join Major Beaumont at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        }
-      ]
-    },
-    "Visit with Nathanael Greene at the tavern": {
-      "name": "Visit with Nathanael Greene at the tavern",
-      "description": "Join Nathanael Greene at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Cameron Graham",
-          "character": "Nathanael Greene"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Patrick Henry at the tavern": {
-      "name": "Visit with Patrick Henry at the tavern",
-      "description": "Join Patrick Henry at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        }
-      ],
-      "times": [
-        {
-          "time": "2:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Peter Muhlenberg at the tavern": {
-      "name": "Visit with Peter Muhlenberg at the tavern",
-      "description": "Join Peter Muhlenberg at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "3:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Robert Morris at the tavern": {
-      "name": "Visit with Robert Morris at the tavern",
-      "description": "Join Robert Morris at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "1:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Robert Shurtliff at the tavern": {
-      "name": "Visit with Robert Shurtliff at the tavern",
-      "description": "Join Robert Shurtliff at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Kimberly Ward",
-          "character": "Robert Shurtliff"
-        }
-      ],
-      "times": [
-        {
-          "time": "12:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Roger Sherman at the tavern": {
-      "name": "Visit with Roger Sherman at the tavern",
-      "description": "Join Roger Sherman at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        }
-      ],
-      "times": [
-        {
-          "time": "11:00 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:30 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
-    "Visit with Thomas Jefferson at the tavern": {
-      "name": "Visit with Thomas Jefferson at the tavern",
-      "description": "Join Thomas Jefferson at the tavern at the tavern to discuss the day's happenings and politics.",
-      "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": "",
-      "additionalText": "",
-      "people": [
-        {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
-        }
-      ],
-      "times": [
-        {
-          "time": "9:30 AM",
-          "location": "Green Dragon Tavern"
-        },
-        {
-          "time": "4:00 PM",
-          "location": "Green Dragon Tavern"
-        }
-      ]
-    },
     "A History in Four Documents": {
       "name": "A History in Four Documents",
       "description": "Four documents. One nation. Join Founding Father Roger Sherman as he traces the remarkable story of American liberty through history's most transformative texts.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -3613,13 +3067,559 @@
         }
       ]
     },
+    "Visit with Benjamin Franklin at the tavern": {
+      "name": "Visit with Benjamin Franklin at the tavern",
+      "description": "Join Benjamin Franklin at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Billy Lee at the tavern": {
+      "name": "Visit with Billy Lee at the tavern",
+      "description": "Join Billy Lee at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Christopher Gadsden at the tavern": {
+      "name": "Visit with Christopher Gadsden at the tavern",
+      "description": "Join Christopher Gadsden at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Colonel Birch at the tavern": {
+      "name": "Visit with Colonel Birch at the tavern",
+      "description": "Join Colonel Birch at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Doug Bingham",
+          "character": "Colonel Birch"
+        }
+      ]
+    },
+    "Visit with Francis Hopkinson at the tavern": {
+      "name": "Visit with Francis Hopkinson at the tavern",
+      "description": "Join Francis Hopkinson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Devaughn Simper",
+          "character": "Francis Hopkinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with George Mason at the tavern": {
+      "name": "Visit with George Mason at the tavern",
+      "description": "Join George Mason at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Charles Castleberry",
+          "character": "George Mason"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Haym Soloman at the tavern": {
+      "name": "Visit with Haym Soloman at the tavern",
+      "description": "Join Haym Soloman at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Kent Vance",
+          "character": "Haym Soloman"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with James Madison at the tavern": {
+      "name": "Visit with James Madison at the tavern",
+      "description": "Join James Madison at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Adams at the tavern": {
+      "name": "Visit with John Adams at the tavern",
+      "description": "Join John Adams at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Dickinson at the tavern": {
+      "name": "Visit with John Dickinson at the tavern",
+      "description": "Join John Dickinson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Glover at the tavern": {
+      "name": "Visit with John Glover at the tavern",
+      "description": "Join John Glover at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Luke Rader",
+          "character": "John Glover"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Hancock at the tavern": {
+      "name": "Visit with John Hancock at the tavern",
+      "description": "Join John Hancock at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": "",
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
+        }
+      ],
+      "times": [
+        {
+          "time": "3:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with John Paul Jones at the tavern": {
+      "name": "Visit with John Paul Jones at the tavern",
+      "description": "Join John Paul Jones at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Tom Wellborn",
+          "character": "John Paul Jones"
+        }
+      ],
+      "times": [
+        {
+          "time": "10:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Lt. Alexander Chesney at the tavern": {
+      "name": "Visit with Lt. Alexander Chesney at the tavern",
+      "description": "Join Lt. Alexander Chesney at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "C. David Belt",
+          "character": "Lt. Alexander Chesney"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Major Beaumont at the tavern": {
+      "name": "Visit with Major Beaumont at the tavern",
+      "description": "Join Major Beaumont at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
+        }
+      ]
+    },
+    "Visit with Nathanael Greene at the tavern": {
+      "name": "Visit with Nathanael Greene at the tavern",
+      "description": "Join Nathanael Greene at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Cameron Graham",
+          "character": "Nathanael Greene"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Patrick Henry at the tavern": {
+      "name": "Visit with Patrick Henry at the tavern",
+      "description": "Join Patrick Henry at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        }
+      ],
+      "times": [
+        {
+          "time": "2:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Peter Muhlenberg at the tavern": {
+      "name": "Visit with Peter Muhlenberg at the tavern",
+      "description": "Join Peter Muhlenberg at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "3:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Robert Morris at the tavern": {
+      "name": "Visit with Robert Morris at the tavern",
+      "description": "Join Robert Morris at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Robert Shurtliff at the tavern": {
+      "name": "Visit with Robert Shurtliff at the tavern",
+      "description": "Join Robert Shurtliff at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Kimberly Ward",
+          "character": "Robert Shurtliff"
+        }
+      ],
+      "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Roger Sherman at the tavern": {
+      "name": "Visit with Roger Sherman at the tavern",
+      "description": "Join Roger Sherman at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        }
+      ],
+      "times": [
+        {
+          "time": "11:00 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
+    "Visit with Thomas Jefferson at the tavern": {
+      "name": "Visit with Thomas Jefferson at the tavern",
+      "description": "Join Thomas Jefferson at the tavern at the tavern to discuss the day's happenings and politics.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        }
+      ],
+      "times": [
+        {
+          "time": "9:30 AM",
+          "location": "Green Dragon Tavern"
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Green Dragon Tavern"
+        }
+      ]
+    },
     "We Hold These Truths  . . .": {
       "name": "We Hold These Truths  . . .",
       "description": "Everyone knows the words, but do we know the ideas behind them? Discover the daring philosophy that transformed a colonial grievance into a blueprint for human freedom.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
