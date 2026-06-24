@@ -1615,7 +1615,7 @@
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Starts at 1:15pm",
       "people": [
         {
           "name": "Dan Maker"
@@ -1623,7 +1623,7 @@
       ],
       "times": [
         {
-          "time": "12:00 PM",
+          "time": "1:00 PM",
           "location": "Gray's Ropewalk"
         }
       ]
@@ -3508,8 +3508,8 @@
         }
       ]
     },
-    "Young Founder's Living Museum": {
-      "name": "Young Founder's Living Museum",
+    "Young Founders Living Museum": {
+      "name": "Young Founders Living Museum",
       "description": "Fifth graders become Founding Fathers &mdash; and mothers. Experience our living museum and hear history told by the voices that will carry it forward. (Thursday Only)",
       "hide": false,
       "audienceInvolved": false,
