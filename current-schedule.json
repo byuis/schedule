@@ -958,7 +958,7 @@
       "times": [
         {
           "time": "7:00 PM",
-          "location": "The Grove"
+          "location": "Continental Field"
         }
       ]
     },
@@ -1336,11 +1336,11 @@
       ],
       "times": [
         {
-          "time": "11:00 AM",
+          "time": "10:30 AM",
           "location": "Forge of Sedition"
         },
         {
-          "time": "3:30 PM",
+          "time": "3:00 PM",
           "location": "Forge of Sedition"
         }
       ]
@@ -1677,11 +1677,11 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
           "location": "Forge of Sedition"
         },
         {
-          "time": "3:00 PM",
+          "time": "3:30 PM",
           "location": "Forge of Sedition"
         }
       ]
@@ -3008,8 +3008,8 @@
         }
       ]
     },
-    "The powder Incident": {
-      "name": "The powder Incident",
+    "The Powder Incident": {
+      "name": "The Powder Incident",
       "description": "One day after Lexington and Concord, Virginia had its own powder keg moment. Discover how Governor Dunmore's midnight raid nearly ignited the Revolution.",
       "hide": false,
       "audienceInvolved": false,
