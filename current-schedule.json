@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "18th century battle field tactics": {
-      "name": "18th century battle field tactics",
+    "18th Century Battlefield Tactics": {
+      "name": "18th Century Battlefield Tactics",
       "description": "Stand your ground, hold your fire, and march straight at the enemy. Discover why 18th-century battlefield tactics were as brutal as they were brilliant.",
       "hide": false,
       "audienceInvolved": false,
@@ -26,7 +26,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -34,6 +34,10 @@
         }
       ],
       "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Liberty Tree"
+        },
         {
           "time": "1:30 PM",
           "location": "Faneuil Hall"
@@ -611,9 +615,9 @@
         }
       ]
     },
-    "American Closing Cermemony": {
-      "name": "American Closing Cermemony",
-      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.",
+    "American Closing Ceremony": {
+      "name": "American Closing Ceremony",
+      "description": "The stars and stripes take center stage as the American Army brings the festival to a triumphant and patriotic close.  Includes Cannon fire.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -954,7 +958,7 @@
       "times": [
         {
           "time": "7:00 PM",
-          "location": "The Grove"
+          "location": "Continental Field"
         }
       ]
     },
@@ -1042,7 +1046,7 @@
       "name": "Colonial School",
       "description": "Children attend school for academic, etiquette, and moral lessons of the day.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 2,
       "scheduleCount": 4,
       "additionalText": "",
@@ -1285,7 +1289,7 @@
       "times": [
         {
           "time": "12:30 PM",
-          "location": "Liberty Tree"
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -1332,11 +1336,11 @@
       ],
       "times": [
         {
-          "time": "11:00 AM",
+          "time": "10:30 AM",
           "location": "Forge of Sedition"
         },
         {
-          "time": "3:30 PM",
+          "time": "3:00 PM",
           "location": "Forge of Sedition"
         }
       ]
@@ -1451,12 +1455,28 @@
       "hide": true,
       "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 27,
+      "scheduleCount": 32,
       "additionalText": "",
       "times": [
         {
+          "time": "10:30 AM",
+          "location": "Schoolhouse"
+        },
+        {
           "time": "12:00 PM",
           "location": "Continental Field"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Liberty Tree"
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Schoolhouse"
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Schoolhouse"
         },
         {
           "time": "3:00 PM",
@@ -1465,6 +1485,10 @@
         {
           "time": "4:30 PM",
           "location": "Tour Departure"
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Schoolhouse"
         },
         {
           "time": "5:00 PM",
@@ -1653,11 +1677,11 @@
       ],
       "times": [
         {
-          "time": "10:30 AM",
+          "time": "11:00 AM",
           "location": "Forge of Sedition"
         },
         {
-          "time": "3:00 PM",
+          "time": "3:30 PM",
           "location": "Forge of Sedition"
         }
       ]
@@ -1711,7 +1735,7 @@
       "name": "Hog Thief Trial",
       "description": "Someone stole the hog &mdash; but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
@@ -1764,7 +1788,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1775,6 +1799,10 @@
         {
           "time": "10:30 AM",
           "location": "Faneuil Hall"
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Carpenters' Hall"
         }
       ]
     },
@@ -1834,7 +1862,7 @@
       ],
       "times": [
         {
-          "time": "12:30 PM",
+          "time": "1:00 PM",
           "location": "British Laundry"
         },
         {
@@ -2009,7 +2037,7 @@
       "times": [
         {
           "time": "1:00 PM",
-          "location": "Liberty Tree"
+          "location": "Schoolhouse"
         }
       ]
     },
@@ -2061,7 +2089,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2070,6 +2098,10 @@
         }
       ],
       "times": [
+        {
+          "time": "12:00 PM",
+          "location": "Carpenters' Hall"
+        },
         {
           "time": "2:30 PM",
           "location": "Liberty Tree"
@@ -2223,7 +2255,7 @@
       "times": [
         {
           "time": "4:30 PM",
-          "location": "Faneuil Hall"
+          "location": "Liberty Tree"
         }
       ]
     },
@@ -2386,8 +2418,8 @@
         }
       ]
     },
-    "Meet Robert Shurliff": {
-      "name": "Meet Robert Shurliff",
+    "Meet Robert Shurtliff": {
+      "name": "Meet Robert Shurtliff",
       "description": "Robert Shurtliff served bravely in the Continental Army &mdash; but harbored an extraordinary secret. Meet the soldier whose true identity would shock the founding era.",
       "hide": false,
       "audienceInvolved": false,
@@ -2524,7 +2556,7 @@
           "location": "Carpenters' Hall"
         },
         {
-          "time": "12:30 PM",
+          "time": "1:00 PM",
           "location": "Carpenters' Hall"
         }
       ]
@@ -2956,8 +2988,8 @@
         }
       ]
     },
-    "The language of the Fan": {
-      "name": "The language of the Fan",
+    "The Language of the Fan": {
+      "name": "The Language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
       "audienceInvolved": false,
@@ -2976,8 +3008,8 @@
         }
       ]
     },
-    "The powder Incident": {
-      "name": "The powder Incident",
+    "The Powder Incident": {
+      "name": "The Powder Incident",
       "description": "One day after Lexington and Concord, Virginia had its own powder keg moment. Discover how Governor Dunmore's midnight raid nearly ignited the Revolution.",
       "hide": false,
       "audienceInvolved": false,
@@ -3382,12 +3414,12 @@
         },
         {
           "time": "4:30 PM",
-          "location": "Liberty Tree"
+          "location": "Faneuil Hall"
         }
       ]
     },
-    "We hold these truths  . . .": {
-      "name": "We hold these truths  . . .",
+    "We Hold These Truths  . . .": {
+      "name": "We Hold These Truths  . . .",
       "description": "Everyone knows the words, but do we know the ideas behind them? Discover the daring philosophy that transformed a colonial grievance into a blueprint for human freedom.",
       "hide": false,
       "audienceInvolved": false,
@@ -3544,7 +3576,7 @@
           "location": "Liberty Tree"
         },
         {
-          "time": "4:30 PM",
+          "time": "3:30 PM",
           "location": "Schoolhouse"
         }
       ]
@@ -3583,12 +3615,12 @@
     },
     "Making Butter": {
       "name": "Making Butter",
-      "description": "Learn how to make butter. Friday & Saturday only",
+      "description": "Learn how to make butter.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
-      "additionalText": "",
+      "additionalText": "Friday & Saturday Only",
       "people": [
         {
           "name": "Marie Clyne"
@@ -3624,14 +3656,95 @@
         }
       ]
     },
-    "": {
-      "name": "",
-      "description": "",
-      "hide": "",
-      "audienceInvolved": "",
-      "personCount": "",
-      "scheduleCount": 192,
-      "additionalText": ""
+    "Hammered Dulcimer Class": {
+      "name": "Hammered Dulcimer Class",
+      "description": "Try your hand at the hammered dulcimer ? the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "Thursday Only",
+      "people": [
+        {
+          "name": "Leanne Larson"
+        }
+      ],
+      "times": [
+        {
+          "time": "7:00 PM",
+          "location": "South Meetinghouse"
+        }
+      ]
+    },
+    "Printing the Dunlap Broadside": {
+      "name": "Printing the Dunlap Broadside",
+      "description": "The Declaration is signed. Now someone must print it. Join John Dunlap as he works through the night to tell the world.  Print your own copy of the this historic document on this historic night, 250 years after the original.",
+      "hide": false,
+      "audienceInvolved": true,
+      "personCount": 8,
+      "scheduleCount": 1,
+      "additionalText": "Saturday Only",
+      "people": [
+        {
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
+        },
+        {
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Thomas Wangeman",
+          "character": "Robert Livingston"
+        },
+        {
+          "name": "Isaac Johnson",
+          "character": "John Dunlap"
+        },
+        {
+          "name": "Daniel Pugmire",
+          "character": "Charles Thomson"
+        }
+      ],
+      "times": [
+        {
+          "time": "8:00 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "Three Boxes of Freedom": {
+      "name": "Three Boxes of Freedom",
+      "description": "Three boxes stood between colonists and tyranny ? the election box, the jury box, and the cartridge box. Learn why all three still matter.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Liberty Tree"
+        }
+      ]
     }
   },
   "location": {
@@ -3958,11 +4071,14 @@
       "Military",
       "British"
     ],
-    "Marie Clyne": [
+    "John Dunlap": [
       ""
     ],
-    "Amanda Davis": [
-      ""
+    "Robert Livingston": [
+      "2nd Continenal Congress"
+    ],
+    "Charles Thomson": [
+      "2nd Continenal Congress"
     ]
   },
   "character": {
@@ -4286,33 +4402,39 @@
         "Women of the Revolution",
         "British"
       ],
-      "desc": ""
+      "desc": "An officer's wife far from England, Lady Beaumont finds her loyalties tested as the colonies she's come to love choose revolution."
     },
     "Lady Charlotte Stewart Murray, Countess of Dunmore": {
       "groups": [
         "Women of the Revolution",
         "British"
       ],
-      "desc": ""
+      "desc": "Wife of Virginia's royal governor, Lady Dunmore watched revolution dismantle her world while raising seven children far from home and friends."
     },
     "Ensign Prym": {
       "groups": [
         "Military",
         "British"
       ],
-      "desc": ""
+      "desc": "Meet Ensign Prim: a brand-new British officer whose enthusiasm for duty collides daily with the messy reality of occupying a rebellious colony."
     },
-    "Marie Clyne": {
+    "John Dunlap": {
       "groups": [
         ""
       ],
-      "desc": "Camp follower, butter maker, lucet instructor"
+      "desc": "Irish immigrant turned Philadelphia printer ? John Dunlap spent one historic night in 1776 setting the type that told the world it was free."
     },
-    "Amanda Davis": {
+    "Robert Livingston": {
       "groups": [
-        ""
+        "2nd Continenal Congress"
       ],
-      "desc": "Frontier Kitchen"
+      "desc": "Meet the New York founder who drafted the Declaration, missed signing it by days, and swore Washington in as America's first president."
+    },
+    "Charles Thomson": {
+      "groups": [
+        "2nd Continenal Congress"
+      ],
+      "desc": "Meet the man who kept Congress's records for fifteen years ? the quiet, indispensable secretary who watched every founding decision up close."
     }
   }
 }
