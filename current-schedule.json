@@ -3683,7 +3683,7 @@
       "audienceInvolved": true,
       "personCount": 8,
       "scheduleCount": 1,
-      "additionalText": "Thursday Only",
+      "additionalText": "Saturday Only",
       "people": [
         {
           "name": "Gove Allen",
@@ -3722,6 +3722,27 @@
         {
           "time": "8:00 PM",
           "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "Three Boxes of Freedom": {
+      "name": "Three Boxes of Freedom",
+      "description": "Three boxes stood between colonists and tyranny ? the election box, the jury box, and the cartridge box. Learn why all three still matter.",
+      "hide": false,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
+      "additionalText": "",
+      "people": [
+        {
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:00 PM",
+          "location": "Schoolhouse"
         }
       ]
     }
