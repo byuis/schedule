@@ -21,6 +21,23 @@ body{
 }
  
 
+  .pill-link {
+    display: inline-block;
+    background-color: #1a5c2a;
+    color: white;
+    border-radius: 9999px;
+    padding: 12px 32px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .pill-link:hover {
+    background-color: lime;
+    color:black;
+  }
+
 
 .parent {
 position: relative;
