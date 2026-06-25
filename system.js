@@ -1,6 +1,7 @@
 const scale = 1
 const map_locations={}
 let characters = null
+const defaultPin=9
 
 function colonialQuest(pins){
   place_pin(parseInt(pins[0]), true)
@@ -344,7 +345,7 @@ async function start_me_up(){
             place_tents()
         }
     }else{
-        place_pin(1)
+        place_pin(defaultPin)
         setTimeout(showMessage, 3000);
     }
     
