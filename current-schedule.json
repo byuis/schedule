@@ -49,13 +49,17 @@
       "description": "Four documents. One nation. Join Founding Father Roger Sherman as he traces the remarkable story of American liberty through history's most transformative texts.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
           "name": "Jared Rader",
           "character": "Roger Sherman"
+        },
+        {
+          "name": "Lance Jensen",
+          "character": "Marquis de Laval"
         }
       ],
       "times": [
@@ -96,13 +100,6 @@
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
-          "name": "Kim Gardner"
-        },
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
           "name": "Christina Forst",
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
@@ -111,20 +108,27 @@
           "character": "Colonel Birch"
         },
         {
-          "name": "Lindsay Weiler",
-          "character": "Lady Margaret Beaumont"
-        },
-        {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        },
-        {
           "name": "Judy Polinsky",
           "character": "Ensign Prym"
         },
         {
           "name": "Katrina Kim",
           "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
         }
       ],
       "times": [
@@ -144,27 +148,8 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Kim Gardner"
-        },
-        {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
-        },
-        {
           "name": "Christina Forst",
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
-        },
-        {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
-          "name": "Steven Leon",
-          "character": "Major Beaumont"
-        },
-        {
-          "name": "Lindsay Weiler",
-          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Doug Bingham",
@@ -173,6 +158,25 @@
         {
           "name": "Judy Polinsky",
           "character": "Ensign Prym"
+        },
+        {
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Kim Gardner"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
+        },
+        {
+          "name": "Steven Leon",
+          "character": "Major Beaumont"
         }
       ],
       "times": [
@@ -565,10 +569,10 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Jared Cornell"
+          "name": "Cameron Graham"
         },
         {
-          "name": "Cameron Graham"
+          "name": "Jared Cornell"
         }
       ],
       "times": [
@@ -596,40 +600,40 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
           "name": "Cap Caputo",
           "character": "John Hancock"
         },
         {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Elary Hall",
+          "character": "Penelope Barker"
         },
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
         },
         {
-          "name": "Elary Hall",
-          "character": "Penelope Barker"
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
         }
       ],
       "times": [
@@ -649,12 +653,8 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Jack Pauly",
-          "character": "John Adams"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
+          "name": "Ben Moulton",
+          "character": "James Madison"
         },
         {
           "name": "Benjamin Muhlestein",
@@ -665,24 +665,28 @@
           "character": "John Hancock"
         },
         {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "Ben Moulton",
-          "character": "James Madison"
+          "name": "Elary Hall",
+          "character": "Penelope Barker"
         },
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
         },
         {
-          "name": "Elary Hall",
-          "character": "Penelope Barker"
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jack Pauly",
+          "character": "John Adams"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
         }
       ],
       "times": [
@@ -706,11 +710,11 @@
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler",
-          "character": "Lady Margaret Beaumont"
+          "name": "Kathryn Taber-Garcia"
         },
         {
-          "name": "Kathryn Taber-Garcia"
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         }
       ],
       "times": [
@@ -730,10 +734,10 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Kathryn Taber-Garcia"
+          "name": "Cameron Graham"
         },
         {
-          "name": "Cameron Graham"
+          "name": "Kathryn Taber-Garcia"
         }
       ],
       "times": [
@@ -753,10 +757,10 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Nickie Allen"
+          "name": "Maria Kotter"
         },
         {
-          "name": "Maria Kotter"
+          "name": "Nickie Allen"
         }
       ],
       "times": [
@@ -805,7 +809,16 @@
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
-          "name": "Kim Gardner"
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
         },
         {
           "name": "Gregg Hardy",
@@ -820,24 +833,15 @@
           "character": "Robert Morris"
         },
         {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        },
-        {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
-        },
-        {
           "name": "Katrina Kim",
           "character": "Elizabeth Powell"
         },
         {
-          "name": "Ben Moulton",
-          "character": "James Madison"
+          "name": "Kim Gardner"
         },
         {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
         }
       ],
       "times": [
@@ -857,12 +861,16 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Katrina Kim",
-          "character": "Elizabeth Powell"
+          "name": "Ben Moulton",
+          "character": "James Madison"
         },
         {
-          "name": "Patrick Martin",
-          "character": "Billy Lee"
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
+        {
+          "name": "Cap Caputo",
+          "character": "John Hancock"
         },
         {
           "name": "Gregg Hardy",
@@ -873,23 +881,19 @@
           "character": "John Adams"
         },
         {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        },
-        {
           "name": "John Hockley",
           "character": "Robert Morris"
         },
         {
-          "name": "Ben Moulton",
-          "character": "James Madison"
+          "name": "Katrina Kim",
+          "character": "Elizabeth Powell"
         },
         {
           "name": "Kim Gardner"
         },
         {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
+          "name": "Patrick Martin",
+          "character": "Billy Lee"
         }
       ],
       "times": [
@@ -1083,25 +1087,21 @@
       "description": "6,000 French soldiers. One crucial alliance. Learn how Rochambeau's corps helped deliver the decisive blow at Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 4,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
-        {
-          "name": "Carl Wager",
-          "character": "Comte de Rochambeau"
-        },
         {
           "name": "Ashley Gephart",
           "character": "Count Von Fersen"
         },
         {
-          "name": "Robert Diaz",
-          "character": "Colonel Desandrounis"
+          "name": "Carl Wager",
+          "character": "Comte de Rochambeau"
         },
         {
-          "name": "Lance Jensen",
-          "character": "Marquis de Laval"
+          "name": "Robert Diaz",
+          "character": "Colonel Desandrounis"
         }
       ],
       "times": [
@@ -1214,10 +1214,10 @@
           "name": "Jeff Beaty"
         },
         {
-          "name": "Rowan Beaty"
+          "name": "Jo Beaty"
         },
         {
-          "name": "Jo Beaty"
+          "name": "Rowan Beaty"
         }
       ],
       "times": [
@@ -1281,33 +1281,42 @@
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 6,
+      "personCount": 9,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
         },
         {
           "name": "Benjamin Muhlestein",
           "character": "Patrick Henry"
         },
         {
-          "name": "David Woodward",
-          "character": "Peter Muhlenberg"
+          "name": "Charles Castleberry",
+          "character": "George Mason"
         },
         {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
+          "name": "David Woodward",
+          "character": "Peter Muhlenberg"
         },
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
         },
         {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
         }
       ],
       "times": [
@@ -1351,12 +1360,12 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
           "name": "Christina Forst",
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
         }
       ],
       "times": [
@@ -2115,6 +2124,10 @@
       "additionalText": "Saturday Only",
       "people": [
         {
+          "name": "Daniel Pugmire",
+          "character": "Charles Thomson"
+        },
+        {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
         },
@@ -2123,8 +2136,8 @@
           "character": "Benjamin Franklin"
         },
         {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
+          "name": "Isaac Johnson",
+          "character": "John Dunlap"
         },
         {
           "name": "Jack Pauly",
@@ -2135,16 +2148,12 @@
           "character": "Roger Sherman"
         },
         {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
           "name": "Thomas Wangeman",
           "character": "Robert Livingston"
-        },
-        {
-          "name": "Isaac Johnson",
-          "character": "John Dunlap"
-        },
-        {
-          "name": "Daniel Pugmire",
-          "character": "Charles Thomson"
         }
       ],
       "times": [
@@ -2164,20 +2173,12 @@
       "additionalText": "",
       "people": [
         {
-          "name": "Thomas Wangeman",
-          "character": "John Dickinson"
+          "name": "Cap Caputo",
+          "character": "John Hancock"
         },
         {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
-        },
-        {
-          "name": "Roger Gary",
-          "character": "Christopher Gadsden"
+          "name": "Gove Allen",
+          "character": "Isaiah Thomas"
         },
         {
           "name": "Gregg Hardy",
@@ -2188,29 +2189,37 @@
           "character": "John Adams"
         },
         {
-          "name": "Gove Allen",
-          "character": "Isaiah Thomas"
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
+        },
+        {
+          "name": "Lawrence Howard",
+          "character": "George Washington"
         },
         {
           "name": "Nate Crandall",
           "character": "Thomas Jefferson"
         },
         {
-          "name": "Jeff Beaty"
+          "name": "Roger Gary",
+          "character": "Christopher Gadsden"
         },
         {
           "name": "Rowan Beaty"
         },
         {
-          "name": "Jo Beaty"
-        },
-        {
-          "name": "Cap Caputo",
-          "character": "John Hancock"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
+          "name": "Thomas Wangeman",
+          "character": "John Dickinson"
         }
       ],
       "times": [
@@ -2334,19 +2343,19 @@
       "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
+          "name": "Brooke LaBarr"
+        },
+        {
           "name": "Christina Forst",
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler",
-          "character": "Lady Margaret Beaumont"
-        },
-        {
-          "name": "Brooke LaBarr"
-        },
-        {
           "name": "Katrina Kim",
           "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Rachel Hawks"
@@ -2369,19 +2378,19 @@
       "additionalText": "",
       "people": [
         {
+          "name": "Brooke LaBarr"
+        },
+        {
           "name": "Christina Forst",
           "character": "Lady Charlotte Stewart Murray, Countess of Dunmore"
         },
         {
-          "name": "Lindsay Weiler",
-          "character": "Lady Margaret Beaumont"
-        },
-        {
-          "name": "Brooke LaBarr"
-        },
-        {
           "name": "Katrina Kim",
           "character": "Elizabeth Powell"
+        },
+        {
+          "name": "Lindsay Weiler",
+          "character": "Lady Margaret Beaumont"
         },
         {
           "name": "Rachel Hawks"
@@ -2464,10 +2473,10 @@
           "name": "Jeff Beaty"
         },
         {
-          "name": "Rowan Beaty"
+          "name": "Jo Beaty"
         },
         {
-          "name": "Jo Beaty"
+          "name": "Rowan Beaty"
         }
       ],
       "times": [
@@ -2482,10 +2491,23 @@
       "description": "They disagreed on nearly everything &mdash; yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 7,
+      "personCount": 10,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
+        {
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
+        },
+        {
+          "name": "Benjamin Muhlestein",
+          "character": "Patrick Henry"
+        },
         {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
@@ -2495,20 +2517,16 @@
           "character": "John Adams"
         },
         {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
           "name": "Lawrence Howard",
           "character": "George Washington"
         },
         {
           "name": "Roger Gary",
           "character": "Christopher Gadsden"
-        },
-        {
-          "name": "Benjamin Muhlestein",
-          "character": "Patrick Henry"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
         },
         {
           "name": "Thomas Wangeman",
@@ -2527,17 +2545,38 @@
       "description": "Debate alongside the founders as they forge a fragile union, balancing impossible choices in hopes of securing liberty for generations to come.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 7,
+      "personCount": 10,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
+        {
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
+        },
+        {
+          "name": "Ben Moulton",
+          "character": "James Madison"
+        },
         {
           "name": "Charles Castleberry",
           "character": "George Mason"
         },
         {
-          "name": "Ben Moulton",
-          "character": "James Madison"
+          "name": "Gregg Hardy",
+          "character": "Benjamin Franklin"
+        },
+        {
+          "name": "Jared Rader",
+          "character": "Roger Sherman"
+        },
+        {
+          "name": "John Hockley",
+          "character": "Robert Morris"
         },
         {
           "name": "Lawrence Howard",
@@ -2546,18 +2585,6 @@
         {
           "name": "Thomas Wangeman",
           "character": "John Dickinson"
-        },
-        {
-          "name": "Jared Rader",
-          "character": "Roger Sherman"
-        },
-        {
-          "name": "Gregg Hardy",
-          "character": "Benjamin Franklin"
-        },
-        {
-          "name": "John Hockley",
-          "character": "Robert Morris"
         }
       ],
       "times": [
@@ -3682,37 +3709,46 @@
       "description": "Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote &mdash; and face the consequences.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 7,
+      "personCount": 10,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
-          "name": "Lawrence Howard",
-          "character": "George Washington"
+          "name": "Jeff Beaty"
+        },
+        {
+          "name": "Jo Beaty"
+        },
+        {
+          "name": "Rowan Beaty"
         },
         {
           "name": "Benjamin Muhlestein",
           "character": "Patrick Henry"
         },
         {
-          "name": "Nate Crandall",
-          "character": "Thomas Jefferson"
+          "name": "Charles Castleberry",
+          "character": "George Mason"
         },
         {
           "name": "David Woodward",
           "character": "Peter Muhlenberg"
         },
         {
-          "name": "Scott Forst",
-          "character": "Governor Dunmore"
-        },
-        {
           "name": "Gove Allen",
           "character": "Isaiah Thomas"
         },
         {
-          "name": "Charles Castleberry",
-          "character": "George Mason"
+          "name": "Lawrence Howard",
+          "character": "George Washington"
+        },
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        },
+        {
+          "name": "Scott Forst",
+          "character": "Governor Dunmore"
         }
       ],
       "times": [
