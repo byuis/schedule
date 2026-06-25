@@ -3778,13 +3778,34 @@
         }
       ]
     },
-    "": {
-      "name": "",
-      "description": "",
+    "Meet Thomas Jefferson": {
+      "name": "Meet Thomas Jefferson",
+      "description": "Virginia planter, Declaration author, and America's most complex founder ? Jefferson's genius and contradictions shaped a nation still wrestling with his legacy.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
       "scheduleCount": "",
+      "additionalText": "",
+      "people": [
+        {
+          "name": "Nate Crandall",
+          "character": "Thomas Jefferson"
+        }
+      ],
+      "times": [
+        {
+          "time": "1:30 PM",
+          "location": "Forge of Sedition"
+        }
+      ]
+    },
+    "": {
+      "name": "",
+      "description": "",
+      "hide": "",
+      "audienceInvolved": "",
+      "personCount": 1,
+      "scheduleCount": 1,
       "additionalText": ""
     }
   },
