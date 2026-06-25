@@ -1183,7 +1183,7 @@
     },
     "Hammered Dulcimer Class": {
       "name": "Hammered Dulcimer Class",
-      "description": "Try your hand at the hammered dulcimer ? the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
+      "description": "Try your hand at the hammered dulcimer &mdash; the ringing, resonant instrument that filled colonial taverns, homes, and celebrations with music.",
       "hide": false,
       "audienceInvolved": true,
       "personCount": 1,
@@ -2707,7 +2707,7 @@
     },
     "Three Boxes of Freedom": {
       "name": "Three Boxes of Freedom",
-      "description": "Three boxes stood between colonists and tyranny ? the election box, the jury box, and the cartridge box. Learn why all three still matter.",
+      "description": "Three boxes stood between colonists and tyranny &mdash; the election box, the jury box, and the cartridge box. Learn why all three still matter.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
@@ -4484,7 +4484,7 @@
       "groups": [
         ""
       ],
-      "desc": "Irish immigrant turned Philadelphia printer ? John Dunlap spent one historic night in 1776 setting the type that told the world it was free."
+      "desc": "Irish immigrant turned Philadelphia printer &mdash; John Dunlap spent one historic night in 1776 setting the type that told the world it was free."
     },
     "Robert Livingston": {
       "groups": [
@@ -4496,7 +4496,7 @@
       "groups": [
         "2nd Continenal Congress"
       ],
-      "desc": "Meet the man who kept Congress's records for fifteen years ? the quiet, indispensable secretary who watched every founding decision up close."
+      "desc": "Meet the man who kept Congress's records for fifteen years &mdash; the quiet, indispensable secretary who watched every founding decision up close."
     }
   }
 }
