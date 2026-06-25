@@ -3780,7 +3780,7 @@
     },
     "Meet Thomas Jefferson": {
       "name": "Meet Thomas Jefferson",
-      "description": "Virginia planter, Declaration author, and America's most complex founder ? Jefferson's genius and contradictions shaped a nation still wrestling with his legacy.",
+      "description": "Virginia planter, Declaration author, and America's most complex founder &mdash; Jefferson's genius and contradictions shaped a nation still wrestling with his legacy.",
       "hide": false,
       "audienceInvolved": false,
       "personCount": "",
@@ -4152,7 +4152,7 @@
         "Signers of Constitution",
         "Constitutional Convention"
       ],
-      "desc": "Printer, scientist, diplomat, and wit &emdash; Franklin charmed France into the alliance that made American independence possible."
+      "desc": "Printer, scientist, diplomat, and wit &mdash; Franklin charmed France into the alliance that made American independence possible."
     },
     "Bernardo de Galvez": {
       "groups": [
@@ -4178,7 +4178,7 @@
         "1st Continental Congress",
         "Signers of the Continental Association"
       ],
-      "desc": "South Carolina's most passionate patriot &emdash; Gadsden designed the \"Don't Tread on Me\" flag and demanded independence before almost anyone else."
+      "desc": "South Carolina's most passionate patriot &mdash; Gadsden designed the \"Don't Tread on Me\" flag and demanded independence before almost anyone else."
     },
     "Comte de Rochambeau": {
       "groups": [
@@ -4190,7 +4190,7 @@
       "groups": [
         "Women of the Revolution"
       ],
-      "desc": "Philadelphia's most brilliant hostess &emdash; she challenged Washington to stay in public life and may have changed American history."
+      "desc": "Philadelphia's most brilliant hostess &mdash; she challenged Washington to stay in public life and may have changed American history."
     },
     "Elizabeth Burgen": {
       "groups": [
@@ -4204,14 +4204,14 @@
         "2nd Continenal Congress",
         "Signers of Declaration"
       ],
-      "desc": "New Jersey's most versatile founder &emdash; artist, lawyer, musician, and poet whose genius touched every corner of the new nation."
+      "desc": "New Jersey's most versatile founder &mdash; artist, lawyer, musician, and poet whose genius touched every corner of the new nation."
     },
     "Colonel Birch": {
       "groups": [
         "British",
         "Military"
       ],
-      "desc": "Meet the British officer who gave thousands of Black Loyalists their freedom papers &emdash; one of the Revolution's more surprising acts of honor."
+      "desc": "Meet the British officer who gave thousands of Black Loyalists their freedom papers &mdash; one of the Revolution's more surprising acts of honor."
     },
     "George Washington": {
       "groups": [
@@ -4221,14 +4221,14 @@
         "Signers of Constitution",
         "Military"
       ],
-      "desc": "General, president, farmer &emdash; Washington was the one figure every founder trusted, the indispensable man of American independence."
+      "desc": "General, president, farmer &mdash; Washington was the one figure every founder trusted, the indispensable man of American independence."
     },
     "George Mason": {
       "groups": [
         "Founding Fathers",
         "Constitutional Convention"
       ],
-      "desc": "Virginia's brilliant, forgotten founder wrote the Declaration of Rights &emdash; and refused to sign the Constitution because it protected slavery."
+      "desc": "Virginia's brilliant, forgotten founder wrote the Declaration of Rights &mdash; and refused to sign the Constitution because it protected slavery."
     },
     "Governor Dunmore": {
       "groups": [
@@ -4256,7 +4256,7 @@
         "Constitutional Convention",
         "Signers of Constitution"
       ],
-      "desc": "Small in stature, enormous in intellect &emdash; Madison designed the Constitution, defended it in the Federalist Papers, and shaped American government."
+      "desc": "Small in stature, enormous in intellect &mdash; Madison designed the Constitution, defended it in the Federalist Papers, and shaped American government."
     },
     "John Adams": {
       "groups": [
@@ -4266,7 +4266,7 @@
         "Signers of Declaration",
         "Signers of the Continental Association"
       ],
-      "desc": "Stubborn, brilliant, and impossible to ignore &emdash; Adams argued America into independence and spent a lifetime defending what the founders built."
+      "desc": "Stubborn, brilliant, and impossible to ignore &mdash; Adams argued America into independence and spent a lifetime defending what the founders built."
     },
     "John Dickinson": {
       "groups": [
@@ -4278,13 +4278,13 @@
         "Military",
         "Constitutional Convention"
       ],
-      "desc": "The \"Penman of the Revolution\" argued for reconciliation but served faithfully when independence came &emdash; a man of conscience and compromise."
+      "desc": "The \"Penman of the Revolution\" argued for reconciliation but served faithfully when independence came &mdash; a man of conscience and compromise."
     },
     "John Glover": {
       "groups": [
         "Military"
       ],
-      "desc": "Massachusetts fisherman whose Marblehead regiment ferried Washington's army across the Delaware &emdash; making the Trenton surprise possible."
+      "desc": "Massachusetts fisherman whose Marblehead regiment ferried Washington's army across the Delaware &mdash; making the Trenton surprise possible."
     },
     "John Hancock": {
       "groups": [
@@ -4311,13 +4311,13 @@
         "British",
         "Military"
       ],
-      "desc": "Through Major Beaumont's eyes, experience the Revolution from the other side &emdash; professional, principled, and far from home."
+      "desc": "Through Major Beaumont's eyes, experience the Revolution from the other side &mdash; professional, principled, and far from home."
     },
     "Mercy Otis Warren": {
       "groups": [
         "Women of the Revolution"
       ],
-      "desc": "Massachusetts playwright and historian whose sharp pen mocked British tyranny &emdash; and whose history of the Revolution shaped American memory."
+      "desc": "Massachusetts playwright and historian whose sharp pen mocked British tyranny &mdash; and whose history of the Revolution shaped American memory."
     },
     "Ona Judge": {
       "groups": [
@@ -4338,7 +4338,7 @@
         "Signers of the Continental Association",
         "Military"
       ],
-      "desc": "Virginia's great orator &emdash; \"Give me liberty or give me death!\" &emdash; Henry's voice ignited a revolution and shaped the American conscience."
+      "desc": "Virginia's great orator &mdash; \"Give me liberty or give me death!\" &mdash; Henry's voice ignited a revolution and shaped the American conscience."
     },
     "Peter Muhlenberg": {
       "groups": [
@@ -4346,7 +4346,7 @@
         "1st Continental Congress",
         "Signers of the Continental Association"
       ],
-      "desc": "Lutheran pastor who shed his clerical robes mid-sermon to reveal a Continental uniform &emdash; then marched three hundred men to war."
+      "desc": "Lutheran pastor who shed his clerical robes mid-sermon to reveal a Continental uniform &mdash; then marched three hundred men to war."
     },
     "Robert Morris": {
       "groups": [
@@ -4356,13 +4356,13 @@
         "Constitutional Convention",
         "Signers of Constitution"
       ],
-      "desc": "The Revolution's banker &emdash; Morris used his personal fortune to keep Washington's army supplied when Congress could not or would not."
+      "desc": "The Revolution's banker &mdash; Morris used his personal fortune to keep Washington's army supplied when Congress could not or would not."
     },
     "Robert Shurtliff": {
       "groups": [
         "Military"
       ],
-      "desc": "He was a good soldier &emdash; until the army discovered \"he\" was a woman named Deborah Sampson who had fooled everyone for two years."
+      "desc": "He was a good soldier &mdash; until the army discovered \"he\" was a woman named Deborah Sampson who had fooled everyone for two years."
     },
     "Roger Sherman": {
       "groups": [
@@ -4374,7 +4374,7 @@
         "Signers of the Continental Association",
         "Constitutional Convention"
       ],
-      "desc": "Connecticut cobbler turned statesman &emdash; the only founder to sign all four of America's founding documents, from the Articles to the Constitution."
+      "desc": "Connecticut cobbler turned statesman &mdash; the only founder to sign all four of America's founding documents, from the Articles to the Constitution."
     },
     "Ruth Harrington": {
       "groups": [
@@ -4392,7 +4392,7 @@
       "groups": [
         "Women of the Revolution"
       ],
-      "desc": "Paul Revere's ride was famous. Sybil Ludington's was twice as long &emdash; made by a sixteen-year-old girl on a rainy night."
+      "desc": "Paul Revere's ride was famous. Sybil Ludington's was twice as long &mdash; made by a sixteen-year-old girl on a rainy night."
     },
     "Thomas Jefferson": {
       "groups": [
@@ -4400,7 +4400,7 @@
         "2nd Continenal Congress",
         "Signers of Declaration"
       ],
-      "desc": "Architect of American ideals, Jefferson's words launched a nation. His contradictions &emdash; slaveholder and freedom's champion &emdash; still echo today."
+      "desc": "Architect of American ideals, Jefferson's words launched a nation. His contradictions &mdash; slaveholder and freedom's champion &mdash; still echo today."
     },
     "Nathanael Greene": {
       "groups": [
@@ -4419,13 +4419,13 @@
       "groups": [
         "Military"
       ],
-      "desc": "Connecticut private who left the most vivid memoir of the Revolution &emdash; cold, hungry, and faithful, he saw the war from the bottom up."
+      "desc": "Connecticut private who left the most vivid memoir of the Revolution &mdash; cold, hungry, and faithful, he saw the war from the bottom up."
     },
     "Colonel Desandrounis": {
       "groups": [
         "Military"
       ],
-      "desc": "French military engineer who helped design the siege works at Yorktown &emdash; the technical genius whose fortifications made Cornwallis's surrender inevitable."
+      "desc": "French military engineer who helped design the siege works at Yorktown &mdash; the technical genius whose fortifications made Cornwallis's surrender inevitable."
     },
     "Count Von Fersen": {
       "groups": [
@@ -4443,7 +4443,7 @@
       "groups": [
         "Women of the Revolution"
       ],
-      "desc": "Fifty-one women signed her proclamation. Barker's Edenton Tea Party proved colonial women had political opinions &emdash; and the courage to act."
+      "desc": "Fifty-one women signed her proclamation. Barker's Edenton Tea Party proved colonial women had political opinions &mdash; and the courage to act."
     },
     "Deborah Sampson": {
       "groups": [
@@ -4457,7 +4457,7 @@
         "Military",
         "British"
       ],
-      "desc": "Meet the man who surrendered the British army at Yorktown &emdash; with one last diplomatic flourish that Washington quietly and firmly rejected."
+      "desc": "Meet the man who surrendered the British army at Yorktown &mdash; with one last diplomatic flourish that Washington quietly and firmly rejected."
     },
     "Lady Margaret Beaumont": {
       "groups": [
