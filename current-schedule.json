@@ -50,7 +50,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -91,7 +91,7 @@
       "description": "Taste a traditional colonial drink, breads and jellies while you discuss happenings in the rebellious colonies with those loyal to the crown.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 1,
+      "personCount": 8,
       "scheduleCount": 1,
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
@@ -186,8 +186,8 @@
       "name": "British Children's Militia",
       "description": "The Crown's youngest soldiers are ready for inspection &mdash; cheer on the British Children's Militia as they drill with pride and precision.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 8,
+      "audienceInvolved": true,
+      "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -230,7 +230,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -254,8 +254,8 @@
       "description": "Watch British military demonstrate offensive and defensive techniques.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -287,7 +287,7 @@
       "description": "It's older than the Revolution and harder than it looks. Watch a skilled artisan craft a broom using the same techniques colonial Americans relied on daily.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -315,8 +315,8 @@
       "description": "Beginners use pencil to learn the basic strokes that form 18th century script.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 3,
+      "personCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -362,7 +362,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -395,7 +395,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 3,
+      "scheduleCount": 1,
       "additionalText": "Friday Only",
       "people": [
         {
@@ -418,7 +418,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -444,7 +444,7 @@
       "description": "Behind the battles was a shadow economy. Uncover the covert trade networks and financial schemes that kept the American Revolution alive.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -469,7 +469,7 @@
       "description": "Enjoy some of the lesser-known songs of the American colonial era.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -498,7 +498,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 2,
-      "scheduleCount": 2,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -532,8 +532,8 @@
       "description": "Feel the ground shake as Continental artillery roars to life &mdash; a thunderous demonstration of the firepower that turned the tide of revolution.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 4,
+      "personCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -560,7 +560,7 @@
       "description": "Watch Continental soldiers and militia unite to drill and fire muskets in a thrilling demonstration of the military force that won American independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 3,
       "additionalText": "",
       "people": [
@@ -591,8 +591,8 @@
       "description": "Hear the Declaration of Independence as read by Founding Fathers and others affected by its ideas. Ask a founder a question.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 9,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -697,7 +697,7 @@
       "description": "From stays to silk &mdash; join Lady Dunmore as she dresses for the day and uncovers the elaborate world of colonial fashion, layer by layer.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 9,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -725,7 +725,7 @@
       "description": "A review of the layers of clothing that a working-class colonial couple would wear.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
+      "personCount": 2,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -749,7 +749,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 2,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -775,7 +775,7 @@
       "description": "The ink was barely dry before it changed the world. Discover the fascinating story behind the early printings of the Declaration of Independence.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
+      "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
       "people": [
@@ -800,8 +800,8 @@
       "description": "Taste a traditional colonial drink, biscuits and tarts while you sit and visit with the founders about the ideas of the revolution.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 9,
+      "scheduleCount": 1,
       "additionalText": "Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
@@ -904,8 +904,8 @@
       "description": "This venue is vacant becuase of an nearby activity that competes",
       "hide": true,
       "audienceInvolved": false,
-      "personCount": 9,
-      "scheduleCount": 1,
+      "personCount": "",
+      "scheduleCount": 32,
       "additionalText": "",
       "times": [
         {
@@ -1041,10 +1041,10 @@
     "Fan Painting Class": {
       "name": "Fan Painting Class",
       "description": "Fans weren't just for cooling off &mdash; they were colonial art. Join this charming class and paint your own piece of 18th-century elegance to take home.",
-      "hide": true,
+      "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 32,
+      "personCount": 1,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1083,7 +1083,7 @@
       "description": "6,000 French soldiers. One crucial alliance. Learn how Rochambeau's corps helped deliver the decisive blow at Yorktown.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 4,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1116,8 +1116,8 @@
       "description": "It began with a stamp and ended with a revolution. Follow the remarkable chain of events that transformed loyal British subjects into American patriots.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 4,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1142,7 +1142,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1163,7 +1163,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1187,7 +1187,7 @@
       "hide": false,
       "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1205,8 +1205,8 @@
       "name": "Hog Thief Trial",
       "description": "Someone stole the hog &mdash; but who? Take your seat on the jury, hear the evidence, and deliver your verdict in this rowdy colonial courtroom!",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
+      "audienceInvolved": true,
+      "personCount": 3,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -1232,8 +1232,8 @@
       "description": "Before the Revolution came an idea. Discover the philosophy of Natural Law &mdash; the intellectual spark that convinced the founders they had every right to rebel.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 3,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1256,7 +1256,7 @@
       "name": "Learn about Henry Knox",
       "description": "From Boston bookshop to battlefield hero &mdash; discover how Henry Knox taught himself artillery from books and became Washington's most indispensable general.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 2,
       "additionalText": "",
@@ -1281,8 +1281,8 @@
       "description": "Patrick Henry demands liberty or death. Washington and Jefferson weigh the consequences. As a Virginia delegate, YOUR vote will determine the colony's fate.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 6,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1322,8 +1322,8 @@
       "description": "Clean clothes in colonial America came at a price &mdash; hours of back-breaking labor. Watch a live demonstration of the skills that kept the Revolution looking sharp.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 6,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1346,8 +1346,8 @@
       "description": "Behind the politics and controversy, a family called Virginia home. Share a parlor visit with Lord and Lady Dunmore in their elegant world.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -1379,8 +1379,8 @@
       "description": "Learn to work this ancient tool to make cord for laces, draw-strings, etc.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 3,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1403,8 +1403,8 @@
       "description": "He wrote the Constitution. Patrick Henry hated it. Watch James Madison defend his masterpiece against Virginia's most passionate and fiery orator.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "personCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1428,9 +1428,9 @@
       "description": "Learn how to make butter.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
-      "additionalText": "",
+      "personCount": 1,
+      "scheduleCount": 2,
+      "additionalText": "Friday & Saturday Only",
       "people": [
         {
           "name": "Marie Clyne"
@@ -1453,7 +1453,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1495,7 +1495,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1520,7 +1520,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1583,7 +1583,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1608,7 +1608,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1671,7 +1671,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1696,7 +1696,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1759,7 +1759,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1809,7 +1809,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1851,7 +1851,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -1876,7 +1876,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -1939,8 +1939,8 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
-      "additionalText": "Friday and Saturday Only",
+      "scheduleCount": 2,
+      "additionalText": "",
       "people": [
         {
           "name": "Dalane England",
@@ -1988,9 +1988,9 @@
       "description": "Discover how the founders danced &mdash; a captivating demonstration of the minuet, the fashionable step that graced every colonial ballroom.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 2,
-      "additionalText": "",
+      "additionalText": "Friday and Saturday Only",
       "people": [
         {
           "name": "Brooke Shaw"
@@ -2014,9 +2014,9 @@
       "name": "Morning Toilette",
       "description": "Getting dressed in the 18th century was no simple task. Experience the fascinating morning routines that defined style, status, and society in colonial America.",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 2,
-      "scheduleCount": 2,
+      "audienceInvolved": false,
+      "personCount": 1,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2034,9 +2034,9 @@
       "name": "Naval Recruitment",
       "description": "Sign to sail aboard John Paul Jones' Ranger to take the fight to England. ",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -2065,7 +2065,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 3,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2088,9 +2088,9 @@
       "name": "Piracy Trial",
       "description": "In this Admiralty Court, will we hang another pirate or convict a smuggler?",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2108,11 +2108,11 @@
     "Printing the Dunlap Broadside": {
       "name": "Printing the Dunlap Broadside",
       "description": "The Declaration is signed. Now someone must print it. Join John Dunlap as he works through the night to tell the world.  Print your own copy of the this historic document on this historic night, 250 years after the original.",
-      "hide": true,
+      "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 8,
       "scheduleCount": 1,
-      "additionalText": "",
+      "additionalText": "Saturday Only",
       "people": [
         {
           "name": "Gove Allen",
@@ -2158,8 +2158,8 @@
       "name": "Redress or Revolution: You Decide the Fate of the Colonies",
       "description": "It's 1775 and the colonies are at a crossroads. Take your seat in Congress, hear the debate, and cast the vote that decides America's fate.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 8,
+      "audienceInvolved": true,
+      "personCount": 13,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2224,10 +2224,10 @@
       "name": "Reveille with the King's Forces",
       "description": "The King's forces begin their duty day with morning assembly, roll call, and posting the Colour. ",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 13,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
+      "additionalText": "",
       "people": [
         {
           "name": "Radford Polinsky",
@@ -2244,9 +2244,9 @@
     "Revolution from the \"Billy\" point of view": {
       "name": "Revolution from the \"Billy\" point of view",
       "description": "One served beside Washington in bondage. One fought beside him as a free man. Hear Billy Lee and Billy Flora tell the stories history almost forgot.",
-      "hide": true,
+      "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": 2,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2269,10 +2269,10 @@
     "Setup / Takedown": {
       "name": "Setup / Takedown",
       "description": "Time reserved for setting up or cleaning up",
-      "hide": false,
+      "hide": true,
       "audienceInvolved": false,
-      "personCount": 2,
-      "scheduleCount": 1,
+      "personCount": "",
+      "scheduleCount": 7,
       "additionalText": "",
       "times": [
         {
@@ -2308,10 +2308,10 @@
     "Shut-the-Box": {
       "name": "Shut-the-Box",
       "description": "Enter a tournament playing a popular game of chance and skill for a prize.",
-      "hide": true,
-      "audienceInvolved": true,
+      "hide": false,
+      "audienceInvolved": false,
       "personCount": "",
-      "scheduleCount": 7,
+      "scheduleCount": 2,
       "additionalText": "",
       "times": [
         {
@@ -2329,9 +2329,9 @@
       "description": "Sip chocolate with Lady Dunmore and weigh in &mdash; should Virginia stand with Boston under the Intolerable Acts, or stay loyal to the Crown?  Sorry, gents, this is a ladies-only event.",
       "hide": false,
       "audienceInvolved": true,
-      "personCount": "",
-      "scheduleCount": 2,
-      "additionalText": "",
+      "personCount": 5,
+      "scheduleCount": 1,
+      "additionalText": "Women Only. Must be 16 or older.  Donations Strongly Encouraged",
       "people": [
         {
           "name": "Christina Forst",
@@ -2362,8 +2362,8 @@
     "Sipping Chocolate and Spilling Tea continued": {
       "name": "Sipping Chocolate and Spilling Tea continued",
       "description": "Sipping Chocolate will last 45 minutes",
-      "hide": false,
-      "audienceInvolved": true,
+      "hide": true,
+      "audienceInvolved": false,
       "personCount": 5,
       "scheduleCount": 1,
       "additionalText": "",
@@ -2399,8 +2399,8 @@
       "description": "Learn how to make soap.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 5,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 4,
       "additionalText": "",
       "people": [
         {
@@ -2432,7 +2432,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 4,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2455,9 +2455,9 @@
       "name": "Tea Tax Debate",
       "description": "The tea sits in the harbor &mdash; will you pay the tax or dump it? Jump into this heated colonial debate and shape the outcome!",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 2,
+      "audienceInvolved": true,
+      "personCount": 3,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2481,8 +2481,8 @@
       "name": "The Continental Association: What was the Cost of Unity?",
       "description": "They disagreed on nearly everything &mdash; yet signed one sweeping agreement. Explore the remarkable sacrifices that made colonial unity possible in 1774.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": 3,
+      "audienceInvolved": true,
+      "personCount": 7,
       "scheduleCount": 1,
       "additionalText": "",
       "people": [
@@ -2526,7 +2526,7 @@
       "name": "The Convention and the 3/5 clause",
       "description": "Debate alongside the founders as they forge a fragile union, balancing impossible choices in hopes of securing liberty for generations to come.",
       "hide": false,
-      "audienceInvolved": false,
+      "audienceInvolved": true,
       "personCount": 7,
       "scheduleCount": 1,
       "additionalText": "",
@@ -2567,13 +2567,13 @@
         }
       ]
     },
-    "The Dark times of 1776": {
-      "name": "The Dark times of 1776",
+    "The Dark Times of 1776": {
+      "name": "The Dark Times of 1776",
       "description": "In 1776, the Revolution nearly died. Meet John Glover &mdash; the Marblehead mariner whose men pulled Washington back from the brink of total defeat.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 7,
-      "scheduleCount": 1,
+      "personCount": 1,
+      "scheduleCount": 2,
       "additionalText": "",
       "people": [
         {
@@ -2620,9 +2620,9 @@
       "name": "The Language of the Fan",
       "description": "In colonial society, a fan spoke volumes. Uncover the hidden messages behind every fold and gesture of this elegant secret language.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 2,
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2747,7 +2747,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -2777,7 +2777,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2903,7 +2903,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": "",
       "additionalText": "",
       "people": [
         {
@@ -2918,7 +2918,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -2958,7 +2958,7 @@
       "name": "Tour with Robert Morris",
       "description": "Join Robert Morris on a village tour and observe the day's business.",
       "hide": false,
-      "audienceInvolved": true,
+      "audienceInvolved": false,
       "personCount": 1,
       "scheduleCount": 1,
       "additionalText": "",
@@ -3044,7 +3044,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
+      "scheduleCount": 3,
       "additionalText": "",
       "people": [
         {
@@ -3357,7 +3357,7 @@
       "description": "Join John Hancock at the tavern at the tavern to discuss the day's happenings and politics.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": "",
+      "personCount": 1,
       "scheduleCount": "",
       "additionalText": "",
       "people": [
@@ -3619,7 +3619,7 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": "",
+      "scheduleCount": 1,
       "additionalText": "",
       "people": [
         {
@@ -3639,8 +3639,8 @@
       "hide": false,
       "audienceInvolved": false,
       "personCount": 1,
-      "scheduleCount": 1,
-      "additionalText": "Friday & Saturday Only",
+      "scheduleCount": 2,
+      "additionalText": "",
       "people": [
         {
           "name": "Gove Allen",
@@ -3663,7 +3663,7 @@
       "description": "Step into a frontier kitchen and discover what it really took to put food on the table.",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
+      "personCount": "",
       "scheduleCount": 2,
       "additionalText": "",
       "times": [
@@ -3679,12 +3679,12 @@
     },
     "Will Virginia Defy the Crown? You Decide": {
       "name": "Will Virginia Defy the Crown? You Decide",
-      "description": " Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote &mdash; and face the consequences.",
+      "description": "Parliament has punished Boston. Now Virginia must choose sides. Join the House of Burgesses, hear the debate, cast your vote &mdash; and face the consequences.",
       "hide": false,
-      "audienceInvolved": false,
-      "personCount": "",
-      "scheduleCount": 2,
-      "additionalText": "Thursday Only",
+      "audienceInvolved": true,
+      "personCount": 7,
+      "scheduleCount": 1,
+      "additionalText": "",
       "people": [
         {
           "name": "Lawrence Howard",
@@ -3726,10 +3726,10 @@
       "name": "Young Founders Living Museum",
       "description": "Fifth graders become Founding Fathers &mdash; and mothers. Experience our living museum and hear history told by the voices that will carry it forward. (Thursday Only)",
       "hide": false,
-      "audienceInvolved": true,
-      "personCount": 7,
+      "audienceInvolved": false,
+      "personCount": 1,
       "scheduleCount": 1,
-      "additionalText": "Saturday Only",
+      "additionalText": "Thursday Only",
       "people": [
         {
           "name": "Elary Hall"
@@ -3747,8 +3747,8 @@
       "description": "",
       "hide": false,
       "audienceInvolved": false,
-      "personCount": 1,
-      "scheduleCount": 1,
+      "personCount": "",
+      "scheduleCount": "",
       "additionalText": ""
     }
   },
