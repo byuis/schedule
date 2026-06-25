@@ -11,8 +11,9 @@
     <script>
 function make_map(){
 
+    
+add_area('22,634,150,651','277','939',"Gift Shop, Lost & Found")
 add_area('22,515,85,530','176','747',"Print Shop")
-
 add_area('21,531,114,548','149','687',"Forge of Sedition")
 add_area('19,546,94,560','184','651',"Bookbinding")
 add_area('22,561,92,575','219','681',"Calligraphy")
@@ -149,23 +150,15 @@ function place_tents(){
             <div style="display:none;text-align:center">
                 <a href="large-map.png" target="_blank">View High-Resolution Map</a>
             </div>
-            <table align="center" style="margin-top:1rem">
-                <tr>
-                    <td align="center">
-                        <a href="kids.html" class="pill-link">Kids Activities</a>
-                    </td>              
-                    <td align="center">
-                        <a href="https://pay.colonialheritage.org" class="pill-link">Donate</a>
-                    </td>    
-                    <td align="center">
-                        <a href="https://festival.colonialheritage.org/2025/07/help2.html" class="pill-link">Volunteer</a>
-                    </td>
-                    <td align="center">
-                        <a href="https://links.colonialheritage.org" class="pill-link">Other Links</a>
-                    </td>
-                </tr>
-            <table>    
-            <!--a  href="current.pdf" style="font-size:3rem;font-family:  Tahoma, Verdana, Segoe, sans-serif;">PDF version of this schedule</a-->
+            <div style="display:flex; justify-content:center; gap:1rem; margin-top:1rem">
+                <a href="kids.html" class="pill-link">Kids Activities</a>
+                <a href="https://pay.colonialheritage.org" class="pill-link">Donate</a>
+                <a href="https://festival.colonialheritage.org/2025/07/help2.html" class="pill-link">Volunteer</a>
+                <a href="https://links.colonialheritage.org" class="pill-link">Other Links</a>
+            </div>
+            <div style="margin-top:1rem">
+            <a  href="event-guide-current.pdf" style="font-size:2rem;font-family:  Tahoma, Verdana, Segoe, sans-serif;">PDF version of this schedule</a>
+            </div>
             <div style="margin:1rem;zoom:300%;font-family:  Tahoma, Verdana, Segoe, sans-serif;">Filter
             <select id="filter" onchange="filterSchedule(this.value)">
                 <option value="full">Full Schedule</option>

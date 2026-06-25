@@ -162,7 +162,7 @@ function filterSchedule(filter){
     
     //console.log("filter=", filter)
     if(filter==="full"){
-        for(row of document.querySelectorAll("tr")){
+        for(row of document.querySelectorAll("#schedule-table tbody tr")){
             row.style.display=""
         }
         return
