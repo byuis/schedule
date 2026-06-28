@@ -120,10 +120,68 @@ function place_well(){
     place_pins("Ice Water",[['69','198'],['340','167'],['418','420'],['524','730'],['755','677'],['737','1027'],['520','992'],['237','800']])
 }
 
-}        
+}     
+   
+function place_barrels(){
+    place_pins("1 half-barrel (galvanized hoops)",[
+        [339,166], //american camp water
+        [69,200], // chocolate water
+        [523,731],// mayflower water
+        [755,679],// british water
+        [736,1027], // frontier water
+        [521,996], // schoolhouse water
+        
+        [533,1115]], false)
+    
+    place_pins("2 half-barrels (galvanized hoops)",[[239,803],[417,423]], false)
+    
+    place_pins("1 half-barrel (rusty hoops)",[
+        [745,933], // fiber
+        [375,577], // cider
+        [504,1165],// cheese maker
+        [533,1115],//baker
+        [583,949], //chandlery
+      ], false)
+    place_pins("2 half-barrels (rusty hoops)",[[807,964],[547,1045]], false)
+
+    
+    place_pins("2 Extra-large half-barrels",[[200,709]], false)
+}     
+   
+function place_chairs(){
+    place_pins("24 chairs with blue cushions",[[149,685]], false)
+    place_pins("24 chairs with mauve cushions",[[469,667],[703,999]], false)
+    place_pins("All Light-blue benches",[[562,937]], false)
+    place_pins("6 dark-blue box benches",[[45,383]], false)
+    place_pins("All unfinished benches",[[482,413]], false)
+    place_pins("32 18th-century chairs",[[432,273]], false)
+}     
+   
+function place_tables(){
+    place_pins("1 8-foot table",[[502,1168],[814,701],[547,799],[48,236]], false)
+    place_pins("2 8-foot tables",[[277,939],[298,1081],[577,766],[435,273]], false)
+    place_pins("3 8-foot tables",[[789,1014],[788,1016]], false)
+    place_pins("4 8-foot tables",[[523,701],[482,150]], false)
+//    place_pins("5 8-foot tables",[[]], false)
+    place_pins("6 8-foot tables",[[549,1043],[641,1103]], false)
+//    place_pins("7 8-foot tables",[[]], false)
+//    place_pins("8 8-foot tables",[[]], false)
+    place_pins("2 8-foot adjustable tables",[[579,1016]], false)
+
+    place_pins("6 picnic tables",[[602,1100]], false)
+
+    place_pins("1 6-foot table",[[885,700],[469,1113],[162,1056],[537,292]], false)
+
+    place_pins("7 dining-room tables",[[432,273]], false)
+    
+
+}     
+   
 function place_tents(){
-    place_pins("20x20 Vinyl Tent",[[394,428],[169,303],[753,167],[558,455],[569,488],[634,246],[806,544],[1138,475],[660,315],[716,143]])
-    place_pins("Hex-a-Tent",[[293,428]], false)
+    place_pins("20x20 Vinyl Tent",[[642,1102],[786,1013],[703,998],[579,765],[523,701],[481,152],[44,193],[46,381],[185,652],[547,799]])
+    place_pins("Hex-a-Tent",[[480,412]], false)
+    place_pins("10x20 Allen Tent",[[491,551]], false)
+    place_pins("20x20 Allen Tent",[[527,550],[530,1115],[174,745]], false)
 }    </script>    
 <body onload="start_me_up()" onclick="hideMessage()">
     

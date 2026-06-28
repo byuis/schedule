@@ -36,7 +36,7 @@
         }
         function showCoords(evt){
             console.log()
-            document.getElementById("coords").replaceChildren(evt.clientX+","+evt.clientY)
+            document.getElementById("coords").replaceChildren(evt.clientY+","+evt.clientX)
         }
         function copyCoords(evt){
             if(evt.code==="KeyC" && evt.ctrlKey===true){

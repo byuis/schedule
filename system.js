@@ -341,9 +341,8 @@ async function start_me_up(){
     }else if(params.get("quest")){
         colonialQuest(params.get("quest").split("-"))
     }else if(params.get("show")){
-        if(params.get("show")==="tents"){
-            place_tents()
-        }
+        window["place_"+params.get("show")]()
+        console.log("placing",params.get("show") )
     }else{
         place_pin(defaultPin)
         setTimeout(showMessage, 3000);
